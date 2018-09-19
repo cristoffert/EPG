@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Caza y Pesca">
+    <display-name lang="es">ES: Caza y Pesca FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Stingray Classica">
+    <display-name lang="es">ES: Classica</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Eurosport HDTV (Spain)">
+    <display-name lang="es">ES: Eurosport 1 FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Eurosport 2 HDTV (Spain)">
+    <display-name lang="es">ES: Eurosport 2 HD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Canal Hollywood (Spain)">
+    <display-name lang="es">ES: Hollywood FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Movistar Acción HDTV (Spain)">
+    <display-name lang="es">ES: Movistar  Accion FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Movistar Comedia HDTV (Spain)">
+    <display-name lang="es">ES: Movistar  Comedia FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="Sundance HDTV">
+    <display-name lang="es">ES: Sundance TV</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <channel id="TCM - Turner Classic Movies HDTV (Spain)">
+    <display-name lang="es">ES: TCM FHD</display-name>
+    <url>http://www.espana.yo</url>
+  </channel>
+  <programme start="20180917050000 -0300" stop="20180917053000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carpas y barbos en superficie</title>
+  </programme>
+  <programme start="20180917053000 -0300" stop="20180917063000 -0300" channel="Caza y Pesca">
+    <title lang="es">Chasing Monsters</title>
+  </programme>
+  <programme start="20180917063000 -0300" stop="20180917070000 -0300" channel="Caza y Pesca">
+    <title lang="es">Safari season</title>
+  </programme>
+  <programme start="20180917070000 -0300" stop="20180917073000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180917073000 -0300" stop="20180917080000 -0300" channel="Caza y Pesca">
+    <title lang="es">Lances perdidos en el Pallars Sobirà (2016)</title>
+  </programme>
+  <programme start="20180917080000 -0300" stop="20180917083000 -0300" channel="Caza y Pesca">
+    <title lang="es">En el corazón de la caza</title>
+  </programme>
+  <programme start="20180917083000 -0300" stop="20180917090000 -0300" channel="Caza y Pesca">
+    <title lang="es">El Vicario y sus gentes (2018)</title>
+  </programme>
+  <programme start="20180917090000 -0300" stop="20180917093000 -0300" channel="Caza y Pesca">
+    <title lang="es">Corcho para las viejas majoreras (2018)</title>
+  </programme>
+  <programme start="20180917093000 -0300" stop="20180917100000 -0300" channel="Caza y Pesca">
+    <title lang="es">Hermanados por la caza</title>
+  </programme>
+  <programme start="20180917100000 -0300" stop="20180917103000 -0300" channel="Caza y Pesca">
+    <title lang="es">Hunters Magazine</title>
+  </programme>
+  <programme start="20180917103000 -0300" stop="20180917110000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pura mosca</title>
+  </programme>
+  <programme start="20180917110000 -0300" stop="20180917120000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pacific warriors</title>
+  </programme>
+  <programme start="20180917120000 -0300" stop="20180917123000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180917123000 -0300" stop="20180917133000 -0300" channel="Caza y Pesca">
+    <title lang="es">De viaje</title>
+  </programme>
+  <programme start="20180917133000 -0300" stop="20180917140000 -0300" channel="Caza y Pesca">
+    <title lang="es">Fincas con solera</title>
+  </programme>
+  <programme start="20180917140000 -0300" stop="20180917150000 -0300" channel="Caza y Pesca">
+    <title lang="es">Veda abierta</title>
+  </programme>
+  <programme start="20180917150000 -0300" stop="20180917153000 -0300" channel="Caza y Pesca">
+    <title lang="es">Torcaces: Más allá de los límites</title>
+  </programme>
+  <programme start="20180917153000 -0300" stop="20180917160000 -0300" channel="Caza y Pesca">
+    <title lang="es">Desde Italia con amour (2017)</title>
+  </programme>
+  <programme start="20180917160000 -0300" stop="20180917163000 -0300" channel="Caza y Pesca">
+    <title lang="es">Tras la ruta de la viajera (2018)</title>
+  </programme>
+  <programme start="20180917163000 -0300" stop="20180917170000 -0300" channel="Caza y Pesca">
+    <title lang="es">Ayer y hoy de la torcaz (2018)</title>
+  </programme>
+  <programme start="20180917170000 -0300" stop="20180917173000 -0300" channel="Caza y Pesca">
+    <title lang="es">Escenarios de pesca</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917183000 -0300" channel="Caza y Pesca">
+    <title lang="es">Al acecho</title>
+  </programme>
+  <programme start="20180917183000 -0300" stop="20180917190000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carp Wars</title>
+  </programme>
+  <programme start="20180917190000 -0300" stop="20180917200000 -0300" channel="Caza y Pesca">
+    <title lang="es">De viaje</title>
+  </programme>
+  <programme start="20180917200000 -0300" stop="20180917210000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pacific warriors</title>
+  </programme>
+  <programme start="20180917210000 -0300" stop="20180917213000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180917213000 -0300" stop="20180917223000 -0300" channel="Caza y Pesca">
+    <title lang="es">De viaje</title>
+  </programme>
+  <programme start="20180917223000 -0300" stop="20180917230000 -0300" channel="Caza y Pesca">
+    <title lang="es">Fincas con solera</title>
+  </programme>
+  <programme start="20180917230000 -0300" stop="20180918000000 -0300" channel="Caza y Pesca">
+    <title lang="es">Veda abierta</title>
+  </programme>
+  <programme start="20180918000000 -0300" stop="20180918003000 -0300" channel="Caza y Pesca">
+    <title lang="es">Torcaces: Más allá de los límites</title>
+  </programme>
+  <programme start="20180918003000 -0300" stop="20180918010000 -0300" channel="Caza y Pesca">
+    <title lang="es">Desde Italia con amour (2017)</title>
+  </programme>
+  <programme start="20180918010000 -0300" stop="20180918013000 -0300" channel="Caza y Pesca">
+    <title lang="es">Tras la ruta de la viajera (2018)</title>
+  </programme>
+  <programme start="20180918013000 -0300" stop="20180918020000 -0300" channel="Caza y Pesca">
+    <title lang="es">Ayer y hoy de la torcaz (2018)</title>
+  </programme>
+  <programme start="20180918020000 -0300" stop="20180918023000 -0300" channel="Caza y Pesca">
+    <title lang="es">Escenarios de pesca</title>
+  </programme>
+  <programme start="20180918023000 -0300" stop="20180918030000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carp Wars</title>
+  </programme>
+  <programme start="20180918030000 -0300" stop="20180918033000 -0300" channel="Caza y Pesca">
+    <title lang="es">Grandes antílopes de la sabana (2018)</title>
+  </programme>
+  <programme start="20180918033000 -0300" stop="20180918040000 -0300" channel="Caza y Pesca">
+    <title lang="es">Sensaciones a pie de puesto</title>
+  </programme>
+  <programme start="20180918040000 -0300" stop="20180918050000 -0300" channel="Caza y Pesca">
+    <title lang="es">De viaje</title>
+  </programme>
+  <programme start="20180918050000 -0300" stop="20180918053000 -0300" channel="Caza y Pesca">
+    <title lang="es">Gestión corcera en Burgos (2018)</title>
+  </programme>
+  <programme start="20180918053000 -0300" stop="20180918060000 -0300" channel="Caza y Pesca">
+    <title lang="es">Bass desde orilla (2017)</title>
+  </programme>
+  <programme start="20180918060000 -0300" stop="20180918063000 -0300" channel="Caza y Pesca">
+    <title lang="es">Galgos y liebres en acción</title>
+  </programme>
+  <programme start="20180918063000 -0300" stop="20180918070000 -0300" channel="Caza y Pesca">
+    <title lang="es">Lucios en aguas tomadas (2018)</title>
+  </programme>
+  <programme start="20180918070000 -0300" stop="20180918073000 -0300" channel="Caza y Pesca">
+    <title lang="es">En busca de las medias rojas (2018)</title>
+  </programme>
+  <programme start="20180918073000 -0300" stop="20180918080000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carp Wars</title>
+  </programme>
+  <programme start="20180918080000 -0300" stop="20180918083000 -0300" channel="Caza y Pesca">
+    <title lang="es">Los últimos zorzales de la temporada</title>
+  </programme>
+  <programme start="20180918083000 -0300" stop="20180918090000 -0300" channel="Caza y Pesca">
+    <title lang="es">Las truchas del frío</title>
+  </programme>
+  <programme start="20180918090000 -0300" stop="20180918100000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pacific warriors</title>
+  </programme>
+  <programme start="20180918100000 -0300" stop="20180918103000 -0300" channel="Caza y Pesca">
+    <title lang="es">Ganchillos a pelo y pluma (2017)</title>
+  </programme>
+  <programme start="20180918103000 -0300" stop="20180918110000 -0300" channel="Caza y Pesca">
+    <title lang="es">Alma de cazador</title>
+  </programme>
+  <programme start="20180918110000 -0300" stop="20180918113000 -0300" channel="Caza y Pesca">
+    <title lang="es">El reto de la caza en alta montaña</title>
+  </programme>
+  <programme start="20180918113000 -0300" stop="20180918123000 -0300" channel="Caza y Pesca">
+    <title lang="es">Chasing Monsters</title>
+  </programme>
+  <programme start="20180918123000 -0300" stop="20180918130000 -0300" channel="Caza y Pesca">
+    <title lang="es">Salmones y adrenalina</title>
+  </programme>
+  <programme start="20180918130000 -0300" stop="20180918133000 -0300" channel="Caza y Pesca">
+    <title lang="es">Quebec a vista de pájaro</title>
+  </programme>
+  <programme start="20180918133000 -0300" stop="20180918140000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pura mosca</title>
+  </programme>
+  <programme start="20180918140000 -0300" stop="20180918143000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180918143000 -0300" stop="20180918153000 -0300" channel="Caza y Pesca">
+    <title lang="es">Dele viaje</title>
+  </programme>
+  <programme start="20180918153000 -0300" stop="20180918160000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carp Wars</title>
+  </programme>
+  <programme start="20180918160000 -0300" stop="20180918163000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180918163000 -0300" stop="20180918170000 -0300" channel="Caza y Pesca">
+    <title lang="es">Safari season</title>
+  </programme>
+  <programme start="20180918170000 -0300" stop="20180918180000 -0300" channel="Caza y Pesca">
+    <title lang="es">Veda abierta</title>
+  </programme>
+  <programme start="20180918180000 -0300" stop="20180918183000 -0300" channel="Caza y Pesca">
+    <title lang="es">En tierras del Cid</title>
+  </programme>
+  <programme start="20180918183000 -0300" stop="20180918190000 -0300" channel="Caza y Pesca">
+    <title lang="es">Kirguistán, el reto soñado</title>
+  </programme>
+  <programme start="20180918190000 -0300" stop="20180918193000 -0300" channel="Caza y Pesca">
+    <title lang="es">Grandes antílopes de la sabana (2018)</title>
+  </programme>
+  <programme start="20180918193000 -0300" stop="20180918200000 -0300" channel="Caza y Pesca">
+    <title lang="es">Sensaciones a pie de puesto</title>
+  </programme>
+  <programme start="20180918200000 -0300" stop="20180918210000 -0300" channel="Caza y Pesca">
+    <title lang="es">De viaje</title>
+  </programme>
+  <programme start="20180918210000 -0300" stop="20180918213000 -0300" channel="Caza y Pesca">
+    <title lang="es">Quebec a vista de pájaro</title>
+  </programme>
+  <programme start="20180918213000 -0300" stop="20180918220000 -0300" channel="Caza y Pesca">
+    <title lang="es">Pura mosca</title>
+  </programme>
+  <programme start="20180918220000 -0300" stop="20180918223000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180918223000 -0300" stop="20180918233000 -0300" channel="Caza y Pesca">
+    <title lang="es">Dele viaje</title>
+  </programme>
+  <programme start="20180918233000 -0300" stop="20180919000000 -0300" channel="Caza y Pesca">
+    <title lang="es">Carp Wars</title>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919003000 -0300" channel="Caza y Pesca">
+    <title lang="es">Cazando en las Antípodas</title>
+  </programme>
+  <programme start="20180919003000 -0300" stop="20180919003000 -0300" channel="Caza y Pesca">
+    <title lang="es">Programación de Caza y Pesca</title>
+  </programme>
+  <programme start="20180919003000 -0300" stop="20180919003000 -0300" channel="Caza y Pesca">
+    <title lang="es">Programación de Caza y Pesca</title>
+  </programme>
+  <programme start="20180919003000 -0300" stop="20180919003000 -0300" channel="Caza y Pesca">
+    <title lang="es">Programación de Caza y Pesca</title>
+  </programme>
+  <programme start="20180919003000 -0300" stop="20180919190000 -0300" channel="Caza y Pesca">
+    <title lang="es">Programación de Caza y Pesca</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917180000 -0300" channel="Stingray Classica">
+    <title lang="es">Debussy, La Mer</title>
+  </programme>
+  <programme start="20180917180000 -0300" stop="20180917182500 -0300" channel="Stingray Classica">
+    <title lang="es">Konzert</title>
+  </programme>
+  <programme start="20180917182500 -0300" stop="20180917190000 -0300" channel="Stingray Classica">
+    <title lang="es">Überraschungskonzert</title>
+  </programme>
+  <programme start="20180917190000 -0300" stop="20180917204000 -0300" channel="Stingray Classica">
+    <title lang="es">Tschaikowsky, Der Nussknacker</title>
+  </programme>
+  <programme start="20180917204000 -0300" stop="20180917214000 -0300" channel="Stingray Classica">
+    <title lang="es">Mahler - Symphonie Nr. 1 Titan</title>
+  </programme>
+  <programme start="20180917214000 -0300" stop="20180917221000 -0300" channel="Stingray Classica">
+    <title lang="es">Bartók, Konzert für 2 Klaviere, Schlagzeug und Orchester</title>
+  </programme>
+  <programme start="20180917221000 -0300" stop="20180918002500 -0300" channel="Stingray Classica">
+    <title lang="es">Verdi, Simon Boccanegra</title>
+  </programme>
+  <programme start="20180918002500 -0300" stop="20180918005500 -0300" channel="Stingray Classica">
+    <title lang="es">Konzert</title>
+  </programme>
+  <programme start="20180918005500 -0300" stop="20180918005500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180918005500 -0300" stop="20180918151500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180918151500 -0300" stop="20180918160500 -0300" channel="Stingray Classica">
+    <title lang="es">Konzert</title>
+  </programme>
+  <programme start="20180918160500 -0300" stop="20180918190000 -0300" channel="Stingray Classica">
+    <title lang="es">Summer Night Music - Spirits of Music</title>
+  </programme>
+  <programme start="20180918190000 -0300" stop="20180918214500 -0300" channel="Stingray Classica">
+    <title lang="es">Berlioz, Benvenuto Cellini</title>
+  </programme>
+  <programme start="20180918214500 -0300" stop="20180918224000 -0300" channel="Stingray Classica">
+    <title lang="es">Strauss, Eine Alpensymphonie</title>
+  </programme>
+  <programme start="20180918224000 -0300" stop="20180918234000 -0300" channel="Stingray Classica">
+    <title lang="es">Meine Zeit wird kommen - Über Gustav Mahler</title>
+  </programme>
+  <programme start="20180918234000 -0300" stop="20180919002500 -0300" channel="Stingray Classica">
+    <title lang="es">Britten - Streichquartett Nr. 3</title>
+  </programme>
+  <programme start="20180919002500 -0300" stop="20180919005500 -0300" channel="Stingray Classica">
+    <title lang="es">Mussorgsky, Vorspiel zu Chowanschtschina</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919005500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919151500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180919151500 -0300" stop="20180919164500 -0300" channel="Stingray Classica">
+    <title lang="es">Fomin spielt Schumann, Beethoven und Tschaikowski</title>
+  </programme>
+  <programme start="20180919164500 -0300" stop="20180919190000 -0300" channel="Stingray Classica">
+    <title lang="es">Puccini, Tosca</title>
+  </programme>
+  <programme start="20180919190000 -0300" stop="20180919204000 -0300" channel="Stingray Classica">
+    <title lang="es">Das Marseille Konzert</title>
+  </programme>
+  <programme start="20180919204000 -0300" stop="20180919220500 -0300" channel="Stingray Classica">
+    <title lang="es">Gala aus Berlin 1996 - Tänze und Zigeunerweisen</title>
+  </programme>
+  <programme start="20180919220500 -0300" stop="20180919235000 -0300" channel="Stingray Classica">
+    <title lang="es">The Spirits of Mozart</title>
+  </programme>
+  <programme start="20180919235000 -0300" stop="20180920005500 -0300" channel="Stingray Classica">
+    <title lang="es">Kent Nagano spricht über Schumanns Rheinische</title>
+  </programme>
+  <programme start="20180920005500 -0300" stop="20180920005500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180920005500 -0300" stop="20180920151500 -0300" channel="Stingray Classica">
+    <title lang="es">Sendepause</title>
+  </programme>
+  <programme start="20180920151500 -0300" stop="20180920165000 -0300" channel="Stingray Classica">
+    <title lang="es">Jewels</title>
+  </programme>
+  <programme start="20180920165000 -0300" stop="20180920183000 -0300" channel="Stingray Classica">
+    <title lang="es">Europakonzert aus Athen</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920190000 -0300" channel="Stingray Classica">
+    <title lang="es">Debussy, La Mer</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920224000 -0300" channel="Stingray Classica">
+    <title lang="es">Rossini, Matilde di Shabran</title>
+  </programme>
+  <programme start="20180920224000 -0300" stop="20180921001000 -0300" channel="Stingray Classica">
+    <title lang="es">Mahler - Symphonie Nr. 2 Resurrection</title>
+  </programme>
+  <programme start="20180917050000 -0300" stop="20180917070000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180917070000 -0300" stop="20180917073000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Mundial de Supersport</title>
+  </programme>
+  <programme start="20180917073000 -0300" stop="20180917080000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917080000 -0300" stop="20180917093000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Today</title>
+  </programme>
+  <programme start="20180917093000 -0300" stop="20180917095000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">All Sports: WATTS Magazine</title>
+  </programme>
+  <programme start="20180917095000 -0300" stop="20180917103000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180917103000 -0300" stop="20180917123000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180917123000 -0300" stop="20180917130000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917130000 -0300" stop="20180917140000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Today</title>
+  </programme>
+  <programme start="20180917140000 -0300" stop="20180917150000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180917150000 -0300" stop="20180917160000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Copa del mundo de hipica</title>
+  </programme>
+  <programme start="20180917160000 -0300" stop="20180917163000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180917163000 -0300" stop="20180917173000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917180000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180917180000 -0300" stop="20180917184500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917184500 -0300" stop="20180917192000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180917192000 -0300" stop="20180917195000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">All Sports: WATTS Magazine</title>
+  </programme>
+  <programme start="20180917195000 -0300" stop="20180917203000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180917203000 -0300" stop="20180917220000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180917220000 -0300" stop="20180917233000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180917233000 -0300" stop="20180918003000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">All Sports: WATTS Magazine</title>
+  </programme>
+  <programme start="20180918003000 -0300" stop="20180918023000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180918023000 -0300" stop="20180918030000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918030000 -0300" stop="20180918033000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918033000 -0300" stop="20180918043000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918043000 -0300" stop="20180918053000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918053000 -0300" stop="20180918063000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">IFSC Climbing World Championships</title>
+  </programme>
+  <programme start="20180918063000 -0300" stop="20180918070000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918070000 -0300" stop="20180918073000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">World Fencing Championships</title>
+  </programme>
+  <programme start="20180918073000 -0300" stop="20180918080000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918080000 -0300" stop="20180918083000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180918083000 -0300" stop="20180918090000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180918090000 -0300" stop="20180918100000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918100000 -0300" stop="20180918103000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">La casa de los Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180918103000 -0300" stop="20180918113000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">IFSC Climbing World Championships</title>
+  </programme>
+  <programme start="20180918113000 -0300" stop="20180918120000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918120000 -0300" stop="20180918123000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918123000 -0300" stop="20180918130000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180918130000 -0300" stop="20180918133000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Horse Excellence</title>
+  </programme>
+  <programme start="20180918133000 -0300" stop="20180918150000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180918150000 -0300" stop="20180918160000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918160000 -0300" stop="20180918170000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180918170000 -0300" stop="20180918180000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Giro de Italia</title>
+  </programme>
+  <programme start="20180918180000 -0300" stop="20180918183000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180918183000 -0300" stop="20180918190000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Blancpain GT Series Sprint Cup</title>
+  </programme>
+  <programme start="20180918190000 -0300" stop="20180918200000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918200000 -0300" stop="20180918203000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180918203000 -0300" stop="20180918210000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180918210000 -0300" stop="20180918213000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918213000 -0300" stop="20180918220000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918220000 -0300" stop="20180918224500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918224500 -0300" stop="20180918233000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180918233000 -0300" stop="20180918235000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Giro de Italia</title>
+  </programme>
+  <programme start="20180918235000 -0300" stop="20180919001500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180919001500 -0300" stop="20180919010000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919013000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Campeonato del Mundo de Superbike</title>
+  </programme>
+  <programme start="20180919013000 -0300" stop="20180919020000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Campeonato del Mundo de Superbike</title>
+  </programme>
+  <programme start="20180919020000 -0300" stop="20180919030000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180919030000 -0300" stop="20180919033000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180919033000 -0300" stop="20180919040000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919040000 -0300" stop="20180919043000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919043000 -0300" stop="20180919053000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919053000 -0300" stop="20180919063000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180919063000 -0300" stop="20180919070000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919090000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180919090000 -0300" stop="20180919093000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180919093000 -0300" stop="20180919100000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Campeonato del Mundo de Superbike</title>
+  </programme>
+  <programme start="20180919100000 -0300" stop="20180919103000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Campeonato del Mundo de Superbike</title>
+  </programme>
+  <programme start="20180919103000 -0300" stop="20180919110000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919110000 -0300" stop="20180919113000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180919113000 -0300" stop="20180919120000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919130000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180919130000 -0300" stop="20180919140000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919140000 -0300" stop="20180919150000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919150000 -0300" stop="20180919163000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180919163000 -0300" stop="20180919183500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FEI World Equestrian Games</title>
+  </programme>
+  <programme start="20180919183500 -0300" stop="20180919190000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919190000 -0300" stop="20180919193000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919193000 -0300" stop="20180919200000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180919200000 -0300" stop="20180919203000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919210000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180919210000 -0300" stop="20180919220000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919224500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919224500 -0300" stop="20180919233000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919233000 -0300" stop="20180920000000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920000000 -0300" stop="20180920010000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920010000 -0300" stop="20180920013000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920013000 -0300" stop="20180920023000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920023000 -0300" stop="20180920023000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920023000 -0300" stop="20180920033000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920033000 -0300" stop="20180920050000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920053000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920053000 -0300" stop="20180920063000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180920063000 -0300" stop="20180920073000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920073000 -0300" stop="20180920080000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920083000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920083000 -0300" stop="20180920090000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920103000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920110000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920140000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920160000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920163000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920183500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">FEI World Equestrian Games</title>
+  </programme>
+  <programme start="20180920183500 -0300" stop="20180920193000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920193000 -0300" stop="20180920203000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920211500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180920211500 -0300" stop="20180920220000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180920231500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920231500 -0300" stop="20180920234500 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180920234500 -0300" stop="20180921003000 -0300" channel="Eurosport HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180917040000 -0300" stop="20180917043000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917043000 -0300" stop="20180917050000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917050000 -0300" stop="20180917053000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Campeonato británico de Superbike</title>
+  </programme>
+  <programme start="20180917053000 -0300" stop="20180917070000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180917070000 -0300" stop="20180917090000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180917090000 -0300" stop="20180917103000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180917103000 -0300" stop="20180917110000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de Supersport</title>
+  </programme>
+  <programme start="20180917110000 -0300" stop="20180917113000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180917113000 -0300" stop="20180917130000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180917130000 -0300" stop="20180917132500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917132500 -0300" stop="20180917135500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917135500 -0300" stop="20180917142500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917142500 -0300" stop="20180917145500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917145500 -0300" stop="20180917153000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917153000 -0300" stop="20180917165000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180917165000 -0300" stop="20180917173000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917180000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180917180000 -0300" stop="20180917183000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de escalada</title>
+  </programme>
+  <programme start="20180917183000 -0300" stop="20180917190000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Campeonato británico de Superbike</title>
+  </programme>
+  <programme start="20180917190000 -0300" stop="20180917203000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180917203000 -0300" stop="20180917213000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180917213000 -0300" stop="20180917220000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Cto del Mundo de Superbikes</title>
+  </programme>
+  <programme start="20180917220000 -0300" stop="20180918000000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters de snooker</title>
+  </programme>
+  <programme start="20180918000000 -0300" stop="20180918003000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180918003000 -0300" stop="20180918010000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Mundial de motocross</title>
+  </programme>
+  <programme start="20180918010000 -0300" stop="20180918013000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918013000 -0300" stop="20180918020000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918020000 -0300" stop="20180918023000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918023000 -0300" stop="20180918023000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">IFSC Climbing World Championships</title>
+  </programme>
+  <programme start="20180918023000 -0300" stop="20180918033000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">IFSC Climbing World Championships</title>
+  </programme>
+  <programme start="20180918033000 -0300" stop="20180918053000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180918053000 -0300" stop="20180918063000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918063000 -0300" stop="20180918073000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918073000 -0300" stop="20180918083000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">IFSC Climbing World Championships</title>
+  </programme>
+  <programme start="20180918083000 -0300" stop="20180918090000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918090000 -0300" stop="20180918100000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918100000 -0300" stop="20180918103000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180918103000 -0300" stop="20180918123000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180918123000 -0300" stop="20180918130000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918130000 -0300" stop="20180918133000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918133000 -0300" stop="20180918140000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918140000 -0300" stop="20180918150000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180918150000 -0300" stop="20180918153000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180918153000 -0300" stop="20180918160000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180918160000 -0300" stop="20180918163000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918163000 -0300" stop="20180918170000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918170000 -0300" stop="20180918173000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">World Fencing Championships</title>
+  </programme>
+  <programme start="20180918173000 -0300" stop="20180918180000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180918180000 -0300" stop="20180918190000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918190000 -0300" stop="20180918193000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180918193000 -0300" stop="20180918200000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918200000 -0300" stop="20180918203000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918203000 -0300" stop="20180918210000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918210000 -0300" stop="20180918213000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918213000 -0300" stop="20180918220000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180918220000 -0300" stop="20180918230000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180918230000 -0300" stop="20180918233000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180918233000 -0300" stop="20180919000000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180919000000 -0300" stop="20180919003000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919003000 -0300" stop="20180919010000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919014500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919014500 -0300" stop="20180919023000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919023000 -0300" stop="20180919023000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180919023000 -0300" stop="20180919031500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180919031500 -0300" stop="20180919040000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Motocross World Championship</title>
+  </programme>
+  <programme start="20180919040000 -0300" stop="20180919043000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180919043000 -0300" stop="20180919050000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919070000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919080000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919080000 -0300" stop="20180919083000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919083000 -0300" stop="20180919093000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180919093000 -0300" stop="20180919103000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919103000 -0300" stop="20180919113000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919113000 -0300" stop="20180919120000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919123000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180919123000 -0300" stop="20180919130000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180919130000 -0300" stop="20180919150000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180919150000 -0300" stop="20180919153000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180919153000 -0300" stop="20180919163000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180919163000 -0300" stop="20180919173000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919173000 -0300" stop="20180919183000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180919183000 -0300" stop="20180919190000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919190000 -0300" stop="20180919210000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180919210000 -0300" stop="20180919211500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919211500 -0300" stop="20180919220000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919230000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180919230000 -0300" stop="20180920000000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920000000 -0300" stop="20180920004500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Giro d'Italia</title>
+  </programme>
+  <programme start="20180920004500 -0300" stop="20180920013000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920013000 -0300" stop="20180920021500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180920021500 -0300" stop="20180920021500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920021500 -0300" stop="20180920031500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920031500 -0300" stop="20180920040000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920040000 -0300" stop="20180920043000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180920043000 -0300" stop="20180920053000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FEI World Equestrian Games</title>
+  </programme>
+  <programme start="20180920053000 -0300" stop="20180920063000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920063000 -0300" stop="20180920070000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920090000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Shanghai Masters</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920093000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920100000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Major League Soccer</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FEI World Equestrian Games</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920133000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Legends Live On</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920140000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">La casa de los Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FEI World Equestrian Games</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920153000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920163000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Red Bull Cliff Diving World Series</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920173000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920183000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Tour de France</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920190000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Superbikes: Campeonato del Mundo</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Red Bull Cliff Diving World Series</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920203000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">La casa de los Juegos Olímpicos</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920213000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Hall of Fame</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920220000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">FIM Endurance World Championship</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920224500 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Vuelta Ciclista a España 2018</title>
+  </programme>
+  <programme start="20180920224500 -0300" stop="20180920230000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">WATTS Magazine</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180921000000 -0300" channel="Eurosport 2 HDTV (Spain)">
+    <title lang="es">Red Bull Cliff Diving World Series</title>
+  </programme>
+  <programme start="20180917050500 -0300" stop="20180917065400 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El Nuevo Karate Kid (1994)</title>
+  </programme>
+  <programme start="20180917065400 -0300" stop="20180917085600 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Sahara (2005)</title>
+  </programme>
+  <programme start="20180917085600 -0300" stop="20180917104500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Serpientes en el avión (2006)</title>
+  </programme>
+  <programme start="20180917104500 -0300" stop="20180917125000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Wanted (2008)</title>
+  </programme>
+  <programme start="20180917125000 -0300" stop="20180917150900 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Siete años en el Tibet (1997)</title>
+  </programme>
+  <programme start="20180917150900 -0300" stop="20180917170000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Doble traición (1999)</title>
+  </programme>
+  <programme start="20180917170000 -0300" stop="20180917191000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Qué les pasa a los hombres (2009)</title>
+  </programme>
+  <programme start="20180917191000 -0300" stop="20180917210500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Sahara (2005)</title>
+  </programme>
+  <programme start="20180917210500 -0300" stop="20180917230000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Eraser, Eliminador (1996)</title>
+  </programme>
+  <programme start="20180917230000 -0300" stop="20180918003000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Cuando llama un extraño (2006)</title>
+  </programme>
+  <programme start="20180918003000 -0300" stop="20180918022000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Volando Libre (1996)</title>
+  </programme>
+  <programme start="20180918022000 -0300" stop="20180918022000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Atrapado en un pirado (2008)</title>
+  </programme>
+  <programme start="20180918022000 -0300" stop="20180918035500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Atrapado en un pirado (2008)</title>
+  </programme>
+  <programme start="20180918035500 -0300" stop="20180918053500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Los ángeles de Charlie (2000)</title>
+  </programme>
+  <programme start="20180918053500 -0300" stop="20180918073000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Los ángeles de Charlie: Al límite (2003)</title>
+  </programme>
+  <programme start="20180918073000 -0300" stop="20180918094000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Qué les pasa a los hombres (2009)</title>
+  </programme>
+  <programme start="20180918094000 -0300" stop="20180918111500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El diario de Greg (2010)</title>
+  </programme>
+  <programme start="20180918111500 -0300" stop="20180918130000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">XXX 2: Estado de Emergencia (2005)</title>
+  </programme>
+  <programme start="20180918130000 -0300" stop="20180918150500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El caso Bourne (2002)</title>
+  </programme>
+  <programme start="20180918150500 -0300" stop="20180918170000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El mito de Bourne (2004)</title>
+  </programme>
+  <programme start="20180918170000 -0300" stop="20180918203500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Los Diez Mandamientos (1956)</title>
+  </programme>
+  <programme start="20180918203500 -0300" stop="20180918221500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Serpientes en el avión (2006)</title>
+  </programme>
+  <programme start="20180918221500 -0300" stop="20180919002000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Imitación de la vida (1959)</title>
+  </programme>
+  <programme start="20180919002000 -0300" stop="20180919014500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">La cosa más dulce (2002)</title>
+  </programme>
+  <programme start="20180919014500 -0300" stop="20180919014500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Mira quién habla (1989)</title>
+  </programme>
+  <programme start="20180919014500 -0300" stop="20180919032000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Mira quién habla (1989)</title>
+  </programme>
+  <programme start="20180919032000 -0300" stop="20180919050000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Justicieros del Oeste (1975)</title>
+  </programme>
+  <programme start="20180919050000 -0300" stop="20180919070500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Copycat (1995)</title>
+  </programme>
+  <programme start="20180919070500 -0300" stop="20180919091000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El caso Bourne (2002)</title>
+  </programme>
+  <programme start="20180919091000 -0300" stop="20180919110000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">El mito de Bourne (2004)</title>
+  </programme>
+  <programme start="20180919110000 -0300" stop="20180919131000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Qué les pasa a los hombres (2009)</title>
+  </programme>
+  <programme start="20180919131000 -0300" stop="20180919151500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Límite vertical (2000)</title>
+  </programme>
+  <programme start="20180919151500 -0300" stop="20180919170000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Los 4 fantásticos (2005)</title>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919185500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Esta abuela es mi padre (2011)</title>
+  </programme>
+  <programme start="20180919185500 -0300" stop="20180919205500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Drácula de Bram Stoker (1992)</title>
+  </programme>
+  <programme start="20180919205500 -0300" stop="20180919230000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">A propósito de Schmidt (2002)</title>
+  </programme>
+  <programme start="20180919230000 -0300" stop="20180920010000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">De boda en boda (2005)</title>
+  </programme>
+  <programme start="20180920010000 -0300" stop="20180920025000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Siempre a mi lado (2010)</title>
+  </programme>
+  <programme start="20180920025000 -0300" stop="20180920025000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">María Antonieta (2006)</title>
+  </programme>
+  <programme start="20180920025000 -0300" stop="20180920050500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">María Antonieta (2006)</title>
+  </programme>
+  <programme start="20180920050500 -0300" stop="20180920070500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Bullitt (1968)</title>
+  </programme>
+  <programme start="20180920070500 -0300" stop="20180920090000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">¡Qué dilema! (2011)</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920111000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Duplicity (2009)</title>
+  </programme>
+  <programme start="20180920111000 -0300" stop="20180920133000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Godzilla (1998)</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920151000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Papá canguro 2 (2007)</title>
+  </programme>
+  <programme start="20180920151000 -0300" stop="20180920170000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Legión (2010)</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920183000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Transporter 2 (2005)</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920203500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Fast &amp; Furious 5 (2011)</title>
+  </programme>
+  <programme start="20180920203500 -0300" stop="20180920225000 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Godzilla (1998)</title>
+  </programme>
+  <programme start="20180920225000 -0300" stop="20180921010500 -0300" channel="Canal Hollywood (Spain)">
+    <title lang="es">Duplicity (2009)</title>
+  </programme>
+  <programme start="20180917060500 -0300" stop="20180917075500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Musa (2017)</title>
+  </programme>
+  <programme start="20180917075500 -0300" stop="20180917082500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Star Wars, toda una vida</title>
+  </programme>
+  <programme start="20180917082500 -0300" stop="20180917100000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Animal de compañía (2016)</title>
+  </programme>
+  <programme start="20180917100000 -0300" stop="20180917114000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">El vacío (2016)</title>
+  </programme>
+  <programme start="20180917114000 -0300" stop="20180917133000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Robocop (2014)</title>
+  </programme>
+  <programme start="20180917133000 -0300" stop="20180917153000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Robocop 2 (1990)</title>
+  </programme>
+  <programme start="20180917153000 -0300" stop="20180917171500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Robocop 3 (1993)</title>
+  </programme>
+  <programme start="20180917171500 -0300" stop="20180917173000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Informe cine</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917192000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Furia ciega (2011)</title>
+  </programme>
+  <programme start="20180917192000 -0300" stop="20180917194000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Gui en Hollywood</title>
+  </programme>
+  <programme start="20180917194000 -0300" stop="20180917211500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Difícil de matar (1990)</title>
+  </programme>
+  <programme start="20180917211500 -0300" stop="20180917231500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">El cliente (1994)</title>
+  </programme>
+  <programme start="20180917231500 -0300" stop="20180918012200 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">En tierra hostil (2008)</title>
+  </programme>
+  <programme start="20180918012200 -0300" stop="20180918030000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">El Motel del Infierno (1980)</title>
+  </programme>
+  <programme start="20180918030000 -0300" stop="20180918042500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Pesadilla en Elm Street II: Venganza de Freddy (1985)</title>
+  </programme>
+  <programme start="20180918042500 -0300" stop="20180918050000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Las múltiples caras de M. Night Shyamalan</title>
+  </programme>
+  <programme start="20180918050000 -0300" stop="20180918063000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Hamilton 2 (2012)</title>
+  </programme>
+  <programme start="20180918063000 -0300" stop="20180918081500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Efectos secundarios (2013)</title>
+  </programme>
+  <programme start="20180918081500 -0300" stop="20180918100000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">El tesoro del Amazonas (2003)</title>
+  </programme>
+  <programme start="20180918100000 -0300" stop="20180918113000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Deathgasm (2015)</title>
+  </programme>
+  <programme start="20180918113000 -0300" stop="20180918132500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Caminando entre las tumbas (2014)</title>
+  </programme>
+  <programme start="20180918132500 -0300" stop="20180918154800 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Hook el capitán Garfio (1991)</title>
+  </programme>
+  <programme start="20180918154800 -0300" stop="20180918160000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Informe cine</title>
+  </programme>
+  <programme start="20180918160000 -0300" stop="20180918173000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Escuela de Zombies (2012)</title>
+  </programme>
+  <programme start="20180918173000 -0300" stop="20180918185000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Zombeavers (Castores zombies) (2014)</title>
+  </programme>
+  <programme start="20180918185000 -0300" stop="20180918190500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Estreno en salas</title>
+  </programme>
+  <programme start="20180918190500 -0300" stop="20180918204500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Jeepers Creepers 2 (2003)</title>
+  </programme>
+  <programme start="20180918204500 -0300" stop="20180918224500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Veteran. Por encima de la ley (2015)</title>
+  </programme>
+  <programme start="20180918224500 -0300" stop="20180919005500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Decisión crítica (1996)</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919005500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Canal+ Acción</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919005500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Canal+ Acción</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919005500 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Canal+ Acción</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919190000 -0300" channel="Movistar Acción HDTV (Spain)">
+    <title lang="es">Canal+ Acción</title>
+  </programme>
+  <programme start="20180917065500 -0300" stop="20180917082500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Cariño, yo soy tú (2017)</title>
+  </programme>
+  <programme start="20180917082500 -0300" stop="20180917100000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Con los brazos abiertos (2017)</title>
+  </programme>
+  <programme start="20180917100000 -0300" stop="20180917120500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Historias de San Valentín (2010)</title>
+  </programme>
+  <programme start="20180917120500 -0300" stop="20180917140300 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Miss agente especial 2: Armada y fabulosa (2005)</title>
+  </programme>
+  <programme start="20180917140300 -0300" stop="20180917141500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Peinado de loba (2018)</title>
+  </programme>
+  <programme start="20180917141500 -0300" stop="20180917155500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Increíble pero falso (2009)</title>
+  </programme>
+  <programme start="20180917155500 -0300" stop="20180917163000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Ilustres ignorantes</title>
+  </programme>
+  <programme start="20180917163000 -0300" stop="20180917181000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">El amor está en el aire (2013)</title>
+  </programme>
+  <programme start="20180917181000 -0300" stop="20180917201000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Algo pasa con Mary (1998)</title>
+  </programme>
+  <programme start="20180917201000 -0300" stop="20180917211500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Late motiv</title>
+  </programme>
+  <programme start="20180917211500 -0300" stop="20180917231000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Cuando Llega la Noche (1985)</title>
+  </programme>
+  <programme start="20180917231000 -0300" stop="20180917233000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Con Thelma (2017)</title>
+  </programme>
+  <programme start="20180917233000 -0300" stop="20180918011500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Bienvenidos al Norte (2008)</title>
+  </programme>
+  <programme start="20180918011500 -0300" stop="20180918030000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Adivina quién (2005)</title>
+  </programme>
+  <programme start="20180918030000 -0300" stop="20180918043000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Dos Veces Yo (1984)</title>
+  </programme>
+  <programme start="20180918043000 -0300" stop="20180918060500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Grabbers (2011)</title>
+  </programme>
+  <programme start="20180918060500 -0300" stop="20180918075500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Superagente 86 de película (2008)</title>
+  </programme>
+  <programme start="20180918075500 -0300" stop="20180918100000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Ex (2009)</title>
+  </programme>
+  <programme start="20180918100000 -0300" stop="20180918115000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Con derecho a roce (2011)</title>
+  </programme>
+  <programme start="20180918115000 -0300" stop="20180918121500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Star Wars, toda una vida</title>
+  </programme>
+  <programme start="20180918121500 -0300" stop="20180918135000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Trabajos de Amor Perdidos (2000)</title>
+  </programme>
+  <programme start="20180918135000 -0300" stop="20180918142000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Guillermo del Toro: Un director y su Óscar</title>
+  </programme>
+  <programme start="20180918142000 -0300" stop="20180918155500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Las novias de mis amigos (2014)</title>
+  </programme>
+  <programme start="20180918155500 -0300" stop="20180918163000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Ilustres ignorantes</title>
+  </programme>
+  <programme start="20180918163000 -0300" stop="20180918182500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">The Goonies (1985)</title>
+  </programme>
+  <programme start="20180918182500 -0300" stop="20180918200500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Hombres de Negro (1997)</title>
+  </programme>
+  <programme start="20180918200500 -0300" stop="20180918211000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Late motiv</title>
+  </programme>
+  <programme start="20180918211000 -0300" stop="20180918230500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Ocean's Eleven. Hagan juego (2001)</title>
+  </programme>
+  <programme start="20180918230500 -0300" stop="20180919003500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">La jaula dorada (2013)</title>
+  </programme>
+  <programme start="20180919003500 -0300" stop="20180919003500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Programación de Canal + Comedia</title>
+  </programme>
+  <programme start="20180919003500 -0300" stop="20180919003500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Programación de Canal + Comedia</title>
+  </programme>
+  <programme start="20180919003500 -0300" stop="20180919003500 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Programación de Canal + Comedia</title>
+  </programme>
+  <programme start="20180919003500 -0300" stop="20180919190000 -0300" channel="Movistar Comedia HDTV (Spain)">
+    <title lang="es">Programación de Canal + Comedia</title>
+  </programme>
+  <programme start="20180917052500 -0300" stop="20180917070700 -0300" channel="Sundance HDTV">
+    <title lang="es">Crystal Fairy &amp; the Magical Cactus (2013)</title>
+  </programme>
+  <programme start="20180917070700 -0300" stop="20180917082500 -0300" channel="Sundance HDTV">
+    <title lang="es">Las amigas de Ágata (2014)</title>
+  </programme>
+  <programme start="20180917082500 -0300" stop="20180917095500 -0300" channel="Sundance HDTV">
+    <title lang="es">El Bola (2000)</title>
+  </programme>
+  <programme start="20180917095500 -0300" stop="20180917114800 -0300" channel="Sundance HDTV">
+    <title lang="es">X + Y (2014)</title>
+  </programme>
+  <programme start="20180917114800 -0300" stop="20180917132800 -0300" channel="Sundance HDTV">
+    <title lang="es">Lamb (2015)</title>
+  </programme>
+  <programme start="20180917132800 -0300" stop="20180917145300 -0300" channel="Sundance HDTV">
+    <title lang="es">Red Knot (2014)</title>
+  </programme>
+  <programme start="20180917145300 -0300" stop="20180917163000 -0300" channel="Sundance HDTV">
+    <title lang="es">Glassland (2014)</title>
+  </programme>
+  <programme start="20180917163000 -0300" stop="20180917173000 -0300" channel="Sundance HDTV">
+    <title lang="es">Striking Out New</title>
+  </programme>
+  <programme start="20180917173000 -0300" stop="20180917185000 -0300" channel="Sundance HDTV">
+    <title lang="es">Most Beautiful Island (2017)</title>
+  </programme>
+  <programme start="20180917185000 -0300" stop="20180917203500 -0300" channel="Sundance HDTV">
+    <title lang="es">Objeto de Seducción (1991)</title>
+  </programme>
+  <programme start="20180917203500 -0300" stop="20180917220000 -0300" channel="Sundance HDTV">
+    <title lang="es">Dealin' with Idiots (2013)</title>
+  </programme>
+  <programme start="20180917220000 -0300" stop="20180917233500 -0300" channel="Sundance HDTV">
+    <title lang="es">A Good Wife (2016)</title>
+  </programme>
+  <programme start="20180917233500 -0300" stop="20180918004500 -0300" channel="Sundance HDTV">
+    <title lang="es">Vegalta: Soccer, Tsunami and the Hope of a Nation (2015)</title>
+  </programme>
+  <programme start="20180918004500 -0300" stop="20180918021500 -0300" channel="Sundance HDTV">
+    <title lang="es">Treeless Mountain (2008)</title>
+  </programme>
+  <programme start="20180918021500 -0300" stop="20180918021500 -0300" channel="Sundance HDTV">
+    <title lang="es">Brooklyn Castle (2012)</title>
+  </programme>
+  <programme start="20180918021500 -0300" stop="20180918040000 -0300" channel="Sundance HDTV">
+    <title lang="es">Brooklyn Castle (2012)</title>
+  </programme>
+  <programme start="20180918040000 -0300" stop="20180918052000 -0300" channel="Sundance HDTV">
+    <title lang="es">Red Knot (2014)</title>
+  </programme>
+  <programme start="20180918052000 -0300" stop="20180918065800 -0300" channel="Sundance HDTV">
+    <title lang="es">Lamb (2015)</title>
+  </programme>
+  <programme start="20180918065800 -0300" stop="20180918084000 -0300" channel="Sundance HDTV">
+    <title lang="es">El profesor (2011)</title>
+  </programme>
+  <programme start="20180918084000 -0300" stop="20180918092500 -0300" channel="Sundance HDTV">
+    <title lang="es">Capital</title>
+  </programme>
+  <programme start="20180918092500 -0300" stop="20180918102000 -0300" channel="Sundance HDTV">
+    <title lang="es">Capital</title>
+  </programme>
+  <programme start="20180918102000 -0300" stop="20180918121700 -0300" channel="Sundance HDTV">
+    <title lang="es">Taxi Driver (1976)</title>
+  </programme>
+  <programme start="20180918121700 -0300" stop="20180918142500 -0300" channel="Sundance HDTV">
+    <title lang="es">Los Niños del Brasil (1978)</title>
+  </programme>
+  <programme start="20180918142500 -0300" stop="20180918161000 -0300" channel="Sundance HDTV">
+    <title lang="es">Ellas (2011)</title>
+  </programme>
+  <programme start="20180918161000 -0300" stop="20180918173000 -0300" channel="Sundance HDTV">
+    <title lang="es">Las amigas de Ágata (2014)</title>
+  </programme>
+  <programme start="20180918173000 -0300" stop="20180918191500 -0300" channel="Sundance HDTV">
+    <title lang="es">Azuloscurocasinegro (2006)</title>
+  </programme>
+  <programme start="20180918191500 -0300" stop="20180918205500 -0300" channel="Sundance HDTV">
+    <title lang="es">Kaplan (2013)</title>
+  </programme>
+  <programme start="20180918205500 -0300" stop="20180918221500 -0300" channel="Sundance HDTV">
+    <title lang="es">Sombras (1959)</title>
+  </programme>
+  <programme start="20180918221500 -0300" stop="20180918234000 -0300" channel="Sundance HDTV">
+    <title lang="es">Lawless Range (2016)</title>
+  </programme>
+  <programme start="20180918234000 -0300" stop="20180919010000 -0300" channel="Sundance HDTV">
+    <title lang="es">Pornocracy (2017)</title>
+  </programme>
+  <programme start="20180919010000 -0300" stop="20180919011500 -0300" channel="Sundance HDTV">
+    <title lang="es">Black (2015)</title>
+  </programme>
+  <programme start="20180919011500 -0300" stop="20180919013200 -0300" channel="Sundance HDTV">
+    <title lang="es">Ringo (2016)</title>
+  </programme>
+  <programme start="20180919013200 -0300" stop="20180919013200 -0300" channel="Sundance HDTV">
+    <title lang="es">For Ellen (2011)</title>
+  </programme>
+  <programme start="20180919013200 -0300" stop="20180919030900 -0300" channel="Sundance HDTV">
+    <title lang="es">For Ellen (2011)</title>
+  </programme>
+  <programme start="20180919030900 -0300" stop="20180919045500 -0300" channel="Sundance HDTV">
+    <title lang="es">Dreamcatcher (2015)</title>
+  </programme>
+  <programme start="20180919045500 -0300" stop="20180919063200 -0300" channel="Sundance HDTV">
+    <title lang="es">Glassland (2014)</title>
+  </programme>
+  <programme start="20180919063200 -0300" stop="20180919082500 -0300" channel="Sundance HDTV">
+    <title lang="es">Ábrete de Orejas (1987)</title>
+  </programme>
+  <programme start="20180919082500 -0300" stop="20180919091300 -0300" channel="Sundance HDTV">
+    <title lang="es">Capital</title>
+  </programme>
+  <programme start="20180919091300 -0300" stop="20180919100500 -0300" channel="Sundance HDTV">
+    <title lang="es">Capital</title>
+  </programme>
+  <programme start="20180919100500 -0300" stop="20180919114500 -0300" channel="Sundance HDTV">
+    <title lang="es">Canino (2009)</title>
+  </programme>
+  <programme start="20180919114500 -0300" stop="20180919132500 -0300" channel="Sundance HDTV">
+    <title lang="es">La Lengua de las Mariposas (1999)</title>
+  </programme>
+  <programme start="20180919132500 -0300" stop="20180919150500 -0300" channel="Sundance HDTV">
+    <title lang="es">Adult Life Skills (2016)</title>
+  </programme>
+  <programme start="20180919150500 -0300" stop="20180919164000 -0300" channel="Sundance HDTV">
+    <title lang="es">Silk Road (2016)</title>
+  </programme>
+  <programme start="20180919164000 -0300" stop="20180919173000 -0300" channel="Sundance HDTV">
+    <title lang="es">Inundación New</title>
+  </programme>
+  <programme start="20180919173000 -0300" stop="20180919182500 -0300" channel="Sundance HDTV">
+    <title lang="es">Inundación New</title>
+  </programme>
+  <programme start="20180919182500 -0300" stop="20180919201000 -0300" channel="Sundance HDTV">
+    <title lang="es">Ivy (2015)</title>
+  </programme>
+  <programme start="20180919201000 -0300" stop="20180919214200 -0300" channel="Sundance HDTV">
+    <title lang="es">White Island (2016)</title>
+  </programme>
+  <programme start="20180919214200 -0300" stop="20180919231200 -0300" channel="Sundance HDTV">
+    <title lang="es">Envidia (1999)</title>
+  </programme>
+  <programme start="20180919231200 -0300" stop="20180920003800 -0300" channel="Sundance HDTV">
+    <title lang="es">Dealin' with Idiots (2013)</title>
+  </programme>
+  <programme start="20180920003800 -0300" stop="20180920020500 -0300" channel="Sundance HDTV">
+    <title lang="es">Envidia (1999)</title>
+  </programme>
+  <programme start="20180920020500 -0300" stop="20180920020500 -0300" channel="Sundance HDTV">
+    <title lang="es">Fairport Convention: Folk Heroes (2017)</title>
+  </programme>
+  <programme start="20180920020500 -0300" stop="20180920032500 -0300" channel="Sundance HDTV">
+    <title lang="es">Fairport Convention: Folk Heroes (2017)</title>
+  </programme>
+  <programme start="20180920032500 -0300" stop="20180920045000 -0300" channel="Sundance HDTV">
+    <title lang="es">Los reyes del pueblo que no existe (2015)</title>
+  </programme>
+  <programme start="20180920045000 -0300" stop="20180920061900 -0300" channel="Sundance HDTV">
+    <title lang="es">Mi amiga del parque (2015)</title>
+  </programme>
+  <programme start="20180920061900 -0300" stop="20180920073700 -0300" channel="Sundance HDTV">
+    <title lang="es">Vacaciones Permanentes (1982)</title>
+  </programme>
+  <programme start="20180920073700 -0300" stop="20180920092500 -0300" channel="Sundance HDTV">
+    <title lang="es">Azuloscurocasinegro (2006)</title>
+  </programme>
+  <programme start="20180920092500 -0300" stop="20180920110700 -0300" channel="Sundance HDTV">
+    <title lang="es">Broken English (2007)</title>
+  </programme>
+  <programme start="20180920110700 -0300" stop="20180920124500 -0300" channel="Sundance HDTV">
+    <title lang="es">Sex, Death and Bowling (2015)</title>
+  </programme>
+  <programme start="20180920124500 -0300" stop="20180920163000 -0300" channel="Sundance HDTV">
+    <title lang="es">Érase una Vez en América (1984)</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920173000 -0300" channel="Sundance HDTV">
+    <title lang="es">En la sombra New</title>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920183500 -0300" channel="Sundance HDTV">
+    <title lang="es">En la sombra</title>
+  </programme>
+  <programme start="20180920183500 -0300" stop="20180920201000 -0300" channel="Sundance HDTV">
+    <title lang="es">H. (2014)</title>
+  </programme>
+  <programme start="20180920201000 -0300" stop="20180920214000 -0300" channel="Sundance HDTV">
+    <title lang="es">How to Dance in Ohio (2015)</title>
+  </programme>
+  <programme start="20180920214000 -0300" stop="20180920231200 -0300" channel="Sundance HDTV">
+    <title lang="es">Tercera estrella (2010)</title>
+  </programme>
+  <programme start="20180920231200 -0300" stop="20180921005000 -0300" channel="Sundance HDTV">
+    <title lang="es">Oslo, 31 de agosto (2011)</title>
+  </programme>
+  <programme start="20180917055000 -0300" stop="20180917074000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">La Mujer del Año (1942)</title>
+  </programme>
+  <programme start="20180917074000 -0300" stop="20180917093500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">La boda de Rachel (2008)</title>
+  </programme>
+  <programme start="20180917093500 -0300" stop="20180917112500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Beautiful Girls (1996)</title>
+  </programme>
+  <programme start="20180917112500 -0300" stop="20180917130000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">La Noche de los Muertos Vivientes (1968)</title>
+  </programme>
+  <programme start="20180917130000 -0300" stop="20180917131500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Asghar Farhadi</title>
+  </programme>
+  <programme start="20180917131500 -0300" stop="20180917145000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Manhattan (1979)</title>
+  </programme>
+  <programme start="20180917145000 -0300" stop="20180917170000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Los Puentes de Madison (1995)</title>
+  </programme>
+  <programme start="20180917170000 -0300" stop="20180917183000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Al final de la escapada (1960)</title>
+  </programme>
+  <programme start="20180917183000 -0300" stop="20180917200000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Malas tierras (1973)</title>
+  </programme>
+  <programme start="20180917200000 -0300" stop="20180917214500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Crimen perfecto (1954)</title>
+  </programme>
+  <programme start="20180917214500 -0300" stop="20180917233500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">La Mujer del Año (1942)</title>
+  </programme>
+  <programme start="20180917233500 -0300" stop="20180918022500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Boyhood (Momentos de una vida) (2014)</title>
+  </programme>
+  <programme start="20180918022500 -0300" stop="20180918022500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Una noche de película: policías, ladrones y novelistas criminales</title>
+  </programme>
+  <programme start="20180918022500 -0300" stop="20180918032500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Una noche de película: policías, ladrones y novelistas criminales</title>
+  </programme>
+  <programme start="20180918032500 -0300" stop="20180918045500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Tres tejanos (1949)</title>
+  </programme>
+  <programme start="20180918045500 -0300" stop="20180918063500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El Halcón Maltés (1941)</title>
+  </programme>
+  <programme start="20180918063500 -0300" stop="20180918082500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Locos en Alabama (1999)</title>
+  </programme>
+  <programme start="20180918082500 -0300" stop="20180918102000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">La noche americana (1973)</title>
+  </programme>
+  <programme start="20180918102000 -0300" stop="20180918115500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El Club (2015)</title>
+  </programme>
+  <programme start="20180918115500 -0300" stop="20180918135500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Poder absoluto (1996)</title>
+  </programme>
+  <programme start="20180918135500 -0300" stop="20180918153000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Easy Rider (1969)</title>
+  </programme>
+  <programme start="20180918153000 -0300" stop="20180918170000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El castor (2010)</title>
+  </programme>
+  <programme start="20180918170000 -0300" stop="20180918192500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Funny Girl (1968)</title>
+  </programme>
+  <programme start="20180918192500 -0300" stop="20180918213500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Marnie, la Ladrona (1964)</title>
+  </programme>
+  <programme start="20180918213500 -0300" stop="20180918232000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El Seductor (1971)</title>
+  </programme>
+  <programme start="20180918232000 -0300" stop="20180919005500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Easy Rider (1969)</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919005500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">2001: Una odisea del espacio (1968)</title>
+  </programme>
+  <programme start="20180919005500 -0300" stop="20180919031500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">2001: Una odisea del espacio (1968)</title>
+  </programme>
+  <programme start="20180919031500 -0300" stop="20180919044500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">A Quemarropa (1967)</title>
+  </programme>
+  <programme start="20180919044500 -0300" stop="20180919063500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Grand Hotel (1932)</title>
+  </programme>
+  <programme start="20180919063500 -0300" stop="20180919070000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Una vida en imágenes</title>
+  </programme>
+  <programme start="20180919070000 -0300" stop="20180919094000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El paciente inglés (1996)</title>
+  </programme>
+  <programme start="20180919094000 -0300" stop="20180919120000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Funny Girl (1968)</title>
+  </programme>
+  <programme start="20180919120000 -0300" stop="20180919134000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">M. Butterfly (1993)</title>
+  </programme>
+  <programme start="20180919134000 -0300" stop="20180919153000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">De repente, el ultimo verano (1959)</title>
+  </programme>
+  <programme start="20180919153000 -0300" stop="20180919170000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Sólo Dios perdona (2013)</title>
+  </programme>
+  <programme start="20180919170000 -0300" stop="20180919183500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Bocados de realidad (1994)</title>
+  </programme>
+  <programme start="20180919183500 -0300" stop="20180919190000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El resplandor (1980)</title>
+  </programme>
+  <programme start="20180919190000 -0300" stop="20180919203000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El Cadillac rosa (1989)</title>
+  </programme>
+  <programme start="20180919203000 -0300" stop="20180919224000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">¿Qué fue de Baby Jane? (1962)</title>
+  </programme>
+  <programme start="20180919224000 -0300" stop="20180920002000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El Halcón Maltés (1941)</title>
+  </programme>
+  <programme start="20180920002000 -0300" stop="20180920021500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">De repente, el ultimo verano (1959)</title>
+  </programme>
+  <programme start="20180920021500 -0300" stop="20180920021500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Marnie, la Ladrona (1964)</title>
+  </programme>
+  <programme start="20180920021500 -0300" stop="20180920042500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Marnie, la Ladrona (1964)</title>
+  </programme>
+  <programme start="20180920042500 -0300" stop="20180920063500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">¿Quién Le Teme a Virginia Woolf? (1966)</title>
+  </programme>
+  <programme start="20180920063500 -0300" stop="20180920074500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Casa de Frankenstein (1944)</title>
+  </programme>
+  <programme start="20180920074500 -0300" stop="20180920093000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Perdición (1944)</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920110500 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Malas tierras (1973)</title>
+  </programme>
+  <programme start="20180920110500 -0300" stop="20180920124000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Cruce de Caminos (2012)</title>
+  </programme>
+  <programme start="20180920124000 -0300" stop="20180920143000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Serpico (1973)</title>
+  </programme>
+  <programme start="20180920143000 -0300" stop="20180920170000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Cold mountain (2003)</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920210000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Dallas Buyers Club (2013)</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920225000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">El sueño eterno (1946)</title>
+  </programme>
+  <programme start="20180920225000 -0300" stop="20180921004000 -0300" channel="TCM - Turner Classic Movies HDTV (Spain)">
+    <title lang="es">Beautiful Girls (1996)</title>
+  </programme>
+</tv>
