@@ -104,6 +104,42 @@
   <channel id="UCV 3">
     <display-name lang="es">UCV 3</display-name>
   </channel>
+  <channel id="13 C (Chile)">
+    <display-name lang="es">CL: 13c</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="Rec TV">
+    <display-name lang="es">CL: Rec TV 13</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="ETC TV (Chile)">
+    <display-name lang="es">CL: Etc</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="Bang TV (Chile) ">
+    <display-name lang="es">CL: Bang</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="Canal del Fútbol (Básico)">
+    <display-name lang="es">CDF Basico |CL|</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="Canal del Fútbol (Premium)">
+    <display-name lang="es">CDF Premium |CL|</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="Canal del Fútbol HDTV">
+    <display-name lang="es">CDF FHD |CL|</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="CDO Canal Deporte Olimpico ">
+    <display-name lang="es">CDO</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
+  <channel id="CDO Premium Canal Deporte Olimpico ">
+    <display-name lang="es">CDO Premium |CL|</display-name>
+    <url>http://www.chile.yo.tv-full</url>
+  </channel>
   <programme start="20180919080000 -0300" stop="20180919083000 -0300" channel="I-NET TV">
     <title lang="es">Noticias</title>
     <desc lang="es">Las noticias más importantes a nivel nacional e internacional(n)</desc>
@@ -5820,5 +5856,2519 @@
   </programme>
   <programme start="20180921230000 -0300" stop="20180922000000 -0300" channel="UCV 3">
     <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920080000 -0300" channel="13 C (Chile)">
+    <title lang="es">Vive nórdico</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Paula sin culpa</title>
+  </programme>
+  <programme start="20180920083000 -0300" stop="20180920090000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920093000 -0300" channel="13 C (Chile)">
+    <title lang="es">Aerial</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920103000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceania</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Soñadores</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920113000 -0300" channel="13 C (Chile)">
+    <title lang="es">Entrechef</title>
+  </programme>
+  <programme start="20180920113000 -0300" stop="20180920123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al Sur del Mundo</title>
+  </programme>
+  <programme start="20180920123000 -0300" stop="20180920130000 -0300" channel="13 C (Chile)">
+    <title lang="es">Quinto patrimonio</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Paula sin culpa</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Voy y Vuelvo</title>
+  </programme>
+  <programme start="20180920143000 -0300" stop="20180920153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al Sur del Mundo</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Cómo me sano</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180920193000 -0300" stop="20180920203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920213000 -0300" channel="13 C (Chile)">
+    <title lang="es">Voy y Vuelvo</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920220000 -0300" channel="13 C (Chile)">
+    <title lang="es">Metropolibros</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Desafio 2030</title>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180920233000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180920233000 -0300" stop="20180921003000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bendito lunes</title>
+  </programme>
+  <programme start="20180921003000 -0300" stop="20180921010000 -0300" channel="13 C (Chile)">
+    <title lang="es">En terreno</title>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921020000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al Sur del Mundo</title>
+  </programme>
+  <programme start="20180921040000 -0300" stop="20180921050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180921050000 -0300" stop="20180921060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921080000 -0300" channel="13 C (Chile)">
+    <title lang="es">Voy y Vuelvo</title>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Paula sin culpa</title>
+  </programme>
+  <programme start="20180921083000 -0300" stop="20180921090000 -0300" channel="13 C (Chile)">
+    <title lang="es">Conexión Asia</title>
+  </programme>
+  <programme start="20180921090000 -0300" stop="20180921100000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921113000 -0300" channel="13 C (Chile)">
+    <title lang="es">Síntoma Chilensis</title>
+  </programme>
+  <programme start="20180921113000 -0300" stop="20180921123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al Sur del Mundo</title>
+  </programme>
+  <programme start="20180921123000 -0300" stop="20180921133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20180921133000 -0300" stop="20180921143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santiago No Es Chile</title>
+  </programme>
+  <programme start="20180921143000 -0300" stop="20180921153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180921153000 -0300" stop="20180921163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al Sur del Mundo</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180921173000 -0300" stop="20180921183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceania</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra Adentro</title>
+  </programme>
+  <programme start="20180921193000 -0300" stop="20180921203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180921203000 -0300" stop="20180921213000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santiago No Es Chile</title>
+  </programme>
+  <programme start="20180921213000 -0300" stop="20180921220000 -0300" channel="13 C (Chile)">
+    <title lang="es">Si suena se toca</title>
+  </programme>
+  <programme start="20180921220000 -0300" stop="20180921223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20180921223000 -0300" stop="20180921230000 -0300" channel="13 C (Chile)">
+    <title lang="es">Metropolibros</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180921233000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santiago adicto</title>
+  </programme>
+  <programme start="20180921233000 -0300" stop="20180922000000 -0300" channel="13 C (Chile)">
+    <title lang="es">Sánguchez</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922010000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922020000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180922020000 -0300" stop="20180922030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bendito lunes</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Siempre Hay Un Chileno</title>
+  </programme>
+  <programme start="20180922060000 -0300" stop="20180922070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922073000 -0300" channel="13 C (Chile)">
+    <title lang="es">Paula sin culpa</title>
+  </programme>
+  <programme start="20180922073000 -0300" stop="20180922083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Zona Inmobiliaria</title>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922093000 -0300" channel="13 C (Chile)">
+    <title lang="es">Vive nórdico</title>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922100000 -0300" channel="13 C (Chile)">
+    <title lang="es">Entrechef</title>
+  </programme>
+  <programme start="20180922100000 -0300" stop="20180922103000 -0300" channel="13 C (Chile)">
+    <title lang="es">Los reyes del mar</title>
+  </programme>
+  <programme start="20180922103000 -0300" stop="20180922110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Síntoma Chilensis</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922120000 -0300" channel="13 C (Chile)">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20180922120000 -0300" stop="20180922130000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20180922130000 -0300" stop="20180922140000 -0300" channel="13 C (Chile)">
+    <title lang="es">Cómo me sano</title>
+  </programme>
+  <programme start="20180922140000 -0300" stop="20180922143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Aerial</title>
+  </programme>
+  <programme start="20180922143000 -0300" stop="20180922150000 -0300" channel="13 C (Chile)">
+    <title lang="es">Metropolibros</title>
+  </programme>
+  <programme start="20180922150000 -0300" stop="20180922153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20180922153000 -0300" stop="20180922160000 -0300" channel="13 C (Chile)">
+    <title lang="es">Conexión Asia</title>
+  </programme>
+  <programme start="20180922160000 -0300" stop="20180922163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Entrechef</title>
+  </programme>
+  <programme start="20180922163000 -0300" stop="20180922170000 -0300" channel="13 C (Chile)">
+    <title lang="es">Quinto patrimonio</title>
+  </programme>
+  <programme start="20180922170000 -0300" stop="20180922173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Desafio 2030</title>
+  </programme>
+  <programme start="20180922173000 -0300" stop="20180922180000 -0300" channel="13 C (Chile)">
+    <title lang="es">Soñadores</title>
+  </programme>
+  <programme start="20180922180000 -0300" stop="20180922183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Crónicas de Chile</title>
+  </programme>
+  <programme start="20180922183000 -0300" stop="20180922193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceania</title>
+  </programme>
+  <programme start="20180922193000 -0300" stop="20180922203000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180922203000 -0300" stop="20180922213000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bendito lunes</title>
+  </programme>
+  <programme start="20180922213000 -0300" stop="20180922220000 -0300" channel="13 C (Chile)">
+    <title lang="es">Quinto patrimonio</title>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180922223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santiago adicto</title>
+  </programme>
+  <programme start="20180922223000 -0300" stop="20180922230000 -0300" channel="13 C (Chile)">
+    <title lang="es">Sánguchez</title>
+  </programme>
+  <programme start="20180922230000 -0300" stop="20180923000000 -0300" channel="13 C (Chile)">
+    <title lang="es">Corte nacional</title>
+  </programme>
+  <programme start="20180923000000 -0300" stop="20180923010000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923010000 -0300" stop="20180923020000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923020000 -0300" stop="20180923030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923030000 -0300" stop="20180923040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923040000 -0300" stop="20180923050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923050000 -0300" stop="20180923060000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923073000 -0300" channel="13 C (Chile)">
+    <title lang="es">Paula sin culpa</title>
+  </programme>
+  <programme start="20180923073000 -0300" stop="20180923083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923093000 -0300" channel="13 C (Chile)">
+    <title lang="es">Vive nórdico</title>
+  </programme>
+  <programme start="20180923093000 -0300" stop="20180923100000 -0300" channel="13 C (Chile)">
+    <title lang="es">Entrechef</title>
+  </programme>
+  <programme start="20180923100000 -0300" stop="20180923103000 -0300" channel="13 C (Chile)">
+    <title lang="es">Los reyes del mar</title>
+  </programme>
+  <programme start="20180923103000 -0300" stop="20180923110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Síntoma Chilensis</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923120000 -0300" channel="13 C (Chile)">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20180923120000 -0300" stop="20180923130000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20180923130000 -0300" stop="20180923140000 -0300" channel="13 C (Chile)">
+    <title lang="es">Cómo me sano</title>
+  </programme>
+  <programme start="20180923140000 -0300" stop="20180923143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Si suena se toca</title>
+  </programme>
+  <programme start="20180923143000 -0300" stop="20180923150000 -0300" channel="13 C (Chile)">
+    <title lang="es">Metropolibros</title>
+  </programme>
+  <programme start="20180923150000 -0300" stop="20180923153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20180923153000 -0300" stop="20180923160000 -0300" channel="13 C (Chile)">
+    <title lang="es">Avivando la cueca</title>
+  </programme>
+  <programme start="20180923160000 -0300" stop="20180923170000 -0300" channel="13 C (Chile)">
+    <title lang="es">Quinto patrimonio</title>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Desafio 2030</title>
+  </programme>
+  <programme start="20180923173000 -0300" stop="20180923180000 -0300" channel="13 C (Chile)">
+    <title lang="es">Soñadores</title>
+  </programme>
+  <programme start="20180923180000 -0300" stop="20180923183000 -0300" channel="13 C (Chile)">
+    <title lang="es">En terreno</title>
+  </programme>
+  <programme start="20180923183000 -0300" stop="20180923193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceania</title>
+  </programme>
+  <programme start="20180923193000 -0300" stop="20180923203000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180923203000 -0300" stop="20180923213000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20180923213000 -0300" stop="20180923220000 -0300" channel="13 C (Chile)">
+    <title lang="es">Flores para Violeta</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Santiago adicto</title>
+  </programme>
+  <programme start="20180923223000 -0300" stop="20180923233000 -0300" channel="13 C (Chile)">
+    <title lang="es">Crónicas de Chile</title>
+  </programme>
+  <programme start="20180923233000 -0300" stop="20180924003000 -0300" channel="13 C (Chile)">
+    <title lang="es">Vive nórdico</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="Rec TV">
+    <title lang="es">Xica da Silva</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920080000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920090000 -0300" channel="Rec TV">
+    <title lang="es">Zona Inmobiliaria</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920100000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="Rec TV">
+    <title lang="es">Starsky &amp; Hutch New</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="Rec TV">
+    <title lang="es">Los Cárcamo</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920170000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920180000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920190000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="Rec TV">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920220000 -0300" channel="Rec TV">
+    <title lang="es">Los Cárcamo New</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920223000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180921000000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921010000 -0300" channel="Rec TV">
+    <title lang="es">Xica da Silva</title>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921020000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921030000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921040000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180921040000 -0300" stop="20180921043000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180921043000 -0300" stop="20180921060000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor</title>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921070000 -0300" channel="Rec TV">
+    <title lang="es">Xica da Silva</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921080000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921083000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180921083000 -0300" stop="20180921100000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="Rec TV">
+    <title lang="es">El Mundo del Profesor Rossa</title>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921120000 -0300" channel="Rec TV">
+    <title lang="es">El mundo del capitan sacacorchos</title>
+  </programme>
+  <programme start="20180921120000 -0300" stop="20180921130000 -0300" channel="Rec TV">
+    <title lang="es">Starsky &amp; Hutch New</title>
+  </programme>
+  <programme start="20180921130000 -0300" stop="20180921140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="Rec TV">
+    <title lang="es">Los Cárcamo</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921170000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921180000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921190000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="Rec TV">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921220000 -0300" channel="Rec TV">
+    <title lang="es">Los Cárcamo</title>
+  </programme>
+  <programme start="20180921220000 -0300" stop="20180921230000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180922000000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922010000 -0300" channel="Rec TV">
+    <title lang="es">Xica da Silva</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922020000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20180922020000 -0300" stop="20180922023000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180922023000 -0300" stop="20180922030000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922040000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922050000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922060000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180922060000 -0300" stop="20180922070000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922080000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922090000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922100000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180922100000 -0300" stop="20180922110000 -0300" channel="Rec TV">
+    <title lang="es">El Mundo del Profesor Rossa</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922120000 -0300" channel="Rec TV">
+    <title lang="es">El mundo del capitan sacacorchos</title>
+  </programme>
+  <programme start="20180922120000 -0300" stop="20180922123000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180922123000 -0300" stop="20180922130000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180922130000 -0300" stop="20180922140000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20180922140000 -0300" stop="20180922160000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20180922160000 -0300" stop="20180922170000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20180922170000 -0300" stop="20180922180000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180922180000 -0300" stop="20180922190000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180922190000 -0300" stop="20180922200000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922213000 -0300" channel="Rec TV">
+    <title lang="es">Mundo</title>
+  </programme>
+  <programme start="20180922213000 -0300" stop="20180922220000 -0300" channel="Rec TV">
+    <title lang="es">El Juicio de la Mirada</title>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180923000000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180923000000 -0300" stop="20180923020000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20180923020000 -0300" stop="20180923030000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20180923030000 -0300" stop="20180923033000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180923033000 -0300" stop="20180923040000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180923040000 -0300" stop="20180923060000 -0300" channel="Rec TV">
+    <title lang="es">Martes 13</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923080000 -0300" channel="Rec TV">
+    <title lang="es">Festival OTI</title>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923090000 -0300" channel="Rec TV">
+    <title lang="es">Zona Inmobiliaria</title>
+  </programme>
+  <programme start="20180923090000 -0300" stop="20180923093000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180923093000 -0300" stop="20180923100000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20180923100000 -0300" stop="20180923110000 -0300" channel="Rec TV">
+    <title lang="es">El Mundo del Profesor Rossa</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923120000 -0300" channel="Rec TV">
+    <title lang="es">El mundo del capitan sacacorchos</title>
+  </programme>
+  <programme start="20180923120000 -0300" stop="20180923123000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180923123000 -0300" stop="20180923130000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20180923130000 -0300" stop="20180923140000 -0300" channel="Rec TV">
+    <title lang="es">Más Música New</title>
+  </programme>
+  <programme start="20180923140000 -0300" stop="20180923150000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20180923150000 -0300" stop="20180923160000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20180923160000 -0300" stop="20180923173000 -0300" channel="Rec TV">
+    <title lang="es">Mundo</title>
+  </programme>
+  <programme start="20180923173000 -0300" stop="20180923180000 -0300" channel="Rec TV">
+    <title lang="es">El Juicio de la Mirada</title>
+  </programme>
+  <programme start="20180923180000 -0300" stop="20180923200000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20180923200000 -0300" stop="20180923210000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20180923210000 -0300" stop="20180923220000 -0300" channel="Rec TV">
+    <title lang="es">De Chincol a Jote</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923230000 -0300" channel="Rec TV">
+    <title lang="es">Hola domingo</title>
+  </programme>
+  <programme start="20180923230000 -0300" stop="20180924000000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Descendientes del sol</title>
+  </programme>
+  <programme start="20180920124000 -0300" stop="20180920131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20180920131500 -0300" stop="20180920140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Descendientes del sol</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180920233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180920233000 -0300" stop="20180921000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180921003000 -0300" stop="20180921010000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921013000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180921013000 -0300" stop="20180921020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921030000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180921040000 -0300" stop="20180921050000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180921050000 -0300" stop="20180921060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180921090000 -0300" stop="20180921100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180921120000 -0300" stop="20180921124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Descendientes del sol</title>
+  </programme>
+  <programme start="20180921124000 -0300" stop="20180921131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20180921131500 -0300" stop="20180921140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20180921213000 -0300" stop="20180921220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Descendientes del sol</title>
+  </programme>
+  <programme start="20180921220000 -0300" stop="20180921230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180921233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180921233000 -0300" stop="20180922000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180922003000 -0300" stop="20180922010000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922013000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180922013000 -0300" stop="20180922020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180922020000 -0300" stop="20180922030000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922050000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180922060000 -0300" stop="20180922083000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922133000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20180922133000 -0300" stop="20180922160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20180922160000 -0300" stop="20180922183000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20180922183000 -0300" stop="20180922210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20180922210000 -0300" stop="20180922233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180922233000 -0300" stop="20180923020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Descendientes del sol</title>
+  </programme>
+  <programme start="20180923020000 -0300" stop="20180923020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180923020000 -0300" stop="20180923040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Un Hombre Inocente</title>
+  </programme>
+  <programme start="20180923040000 -0300" stop="20180923060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El Sanador</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923083000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Saint Seiya Omega</title>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">All Out</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923133000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Yu-Gi-Oh!</title>
+  </programme>
+  <programme start="20180923133000 -0300" stop="20180923143000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Ultraseven X</title>
+  </programme>
+  <programme start="20180923143000 -0300" stop="20180923153000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Barom One</title>
+  </programme>
+  <programme start="20180923153000 -0300" stop="20180923163000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Gun Frontier</title>
+  </programme>
+  <programme start="20180923163000 -0300" stop="20180923173000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Schwarzes marken</title>
+  </programme>
+  <programme start="20180923173000 -0300" stop="20180923183000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Rokka</title>
+  </programme>
+  <programme start="20180923183000 -0300" stop="20180923193000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Punch Man</title>
+  </programme>
+  <programme start="20180923193000 -0300" stop="20180923220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180924003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20180920043000 -0300" stop="20180920050000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920060000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920090000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180920090000 -0300" stop="20180920093000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920100000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920140000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Camino al Éxito</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920143000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180920143000 -0300" stop="20180920150000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920160000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920170000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920180000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920190000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Camino al Éxito</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920220000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180920233000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Enter</title>
+  </programme>
+  <programme start="20180920233000 -0300" stop="20180921000000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921010000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921020000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921030000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921033000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180921033000 -0300" stop="20180921043000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180921043000 -0300" stop="20180921050000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921050000 -0300" stop="20180921060000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921070000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921090000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921090000 -0300" stop="20180921093000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180921093000 -0300" stop="20180921100000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921120000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180921120000 -0300" stop="20180921130000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180921130000 -0300" stop="20180921140000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Camino al Éxito</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921143000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180921143000 -0300" stop="20180921150000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921160000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921170000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921180000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921190000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Camino al Éxito</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">5 x 5</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Puro hit</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921220000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180921220000 -0300" stop="20180921230000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Style</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180921233000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Enter</title>
+  </programme>
+  <programme start="20180921233000 -0300" stop="20180922000000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922003000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922003000 -0300" stop="20180922010000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922020000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Todo suena</title>
+  </programme>
+  <programme start="20180922020000 -0300" stop="20180922023000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922023000 -0300" stop="20180922030000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922033000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922033000 -0300" stop="20180922040000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922050000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Soundtrax</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922060000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Mi bloke</title>
+  </programme>
+  <programme start="20180922060000 -0300" stop="20180922063000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922063000 -0300" stop="20180922070000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922080000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Danz</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922083000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922090000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922100000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922100000 -0300" stop="20180922103000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922103000 -0300" stop="20180922110000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922120000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Curio City</title>
+  </programme>
+  <programme start="20180922120000 -0300" stop="20180922130000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Mi bloke</title>
+  </programme>
+  <programme start="20180922130000 -0300" stop="20180922140000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Soundtrax</title>
+  </programme>
+  <programme start="20180922140000 -0300" stop="20180922143000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922143000 -0300" stop="20180922150000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922150000 -0300" stop="20180922160000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Todo suena</title>
+  </programme>
+  <programme start="20180922160000 -0300" stop="20180922170000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Danz</title>
+  </programme>
+  <programme start="20180922170000 -0300" stop="20180922173000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922173000 -0300" stop="20180922180000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922180000 -0300" stop="20180922183000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922183000 -0300" stop="20180922190000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922190000 -0300" stop="20180922193000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180922193000 -0300" stop="20180922200000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922210000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Curio City</title>
+  </programme>
+  <programme start="20180922210000 -0300" stop="20180922220000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Soundtrax</title>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180922223000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922223000 -0300" stop="20180922230000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180922230000 -0300" stop="20180923000000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Pasa el mic</title>
+  </programme>
+  <programme start="20180923000000 -0300" stop="20180923010000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Pasa el mic</title>
+  </programme>
+  <programme start="20180923010000 -0300" stop="20180923013000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923013000 -0300" stop="20180923020000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923020000 -0300" stop="20180923023000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923023000 -0300" stop="20180923030000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923030000 -0300" stop="20180923033000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923033000 -0300" stop="20180923040000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923040000 -0300" stop="20180923043000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923043000 -0300" stop="20180923050000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923050000 -0300" stop="20180923060000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Pasa el mic</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Pasa el mic</title>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923073000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923073000 -0300" stop="20180923080000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923083000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923090000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923090000 -0300" stop="20180923100000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Curio City</title>
+  </programme>
+  <programme start="20180923100000 -0300" stop="20180923103000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923103000 -0300" stop="20180923110000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923113000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180923113000 -0300" stop="20180923120000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180923120000 -0300" stop="20180923123000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180923123000 -0300" stop="20180923130000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180923130000 -0300" stop="20180923133000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Rankea'o</title>
+  </programme>
+  <programme start="20180923133000 -0300" stop="20180923140000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20180923140000 -0300" stop="20180923150000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Soundtrax</title>
+  </programme>
+  <programme start="20180923150000 -0300" stop="20180923153000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180923153000 -0300" stop="20180923160000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180923160000 -0300" stop="20180923170000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Curio City</title>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923180000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Mi bloke</title>
+  </programme>
+  <programme start="20180923180000 -0300" stop="20180923190000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Danz</title>
+  </programme>
+  <programme start="20180923190000 -0300" stop="20180923193000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180923193000 -0300" stop="20180923200000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Oriente express</title>
+  </programme>
+  <programme start="20180923200000 -0300" stop="20180923210000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Soundtrax</title>
+  </programme>
+  <programme start="20180923210000 -0300" stop="20180923220000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Todo suena</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923230000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Curio City</title>
+  </programme>
+  <programme start="20180923230000 -0300" stop="20180924000000 -0300" channel="Bang TV (Chile) ">
+    <title lang="es">Danz</title>
+  </programme>
+  <programme start="20180920051000 -0300" stop="20180920060500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920060500 -0300" stop="20180920070500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180920070500 -0300" stop="20180920080500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920080500 -0300" stop="20180920090500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180920090500 -0300" stop="20180920093000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920100000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920103000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920125000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920125000 -0300" stop="20180920133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180920143000 -0300" stop="20180920150000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920160000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920163000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920193000 -0300" stop="20180920203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180920231000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920231000 -0300" stop="20180920234000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Amateur: Unidos por la Cancha</title>
+  </programme>
+  <programme start="20180920234000 -0300" stop="20180921020000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921020000 -0300" stop="20180921024000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921024000 -0300" stop="20180921024000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921024000 -0300" stop="20180921044000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921044000 -0300" stop="20180921051000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921051000 -0300" stop="20180921060500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921060500 -0300" stop="20180921070500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180921070500 -0300" stop="20180921080500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921080500 -0300" stop="20180921090500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180921090500 -0300" stop="20180921093000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180921093000 -0300" stop="20180921101000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921101000 -0300" stop="20180921104000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921104000 -0300" stop="20180921124000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921124000 -0300" stop="20180921133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921133000 -0300" stop="20180921143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180921143000 -0300" stop="20180921150000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921160000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921163000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921190000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Extra desde el estadio New</title>
+  </programme>
+  <programme start="20180921193000 -0300" stop="20180921203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180921203000 -0300" stop="20180921213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180921213000 -0300" stop="20180921223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180921223000 -0300" stop="20180921230000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Amateur: Unidos por la Cancha New</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180921233000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Sucesos</title>
+  </programme>
+  <programme start="20180921233000 -0300" stop="20180922000000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922003000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922003000 -0300" stop="20180922023000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922023000 -0300" stop="20180922023000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180922023000 -0300" stop="20180922031000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180922031000 -0300" stop="20180922052000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922052000 -0300" stop="20180922061500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922061500 -0300" stop="20180922070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922080000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922090000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922104500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922104500 -0300" stop="20180922115000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922115000 -0300" stop="20180922122000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180922122000 -0300" stop="20180922125000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180922125000 -0300" stop="20180922135000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180922135000 -0300" stop="20180922142000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180922142000 -0300" stop="20180922155000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180922155000 -0300" stop="20180922165000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Clubes: Nuestra historia</title>
+  </programme>
+  <programme start="20180922165000 -0300" stop="20180922200000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180922203000 -0300" stop="20180922213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922213000 -0300" stop="20180922220000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180922230000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180922230000 -0300" stop="20180923000000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923000000 -0300" stop="20180923021000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923021000 -0300" stop="20180923024000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180923024000 -0300" stop="20180923024000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180923024000 -0300" stop="20180923041000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180923041000 -0300" stop="20180923050500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923050500 -0300" stop="20180923053000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180923053000 -0300" stop="20180923060000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923080000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923083000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923090000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180923090000 -0300" stop="20180923100000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923100000 -0300" stop="20180923103000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20180923103000 -0300" stop="20180923110000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Inter</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923131500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923131500 -0300" stop="20180923144500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180923144500 -0300" stop="20180923151500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180923151500 -0300" stop="20180923170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923184000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923184000 -0300" stop="20180923193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Historia de los Mundiales</title>
+  </programme>
+  <programme start="20180923193000 -0300" stop="20180923203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Historia de los Mundiales</title>
+  </programme>
+  <programme start="20180923203000 -0300" stop="20180923210000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20180923210000 -0300" stop="20180923220000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923233000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180923233000 -0300" stop="20180924015000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180920054000 -0300" stop="20180920063500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920063500 -0300" stop="20180920073500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180920073500 -0300" stop="20180920083500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920083500 -0300" stop="20180920093500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180920093500 -0300" stop="20180920100000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920103000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920110000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920132000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920132000 -0300" stop="20180920140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920153000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920163000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920183000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920190000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920220000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180920234000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920234000 -0300" stop="20180921001000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Amateur: Unidos por la Cancha</title>
+  </programme>
+  <programme start="20180921001000 -0300" stop="20180921023000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921023000 -0300" stop="20180921023000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921023000 -0300" stop="20180921031000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921031000 -0300" stop="20180921051000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921051000 -0300" stop="20180921054000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921054000 -0300" stop="20180921063500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921063500 -0300" stop="20180921073500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180921073500 -0300" stop="20180921083500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921083500 -0300" stop="20180921093500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180921093500 -0300" stop="20180921100000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921104000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921104000 -0300" stop="20180921111000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921111000 -0300" stop="20180921131000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921131000 -0300" stop="20180921140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921153000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921153000 -0300" stop="20180921163000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921173000 -0300" stop="20180921183000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921190000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921222000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División Live</title>
+  </programme>
+  <programme start="20180921222000 -0300" stop="20180921232000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180921232000 -0300" stop="20180922002000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180922002000 -0300" stop="20180922011500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180922011500 -0300" stop="20180922011500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922011500 -0300" stop="20180922040000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922043000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Sucesos</title>
+  </programme>
+  <programme start="20180922043000 -0300" stop="20180922050000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922053000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922053000 -0300" stop="20180922063000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922063000 -0300" stop="20180922073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180922073000 -0300" stop="20180922080000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922083000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922090000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922095500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180922095500 -0300" stop="20180922102000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Aprendamos de fútbol</title>
+  </programme>
+  <programme start="20180922102000 -0300" stop="20180922105000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180922105000 -0300" stop="20180922123000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180922123000 -0300" stop="20180922133000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180922133000 -0300" stop="20180922143000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922143000 -0300" stop="20180922153000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Código Camarín New</title>
+  </programme>
+  <programme start="20180922153000 -0300" stop="20180922171000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180922171000 -0300" stop="20180922185000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180922185000 -0300" stop="20180922200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Historia de los Mundiales</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922210000 -0300" stop="20180922213000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922213000 -0300" stop="20180922223000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180922223000 -0300" stop="20180922231500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Clubes: Nuestra historia New</title>
+  </programme>
+  <programme start="20180922231500 -0300" stop="20180923001500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Show de Goles</title>
+  </programme>
+  <programme start="20180923001500 -0300" stop="20180923015500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180923015500 -0300" stop="20180923022500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923022500 -0300" stop="20180923022500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923022500 -0300" stop="20180923032500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923032500 -0300" stop="20180923041500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Clubes: Nuestra historia</title>
+  </programme>
+  <programme start="20180923041500 -0300" stop="20180923043000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923043000 -0300" stop="20180923050000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180923050000 -0300" stop="20180923053000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180923053000 -0300" stop="20180923060000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180923060000 -0300" stop="20180923070000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923073000 -0300" stop="20180923080000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923084500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Clubes: Nuestra historia</title>
+  </programme>
+  <programme start="20180923084500 -0300" stop="20180923090500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180923090500 -0300" stop="20180923093000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20180923093000 -0300" stop="20180923111000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180923111000 -0300" stop="20180923125000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20180923125000 -0300" stop="20180923135000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923135000 -0300" stop="20180923160000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923160000 -0300" stop="20180923170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923180000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180923180000 -0300" stop="20180923190000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180923190000 -0300" stop="20180923200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180923200000 -0300" stop="20180923210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180923210000 -0300" stop="20180923220000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Show de Goles</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923230000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923230000 -0300" stop="20180924000000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180920054000 -0300" stop="20180920063500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920063500 -0300" stop="20180920073500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180920073500 -0300" stop="20180920083500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180920083500 -0300" stop="20180920093500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180920093500 -0300" stop="20180920100000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920103000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920110000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920132000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920132000 -0300" stop="20180920140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920153000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920163000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180920163000 -0300" stop="20180920170000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180920173000 -0300" stop="20180920183000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920190000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920210000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920220000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180920234000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180920234000 -0300" stop="20180921001000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Amateur: Unidos por la Cancha</title>
+  </programme>
+  <programme start="20180921001000 -0300" stop="20180921023000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921023000 -0300" stop="20180921023000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921023000 -0300" stop="20180921031000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921031000 -0300" stop="20180921051000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921051000 -0300" stop="20180921054000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921054000 -0300" stop="20180921063500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921063500 -0300" stop="20180921073500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180921073500 -0300" stop="20180921083500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180921083500 -0300" stop="20180921093500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180921093500 -0300" stop="20180921100000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921104000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921104000 -0300" stop="20180921111000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921111000 -0300" stop="20180921131000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180921131000 -0300" stop="20180921140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921153000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921153000 -0300" stop="20180921163000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921170000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921173000 -0300" stop="20180921183000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921190000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921222000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División Live</title>
+  </programme>
+  <programme start="20180921222000 -0300" stop="20180921232000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20180921232000 -0300" stop="20180922002000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20180922002000 -0300" stop="20180922011500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20180922011500 -0300" stop="20180922011500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922011500 -0300" stop="20180922040000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180922040000 -0300" stop="20180922043000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Sucesos</title>
+  </programme>
+  <programme start="20180922043000 -0300" stop="20180922050000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922050000 -0300" stop="20180922053000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20180922053000 -0300" stop="20180922063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922063000 -0300" stop="20180922073000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180922073000 -0300" stop="20180922083000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922083000 -0300" stop="20180922093500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20180922093500 -0300" stop="20180922100500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180922100500 -0300" stop="20180922103500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20180922103500 -0300" stop="20180922112000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Clubes: Nuestra historia</title>
+  </programme>
+  <programme start="20180922112000 -0300" stop="20180922142000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922142000 -0300" stop="20180922171000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922171000 -0300" stop="20180922194500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922194500 -0300" stop="20180922223000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922223000 -0300" stop="20180922233000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180922233000 -0300" stop="20180923003000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Código Camarín New</title>
+  </programme>
+  <programme start="20180923003000 -0300" stop="20180923003000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180923003000 -0300" stop="20180923030500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20180923030500 -0300" stop="20180923040500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923040500 -0300" stop="20180923053500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180923053500 -0300" stop="20180923063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923063000 -0300" stop="20180923064500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF</title>
+  </programme>
+  <programme start="20180923064500 -0300" stop="20180923074500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20180923074500 -0300" stop="20180923092000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20180923092000 -0300" stop="20180923102000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Código Camarín</title>
+  </programme>
+  <programme start="20180923102000 -0300" stop="20180923105000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20180923105000 -0300" stop="20180923112000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Inter</title>
+  </programme>
+  <programme start="20180923112000 -0300" stop="20180923115000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20180923115000 -0300" stop="20180923144000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20180923144000 -0300" stop="20180923171000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923171000 -0300" stop="20180923194000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923194000 -0300" stop="20180923222500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera B Live</title>
+  </programme>
+  <programme start="20180923222500 -0300" stop="20180923232500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923232500 -0300" stop="20180924005500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920080000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920083000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Pádel</title>
+  </programme>
+  <programme start="20180920083000 -0300" stop="20180920093000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920103000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920113000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180920113000 -0300" stop="20180920133000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920140000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920153000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920160000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20180920160000 -0300" stop="20180920180000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920183000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20180920183000 -0300" stop="20180920190000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920220000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920223000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180920230000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Lanzamiento XSportsTV New</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180921000000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Rugby</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921013000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+  </programme>
+  <programme start="20180921013000 -0300" stop="20180921013000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921013000 -0300" stop="20180921033000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921033000 -0300" stop="20180921043000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180921043000 -0300" stop="20180921063000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921063000 -0300" stop="20180921073000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180921073000 -0300" stop="20180921090000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+  </programme>
+  <programme start="20180921090000 -0300" stop="20180921100000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921133000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Campeonato Histórico de Velocidad FourB</title>
+  </programme>
+  <programme start="20180921133000 -0300" stop="20180921140000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921153000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180921153000 -0300" stop="20180921160000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921163000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921183000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921190000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921230000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Rugby</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180922000000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922010000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Bío-Bío Deportes</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922030000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922033000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922033000 -0300" stop="20180922043000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922043000 -0300" stop="20180922063000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922063000 -0300" stop="20180922070000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922080000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Bío-Bío Deportes</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922090000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922093000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Aventura Increible</title>
+  </programme>
+  <programme start="20180922093000 -0300" stop="20180922103000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180922103000 -0300" stop="20180922110000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922113000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922113000 -0300" stop="20180922130000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922130000 -0300" stop="20180922133000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922133000 -0300" stop="20180922140000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180922140000 -0300" stop="20180922150000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180922150000 -0300" stop="20180922153000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922153000 -0300" stop="20180922163000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922163000 -0300" stop="20180922193000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922193000 -0300" stop="20180922200000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922220000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922220000 -0300" stop="20180922230000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922230000 -0300" stop="20180922233000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922233000 -0300" stop="20180923000000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Circuito Alpino Directv</title>
+  </programme>
+  <programme start="20180923000000 -0300" stop="20180923010000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180923010000 -0300" stop="20180923010000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923010000 -0300" stop="20180923033000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923033000 -0300" stop="20180923040000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Circuito Alpino Directv</title>
+  </programme>
+  <programme start="20180923040000 -0300" stop="20180923043000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180923043000 -0300" stop="20180923063000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923063000 -0300" stop="20180923073000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180923073000 -0300" stop="20180923083000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180923083000 -0300" stop="20180923103000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Liga Nacional de Voleibol</title>
+  </programme>
+  <programme start="20180923103000 -0300" stop="20180923133000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923133000 -0300" stop="20180923140000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Aventura Increible</title>
+  </programme>
+  <programme start="20180923140000 -0300" stop="20180923143000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180923143000 -0300" stop="20180923153000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180923153000 -0300" stop="20180923163000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923163000 -0300" stop="20180923173000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180923173000 -0300" stop="20180923213000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923213000 -0300" stop="20180923220000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923223000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180923223000 -0300" stop="20180923230000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923230000 -0300" stop="20180924000000 -0300" channel="CDO Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920083000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Voleibol</title>
+  </programme>
+  <programme start="20180920083000 -0300" stop="20180920093000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180920093000 -0300" stop="20180920103000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180920103000 -0300" stop="20180920113000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180920113000 -0300" stop="20180920133000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180920133000 -0300" stop="20180920140000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920153000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180920153000 -0300" stop="20180920190000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Campeonato Histórico de Velocidad FourB</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920203000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920210000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Edición Limitada</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920213000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920220000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Pádel</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920223000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180920223000 -0300" stop="20180920230000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Lanzamiento XSportsTV New</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180921000000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Rugby</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921013000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+  </programme>
+  <programme start="20180921013000 -0300" stop="20180921013000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921013000 -0300" stop="20180921033000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921033000 -0300" stop="20180921043000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180921043000 -0300" stop="20180921070000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921080000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921093000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes</title>
+  </programme>
+  <programme start="20180921093000 -0300" stop="20180921103000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180921103000 -0300" stop="20180921113000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180921113000 -0300" stop="20180921133000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Rugby</title>
+  </programme>
+  <programme start="20180921133000 -0300" stop="20180921140000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921153000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180921153000 -0300" stop="20180921160000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Freerider</title>
+  </programme>
+  <programme start="20180921160000 -0300" stop="20180921163000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180921163000 -0300" stop="20180921183000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921183000 -0300" stop="20180921190000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones New</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921210000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Los Tenores de ADN Deportes New</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921230000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Liga Femenina de Basquetbol</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180922000000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180922000000 -0300" stop="20180922010000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">BioBio TV</title>
+  </programme>
+  <programme start="20180922010000 -0300" stop="20180922030000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922030000 -0300" stop="20180922033000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922033000 -0300" stop="20180922043000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922043000 -0300" stop="20180922063000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922063000 -0300" stop="20180922070000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922070000 -0300" stop="20180922080000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">BioBio TV</title>
+  </programme>
+  <programme start="20180922080000 -0300" stop="20180922090000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922090000 -0300" stop="20180922110000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922110000 -0300" stop="20180922113000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Fábrica de Campeones</title>
+  </programme>
+  <programme start="20180922113000 -0300" stop="20180922130000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Juegos Panamericanos 2015</title>
+  </programme>
+  <programme start="20180922130000 -0300" stop="20180922140000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180922140000 -0300" stop="20180922150000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Básquetbol</title>
+  </programme>
+  <programme start="20180922150000 -0300" stop="20180922153000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180922153000 -0300" stop="20180922160000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Circuito Alpino Directv</title>
+  </programme>
+  <programme start="20180922160000 -0300" stop="20180922180000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922180000 -0300" stop="20180922200000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922200000 -0300" stop="20180922223000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180922223000 -0300" stop="20180923013000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923013000 -0300" stop="20180923013000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923013000 -0300" stop="20180923033000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923033000 -0300" stop="20180923070000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923070000 -0300" stop="20180923080000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">CDO Motor</title>
+  </programme>
+  <programme start="20180923080000 -0300" stop="20180923090000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Vision Sport</title>
+  </programme>
+  <programme start="20180923090000 -0300" stop="20180923110000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923110000 -0300" stop="20180923113000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Aventura 4x4</title>
+  </programme>
+  <programme start="20180923113000 -0300" stop="20180923120000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Travel Tenis</title>
+  </programme>
+  <programme start="20180923120000 -0300" stop="20180923153000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923153000 -0300" stop="20180923170000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Juegos Panamericanos 2015</title>
+  </programme>
+  <programme start="20180923170000 -0300" stop="20180923200000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923200000 -0300" stop="20180923220000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20180923220000 -0300" stop="20180923223000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Mototematicos</title>
+  </programme>
+  <programme start="20180923223000 -0300" stop="20180923230000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Circuito Alpino Directv</title>
+  </programme>
+  <programme start="20180923230000 -0300" stop="20180924010000 -0300" channel="CDO Premium Canal Deporte Olimpico ">
+    <title lang="es">Deporte: Será Anunciado</title>
   </programme>
 </tv>
