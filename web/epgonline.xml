@@ -101,6 +101,9 @@
     <icon src="http://181.30.4.186/buscador/img/Logos/2838965.gif" />
     <url>http://www.reportv.com.ar</url>
   </channel>
+  <channel id="UCV 3">
+    <display-name lang="es">UCV 3</display-name>
+  </channel>
   <programme start="20180919080000 -0300" stop="20180919083000 -0300" channel="I-NET TV">
     <title lang="es">Noticias</title>
     <desc lang="es">Las noticias más importantes a nivel nacional e internacional(n)</desc>
@@ -5673,5 +5676,149 @@
   </programme>
   <programme start="20180922215400 -0300" stop="20180923000200 -0300" channel="TV SENADO">
     <title lang="es">Infancia: reflexiones, propuestas, iniciativas</title>
+  </programme>
+  <programme start="20180919220000 -0300" stop="20180919230000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180919230000 -0300" stop="20180920000000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920000000 -0300" stop="20180920010000 -0300" channel="UCV 3">
+    <title lang="es">Nada simple todo simple</title>
+  </programme>
+  <programme start="20180920010000 -0300" stop="20180920030000 -0300" channel="UCV 3">
+    <title lang="es">Cine clasico chileno</title>
+  </programme>
+  <programme start="20180920030000 -0300" stop="20180920040000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180920040000 -0300" stop="20180920050000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920050000 -0300" stop="20180920060000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180920060000 -0300" stop="20180920070000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180920070000 -0300" stop="20180920080000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180920080000 -0300" stop="20180920100000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180920100000 -0300" stop="20180920110000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180920110000 -0300" stop="20180920120000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920120000 -0300" stop="20180920130000 -0300" channel="UCV 3">
+    <title lang="es">Es tema a las 12</title>
+  </programme>
+  <programme start="20180920130000 -0300" stop="20180920140000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180920140000 -0300" stop="20180920150000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920150000 -0300" stop="20180920170000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180920170000 -0300" stop="20180920180000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180920180000 -0300" stop="20180920190000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180920190000 -0300" stop="20180920200000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180920200000 -0300" stop="20180920203000 -0300" channel="UCV 3">
+    <title lang="es">Saber +</title>
+  </programme>
+  <programme start="20180920203000 -0300" stop="20180920210000 -0300" channel="UCV 3">
+    <title lang="es">La Entrevista</title>
+  </programme>
+  <programme start="20180920210000 -0300" stop="20180920213000 -0300" channel="UCV 3">
+    <title lang="es">Vida conciencia</title>
+  </programme>
+  <programme start="20180920213000 -0300" stop="20180920220000 -0300" channel="UCV 3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20180920220000 -0300" stop="20180920230000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180920230000 -0300" stop="20180921000000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180921000000 -0300" stop="20180921010000 -0300" channel="UCV 3">
+    <title lang="es">Nada simple todo simple</title>
+  </programme>
+  <programme start="20180921010000 -0300" stop="20180921030000 -0300" channel="UCV 3">
+    <title lang="es">Cine clasico chileno</title>
+  </programme>
+  <programme start="20180921030000 -0300" stop="20180921040000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180921040000 -0300" stop="20180921050000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180921050000 -0300" stop="20180921060000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180921060000 -0300" stop="20180921070000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180921070000 -0300" stop="20180921080000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180921080000 -0300" stop="20180921100000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180921100000 -0300" stop="20180921110000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180921110000 -0300" stop="20180921120000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180921120000 -0300" stop="20180921130000 -0300" channel="UCV 3">
+    <title lang="es">Es tema a las 12</title>
+  </programme>
+  <programme start="20180921130000 -0300" stop="20180921140000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180921140000 -0300" stop="20180921150000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180921150000 -0300" stop="20180921170000 -0300" channel="UCV 3">
+    <title lang="es">Zoomoo</title>
+  </programme>
+  <programme start="20180921170000 -0300" stop="20180921180000 -0300" channel="UCV 3">
+    <title lang="es">Love Nature</title>
+  </programme>
+  <programme start="20180921180000 -0300" stop="20180921190000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180921190000 -0300" stop="20180921200000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
+  </programme>
+  <programme start="20180921200000 -0300" stop="20180921203000 -0300" channel="UCV 3">
+    <title lang="es">Saber +</title>
+  </programme>
+  <programme start="20180921203000 -0300" stop="20180921210000 -0300" channel="UCV 3">
+    <title lang="es">La Entrevista</title>
+  </programme>
+  <programme start="20180921210000 -0300" stop="20180921213000 -0300" channel="UCV 3">
+    <title lang="es">Vida conciencia</title>
+  </programme>
+  <programme start="20180921213000 -0300" stop="20180921220000 -0300" channel="UCV 3">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20180921220000 -0300" stop="20180921230000 -0300" channel="UCV 3">
+    <title lang="es">Vision musical de Chile Margot Loyola</title>
+  </programme>
+  <programme start="20180921230000 -0300" stop="20180922000000 -0300" channel="UCV 3">
+    <title lang="es">Megadesastres</title>
   </programme>
 </tv>
