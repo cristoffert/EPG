@@ -9,11 +9,11 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Movistar Acción HDTV (Spain)">
-    <display-name lang="es">Movistar  Accion</display-name>
+    <display-name lang="es">Movistar Accion</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Movistar Comedia HDTV (Spain)">
-    <display-name lang="es">Movistar  Comedia</display-name>
+    <display-name lang="es">Movistar Comedia</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Sundance HDTV">
@@ -57,7 +57,7 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Movistar Series HDTV (Spain)">
-    <display-name lang="es">Movistar  Series</display-name>
+    <display-name lang="es">Movistar Series</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="SyFy HDTV (Spain)">
