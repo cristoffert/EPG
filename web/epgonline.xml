@@ -49,6 +49,39 @@
     <icon src="http://181.30.4.186/buscador/img/Logos/600502.gif" />
     <url>http://www.reportv.com.ar</url>
   </channel>
+  <channel id="13 C (Chile)">
+    <display-name lang="es">13C HD</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Rec TV">
+    <display-name lang="es">Rec TV</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="ETC TV (Chile)">
+    <display-name lang="es">ETC TV</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal del Fútbol (Básico)">
+    <display-name lang="es">CDF BASICO</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal del Fútbol (Premium)">
+    <display-name lang="es">CDF PREMIUM</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal del Fútbol HDTV">
+    <display-name lang="es">CDF HD</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="ZONA LATINA">
+    <display-name lang="es">ZONA LATINA</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/574132.gif" />
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="Via Equis ">
+    <display-name lang="es">VIA X</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
   <programme start="20190114073000 -0300" stop="20190114083000 -0300" channel="I-NET TV">
     <title lang="es">Resumen noticias</title>
   </programme>
@@ -2271,5 +2304,2732 @@
   </programme>
   <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="CNN CHILE">
     <title lang="es">Última mirada</title>
+  </programme>
+  <programme start="20190115050000 -0300" stop="20190115060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115073000 -0300" channel="13 C (Chile)">
+    <title lang="es">Reportajes de selección</title>
+  </programme>
+  <programme start="20190115073000 -0300" stop="20190115083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Zona Inmobiliaria</title>
+  </programme>
+  <programme start="20190115083000 -0300" stop="20190115090000 -0300" channel="13 C (Chile)">
+    <title lang="es">Reportajes de selección</title>
+  </programme>
+  <programme start="20190115090000 -0300" stop="20190115093000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20190115093000 -0300" stop="20190115100000 -0300" channel="13 C (Chile)">
+    <title lang="es">Todo por la ciencia</title>
+  </programme>
+  <programme start="20190115100000 -0300" stop="20190115103000 -0300" channel="13 C (Chile)">
+    <title lang="es">Factor de Cambio</title>
+  </programme>
+  <programme start="20190115103000 -0300" stop="20190115113000 -0300" channel="13 C (Chile)">
+    <title lang="es">De cuchara</title>
+  </programme>
+  <programme start="20190115113000 -0300" stop="20190115123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190115123000 -0300" stop="20190115133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190115133000 -0300" stop="20190115143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190115143000 -0300" stop="20190115153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190115153000 -0300" stop="20190115163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190115173000 -0300" stop="20190115183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceanía</title>
+  </programme>
+  <programme start="20190115183000 -0300" stop="20190115193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190115193000 -0300" stop="20190115203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190115203000 -0300" stop="20190115213000 -0300" channel="13 C (Chile)">
+    <title lang="es">De cuchara</title>
+  </programme>
+  <programme start="20190115213000 -0300" stop="20190115223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo América</title>
+  </programme>
+  <programme start="20190115223000 -0300" stop="20190115233000 -0300" channel="13 C (Chile)">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20190115233000 -0300" stop="20190116003000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20190116003000 -0300" stop="20190116010000 -0300" channel="13 C (Chile)">
+    <title lang="es">En la makinita</title>
+  </programme>
+  <programme start="20190116010000 -0300" stop="20190116020000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190116020000 -0300" stop="20190116030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190116030000 -0300" stop="20190116040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190116040000 -0300" stop="20190116050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190116050000 -0300" stop="20190116060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116080000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Lenguas indígenas</title>
+  </programme>
+  <programme start="20190116083000 -0300" stop="20190116090000 -0300" channel="13 C (Chile)">
+    <title lang="es">En terreno</title>
+  </programme>
+  <programme start="20190116090000 -0300" stop="20190116100000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo América</title>
+  </programme>
+  <programme start="20190116100000 -0300" stop="20190116110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20190116110000 -0300" stop="20190116113000 -0300" channel="13 C (Chile)">
+    <title lang="es">Yo veo bío bío</title>
+  </programme>
+  <programme start="20190116113000 -0300" stop="20190116123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190116123000 -0300" stop="20190116133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190116133000 -0300" stop="20190116143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190116143000 -0300" stop="20190116153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190116153000 -0300" stop="20190116163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190116173000 -0300" stop="20190116183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20190116183000 -0300" stop="20190116193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190116193000 -0300" stop="20190116203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190116203000 -0300" stop="20190116210000 -0300" channel="13 C (Chile)">
+    <title lang="es">Desafio 2030</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116213000 -0300" channel="13 C (Chile)">
+    <title lang="es">En terreno</title>
+  </programme>
+  <programme start="20190116213000 -0300" stop="20190116220000 -0300" channel="13 C (Chile)">
+    <title lang="es">Modo Wellness</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Factor de Cambio</title>
+  </programme>
+  <programme start="20190116223000 -0300" stop="20190116230000 -0300" channel="13 C (Chile)">
+    <title lang="es">El giornalista</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190117000000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bendito lunes</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117010000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117020000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Lenguas indígenas</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117090000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117093000 -0300" channel="13 C (Chile)">
+    <title lang="es">El giornalista</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117103000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceanía</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117113000 -0300" channel="13 C (Chile)">
+    <title lang="es">A dos voces</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117140000 -0300" channel="13 C (Chile)">
+    <title lang="es">Desafio 2030</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Despega a Brasil</title>
+  </programme>
+  <programme start="20190117143000 -0300" stop="20190117153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190117153000 -0300" stop="20190117163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190117163000 -0300" stop="20190117173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo América</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117210000 -0300" channel="13 C (Chile)">
+    <title lang="es">Yo veo bío bío</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="13 C (Chile)">
+    <title lang="es">Despega a Brasil</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Rec 2016</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117233000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118000000 -0300" channel="13 C (Chile)">
+    <title lang="es">En la makinita</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118010000 -0300" channel="13 C (Chile)">
+    <title lang="es">De cuchara</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118020000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20190118020000 -0300" stop="20190118030000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190118030000 -0300" stop="20190118040000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118050000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118060000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118070000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118080000 -0300" channel="13 C (Chile)">
+    <title lang="es">Bitácora de Viaje</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118083000 -0300" channel="13 C (Chile)">
+    <title lang="es">Lenguas indígenas</title>
+  </programme>
+  <programme start="20190118083000 -0300" stop="20190118090000 -0300" channel="13 C (Chile)">
+    <title lang="es">Todo por la ciencia</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118100000 -0300" channel="13 C (Chile)">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20190118100000 -0300" stop="20190118110000 -0300" channel="13 C (Chile)">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118113000 -0300" channel="13 C (Chile)">
+    <title lang="es">Modo Wellness</title>
+  </programme>
+  <programme start="20190118113000 -0300" stop="20190118123000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190118123000 -0300" stop="20190118133000 -0300" channel="13 C (Chile)">
+    <title lang="es">Carlo Cocina</title>
+  </programme>
+  <programme start="20190118133000 -0300" stop="20190118143000 -0300" channel="13 C (Chile)">
+    <title lang="es">Rec 2016</title>
+  </programme>
+  <programme start="20190118143000 -0300" stop="20190118153000 -0300" channel="13 C (Chile)">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20190118153000 -0300" stop="20190118163000 -0300" channel="13 C (Chile)">
+    <title lang="es">Al sur del mundo</title>
+  </programme>
+  <programme start="20190118163000 -0300" stop="20190118173000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190118173000 -0300" stop="20190118183000 -0300" channel="13 C (Chile)">
+    <title lang="es">Oceanía</title>
+  </programme>
+  <programme start="20190118183000 -0300" stop="20190118193000 -0300" channel="13 C (Chile)">
+    <title lang="es">Tierra adentro</title>
+  </programme>
+  <programme start="20190118193000 -0300" stop="20190118203000 -0300" channel="13 C (Chile)">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190118203000 -0300" stop="20190118213000 -0300" channel="13 C (Chile)">
+    <title lang="es">Las últimas tribus</title>
+  </programme>
+  <programme start="20190118213000 -0300" stop="20190118220000 -0300" channel="13 C (Chile)">
+    <title lang="es">En terreno</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118223000 -0300" channel="13 C (Chile)">
+    <title lang="es">Off the Record</title>
+  </programme>
+  <programme start="20190118223000 -0300" stop="20190118230000 -0300" channel="13 C (Chile)">
+    <title lang="es">Reportajes de selección</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190119000000 -0300" channel="13 C (Chile)">
+    <title lang="es">A Dos Voces</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115070000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115080000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190115080000 -0300" stop="20190115100000 -0300" channel="Rec TV">
+    <title lang="es">Noche de Ronda</title>
+  </programme>
+  <programme start="20190115100000 -0300" stop="20190115110000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190115110000 -0300" stop="20190115113000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190115113000 -0300" stop="20190115120000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190115120000 -0300" stop="20190115130000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190115130000 -0300" stop="20190115140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115150000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115170000 -0300" channel="Rec TV">
+    <title lang="es">Noche de Ronda</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115180000 -0300" channel="Rec TV">
+    <title lang="es">Crimen y misterio New</title>
+  </programme>
+  <programme start="20190115180000 -0300" stop="20190115190000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115200000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115220000 -0300" channel="Rec TV">
+    <title lang="es">Los 80 New</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190116000000 -0300" channel="Rec TV">
+    <title lang="es">Martes 13</title>
+  </programme>
+  <programme start="20190116000000 -0300" stop="20190116010000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190116010000 -0300" stop="20190116020000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190116020000 -0300" stop="20190116030000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190116030000 -0300" stop="20190116040000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190116040000 -0300" stop="20190116060000 -0300" channel="Rec TV">
+    <title lang="es">Martes 13</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116070000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116080000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116100000 -0300" channel="Rec TV">
+    <title lang="es">Martes 13</title>
+  </programme>
+  <programme start="20190116100000 -0300" stop="20190116110000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190116110000 -0300" stop="20190116113000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190116113000 -0300" stop="20190116120000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190116120000 -0300" stop="20190116130000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190116130000 -0300" stop="20190116140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116150000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116170000 -0300" channel="Rec TV">
+    <title lang="es">Martes 13</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116180000 -0300" channel="Rec TV">
+    <title lang="es">Inolvidables</title>
+  </programme>
+  <programme start="20190116180000 -0300" stop="20190116190000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo New</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116200000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116220000 -0300" channel="Rec TV">
+    <title lang="es">Los 80 New</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190117000000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec New</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117010000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117020000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117060000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Rec TV">
+    <title lang="es">Zona Inmobiliaria</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117113000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117120000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117170000 -0300" channel="Rec TV">
+    <title lang="es">Deportes rec</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Rec TV">
+    <title lang="es">Inolvidables New</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="Rec TV">
+    <title lang="es">Todo humor New</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="Rec TV">
+    <title lang="es">Los 80 New</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117223000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117233000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor New</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118000000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118010000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118020000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190118020000 -0300" stop="20190118030000 -0300" channel="Rec TV">
+    <title lang="es">Más Música</title>
+  </programme>
+  <programme start="20190118030000 -0300" stop="20190118033000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118033000 -0300" stop="20190118040000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118050000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118060000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118070000 -0300" channel="Rec TV">
+    <title lang="es">Medio Mundo</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118080000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118083000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118083000 -0300" stop="20190118100000 -0300" channel="Rec TV">
+    <title lang="es">Cachureos</title>
+  </programme>
+  <programme start="20190118100000 -0300" stop="20190118110000 -0300" channel="Rec TV">
+    <title lang="es">El Mundo del Profesor Rossa</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118113000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190118113000 -0300" stop="20190118120000 -0300" channel="Rec TV">
+    <title lang="es">Candy Candy</title>
+  </programme>
+  <programme start="20190118120000 -0300" stop="20190118130000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor</title>
+  </programme>
+  <programme start="20190118130000 -0300" stop="20190118140000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118150000 -0300" channel="Rec TV">
+    <title lang="es">Los 80</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118153000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118153000 -0300" stop="20190118160000 -0300" channel="Rec TV">
+    <title lang="es">Conciertos REC</title>
+  </programme>
+  <programme start="20190118160000 -0300" stop="20190118170000 -0300" channel="Rec TV">
+    <title lang="es">Un millon para el mejor</title>
+  </programme>
+  <programme start="20190118170000 -0300" stop="20190118180000 -0300" channel="Rec TV">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20190118180000 -0300" stop="20190118190000 -0300" channel="Rec TV">
+    <title lang="es">Locuras de éxito New</title>
+  </programme>
+  <programme start="20190118190000 -0300" stop="20190118200000 -0300" channel="Rec TV">
+    <title lang="es">Video loco</title>
+  </programme>
+  <programme start="20190118200000 -0300" stop="20190118210000 -0300" channel="Rec TV">
+    <title lang="es">Sabor a Ti New</title>
+  </programme>
+  <programme start="20190118210000 -0300" stop="20190118220000 -0300" channel="Rec TV">
+    <title lang="es">Los 80 New</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118230000 -0300" channel="Rec TV">
+    <title lang="es">Video loco New</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190119000000 -0300" channel="Rec TV">
+    <title lang="es">REC Humor New</title>
+  </programme>
+  <programme start="20190115050000 -0300" stop="20190115060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190115080000 -0300" stop="20190115090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190115090000 -0300" stop="20190115100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190115100000 -0300" stop="20190115110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190115110000 -0300" stop="20190115120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190115120000 -0300" stop="20190115124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190115124000 -0300" stop="20190115131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190115131500 -0300" stop="20190115140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190115160000 -0300" stop="20190115170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190115180000 -0300" stop="20190115190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190115213000 -0300" stop="20190115220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190115230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190115230000 -0300" stop="20190115233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190115233000 -0300" stop="20190116000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190116000000 -0300" stop="20190116003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190116003000 -0300" stop="20190116010000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190116010000 -0300" stop="20190116013000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20190116013000 -0300" stop="20190116020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190116020000 -0300" stop="20190116030000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190116030000 -0300" stop="20190116040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190116040000 -0300" stop="20190116050000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190116050000 -0300" stop="20190116060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190116090000 -0300" stop="20190116100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190116100000 -0300" stop="20190116110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190116110000 -0300" stop="20190116120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190116120000 -0300" stop="20190116124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190116124000 -0300" stop="20190116131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190116131500 -0300" stop="20190116140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190116160000 -0300" stop="20190116170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190116180000 -0300" stop="20190116190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190116213000 -0300" stop="20190116220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190116233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190116233000 -0300" stop="20190117000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117010000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117013000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20190117013000 -0300" stop="20190117020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190117124000 -0300" stop="20190117131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190117131500 -0300" stop="20190117140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190117233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118003000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190118003000 -0300" stop="20190118010000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118013000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Fullmetal Alchemist: Brotherhood</title>
+  </programme>
+  <programme start="20190118013000 -0300" stop="20190118020000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190118020000 -0300" stop="20190118030000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190118030000 -0300" stop="20190118040000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118050000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118060000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118070000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118080000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118090000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118100000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Digimon</title>
+  </programme>
+  <programme start="20190118100000 -0300" stop="20190118110000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118120000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190118120000 -0300" stop="20190118124000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190118124000 -0300" stop="20190118131500 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190118131500 -0300" stop="20190118140000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118150000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118160000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190118160000 -0300" stop="20190118170000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20190118170000 -0300" stop="20190118180000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Black clover</title>
+  </programme>
+  <programme start="20190118180000 -0300" stop="20190118190000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190118190000 -0300" stop="20190118200000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20190118200000 -0300" stop="20190118210000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Free to Play</title>
+  </programme>
+  <programme start="20190118210000 -0300" stop="20190118213000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mi amor de las estrellas</title>
+  </programme>
+  <programme start="20190118213000 -0300" stop="20190118220000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Eres mi estrella</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118230000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">El hombre de la princesa</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190118233000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Mikami la cazafantasma</title>
+  </programme>
+  <programme start="20190118233000 -0300" stop="20190119000000 -0300" channel="ETC TV (Chile)">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20190115040500 -0300" stop="20190115050000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115050000 -0300" stop="20190115060000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115080000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115080000 -0300" stop="20190115085500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190115085500 -0300" stop="20190115092500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115092500 -0300" stop="20190115095000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115095000 -0300" stop="20190115104500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115104500 -0300" stop="20190115114000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115114000 -0300" stop="20190115123500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115123500 -0300" stop="20190115133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115133000 -0300" stop="20190115143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190115143000 -0300" stop="20190115150000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115160000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115160000 -0300" stop="20190115163000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190115180000 -0300" stop="20190115183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190115183000 -0300" stop="20190115193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115193000 -0300" stop="20190115203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190115203000 -0300" stop="20190115213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190115213000 -0300" stop="20190115223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190115223000 -0300" stop="20190115232500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190115232500 -0300" stop="20190116001500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190116001500 -0300" stop="20190116011000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116011000 -0300" stop="20190116021000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116021000 -0300" stop="20190116021000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116021000 -0300" stop="20190116031000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116031000 -0300" stop="20190116040500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116040500 -0300" stop="20190116050000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116050000 -0300" stop="20190116060000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116080000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116085500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190116085500 -0300" stop="20190116092500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116092500 -0300" stop="20190116095000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116095000 -0300" stop="20190116104500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116104500 -0300" stop="20190116114000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116114000 -0300" stop="20190116123500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116123500 -0300" stop="20190116133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116133000 -0300" stop="20190116143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190116143000 -0300" stop="20190116150000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116160000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116160000 -0300" stop="20190116163000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190116180000 -0300" stop="20190116183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190116183000 -0300" stop="20190116193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116193000 -0300" stop="20190116203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190116203000 -0300" stop="20190116213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190116213000 -0300" stop="20190116223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190116223000 -0300" stop="20190116230000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190116233000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190116233000 -0300" stop="20190117000000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117005500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117005500 -0300" stop="20190117015000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117015000 -0300" stop="20190117024500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117024500 -0300" stop="20190117024500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117024500 -0300" stop="20190117034000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117034000 -0300" stop="20190117043500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117043500 -0300" stop="20190117050500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190117050500 -0300" stop="20190117060000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117100000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117110000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera B</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117123000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117143000 -0300" stop="20190117154000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117154000 -0300" stop="20190117170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera B</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117230000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118010000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118010000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118040000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118043000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118043000 -0300" stop="20190118050000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118060000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118070000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118073000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118073000 -0300" stop="20190118090000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118104500 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera B</title>
+  </programme>
+  <programme start="20190118104500 -0300" stop="20190118110000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118120000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Fútbol chileno: Primera B</title>
+  </programme>
+  <programme start="20190118120000 -0300" stop="20190118123000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118123000 -0300" stop="20190118133000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118133000 -0300" stop="20190118143000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118143000 -0300" stop="20190118154000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118154000 -0300" stop="20190118170000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118170000 -0300" stop="20190118180000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118180000 -0300" stop="20190118183000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118183000 -0300" stop="20190118193000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118193000 -0300" stop="20190118203000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190118203000 -0300" stop="20190118213000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118213000 -0300" stop="20190118223000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118223000 -0300" stop="20190118230000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Amateur</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190118233000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190118233000 -0300" stop="20190119014000 -0300" channel="Canal del Fútbol (Básico)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190115043500 -0300" stop="20190115053000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115053000 -0300" stop="20190115063000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115063000 -0300" stop="20190115073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190115073000 -0300" stop="20190115083000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115083000 -0300" stop="20190115092500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190115092500 -0300" stop="20190115095500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115095500 -0300" stop="20190115102000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115102000 -0300" stop="20190115111500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115111500 -0300" stop="20190115121000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115121000 -0300" stop="20190115130500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115130500 -0300" stop="20190115140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115153000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115153000 -0300" stop="20190115163000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115173000 -0300" stop="20190115183000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190115183000 -0300" stop="20190115190000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115220000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190115230000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190115230000 -0300" stop="20190115235500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190115235500 -0300" stop="20190116004500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190116004500 -0300" stop="20190116014000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116014000 -0300" stop="20190116024000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116024000 -0300" stop="20190116024000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116024000 -0300" stop="20190116034000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116034000 -0300" stop="20190116043500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116043500 -0300" stop="20190116053000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116053000 -0300" stop="20190116063000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116063000 -0300" stop="20190116073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190116073000 -0300" stop="20190116083000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116083000 -0300" stop="20190116092500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190116092500 -0300" stop="20190116095500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116095500 -0300" stop="20190116102000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116102000 -0300" stop="20190116111500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116111500 -0300" stop="20190116121000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116121000 -0300" stop="20190116130500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116130500 -0300" stop="20190116140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116153000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116153000 -0300" stop="20190116163000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116173000 -0300" stop="20190116183000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190116183000 -0300" stop="20190116190000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116220000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116230000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190116233000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190116233000 -0300" stop="20190117000000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117003000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117012500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117012500 -0300" stop="20190117022000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117022000 -0300" stop="20190117022000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117022000 -0300" stop="20190117031500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117031500 -0300" stop="20190117041000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117041000 -0300" stop="20190117050500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117050500 -0300" stop="20190117053500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190117053500 -0300" stop="20190117063000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117090000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">92.1 Fútbol y más</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117093000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol Calle</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117100000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Campanil UDEC</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Imperio cruzado</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117115000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117115000 -0300" stop="20190117130000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno New</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117170000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117194500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117194500 -0300" stop="20190117200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117222500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190117222500 -0300" stop="20190117225500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117225500 -0300" stop="20190117235500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117235500 -0300" stop="20190118005500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">92.1 Fútbol y más</title>
+  </programme>
+  <programme start="20190118005500 -0300" stop="20190118020500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118020500 -0300" stop="20190118020500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118020500 -0300" stop="20190118030500 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118030500 -0300" stop="20190118041000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118041000 -0300" stop="20190118052000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118052000 -0300" stop="20190118063000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118063000 -0300" stop="20190118073000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118073000 -0300" stop="20190118080000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118090000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">92.1 Fútbol y más</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118093000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20190118093000 -0300" stop="20190118104000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno New</title>
+  </programme>
+  <programme start="20190118104000 -0300" stop="20190118115000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno New</title>
+  </programme>
+  <programme start="20190118115000 -0300" stop="20190118130000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Fútbol chileno New</title>
+  </programme>
+  <programme start="20190118130000 -0300" stop="20190118140000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118150000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118160000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118160000 -0300" stop="20190118171000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118171000 -0300" stop="20190118173000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20190118173000 -0300" stop="20190118183000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118183000 -0300" stop="20190118193000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118193000 -0300" stop="20190118200000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Imperio cruzado</title>
+  </programme>
+  <programme start="20190118200000 -0300" stop="20190118210000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">92.1 Fútbol y más</title>
+  </programme>
+  <programme start="20190118210000 -0300" stop="20190118213000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118213000 -0300" stop="20190118220000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118223000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20190118223000 -0300" stop="20190118233000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118233000 -0300" stop="20190119000000 -0300" channel="Canal del Fútbol (Premium)">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115043500 -0300" stop="20190115053000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115053000 -0300" stop="20190115063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115063000 -0300" stop="20190115073000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190115073000 -0300" stop="20190115083000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190115083000 -0300" stop="20190115092500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190115092500 -0300" stop="20190115095500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115095500 -0300" stop="20190115102000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115102000 -0300" stop="20190115111500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115111500 -0300" stop="20190115121000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115121000 -0300" stop="20190115130500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115130500 -0300" stop="20190115140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115153000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115153000 -0300" stop="20190115163000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115170000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190115173000 -0300" stop="20190115183000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190115183000 -0300" stop="20190115190000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115200000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115210000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115220000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190115230000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190115230000 -0300" stop="20190115235500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190115235500 -0300" stop="20190116004500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">62, Historia de un mundial</title>
+  </programme>
+  <programme start="20190116004500 -0300" stop="20190116014000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116014000 -0300" stop="20190116024000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116024000 -0300" stop="20190116024000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116024000 -0300" stop="20190116034000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno</title>
+  </programme>
+  <programme start="20190116034000 -0300" stop="20190116043500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol Chileno</title>
+  </programme>
+  <programme start="20190116043500 -0300" stop="20190116053000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116053000 -0300" stop="20190116063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116063000 -0300" stop="20190116073000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190116073000 -0300" stop="20190116083000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190116083000 -0300" stop="20190116092500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190116092500 -0300" stop="20190116095500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116095500 -0300" stop="20190116102000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116102000 -0300" stop="20190116111500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116111500 -0300" stop="20190116121000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116121000 -0300" stop="20190116130500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116130500 -0300" stop="20190116140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición New</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116153000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116153000 -0300" stop="20190116163000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116170000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Loto</title>
+  </programme>
+  <programme start="20190116173000 -0300" stop="20190116183000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan New</title>
+  </programme>
+  <programme start="20190116183000 -0300" stop="20190116190000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116200000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116210000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol New</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116220000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central New</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116230000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol New</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190116233000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190116233000 -0300" stop="20190117000000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117003000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117012500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117012500 -0300" stop="20190117022000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117022000 -0300" stop="20190117022000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117022000 -0300" stop="20190117031500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117031500 -0300" stop="20190117041000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117041000 -0300" stop="20190117050500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera División</title>
+  </programme>
+  <programme start="20190117050500 -0300" stop="20190117053500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190117053500 -0300" stop="20190117063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117073000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117083000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117092500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190117092500 -0300" stop="20190117095500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Goles con Historia</title>
+  </programme>
+  <programme start="20190117095500 -0300" stop="20190117111500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117111500 -0300" stop="20190117123000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117130000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117161000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190117161000 -0300" stop="20190117173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117183000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117193000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117200000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117230000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190117233000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118003000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Fútbol chileno: Primera B</title>
+  </programme>
+  <programme start="20190118003000 -0300" stop="20190118013000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118013000 -0300" stop="20190118013000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118013000 -0300" stop="20190118043000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118043000 -0300" stop="20190118050000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118053000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118053000 -0300" stop="20190118063000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118063000 -0300" stop="20190118073000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190118073000 -0300" stop="20190118083000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118083000 -0300" stop="20190118094000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Experiencia Fútbol</title>
+  </programme>
+  <programme start="20190118094000 -0300" stop="20190118115500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118115500 -0300" stop="20190118123000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">La otra Cámara</title>
+  </programme>
+  <programme start="20190118123000 -0300" stop="20190118130000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118130000 -0300" stop="20190118140000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118150000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118161000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias primera edición</title>
+  </programme>
+  <programme start="20190118161000 -0300" stop="20190118173000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118173000 -0300" stop="20190118184500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Todos juegan</title>
+  </programme>
+  <programme start="20190118184500 -0300" stop="20190118192000 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Replay: Campeonato Nacional Scotiabank</title>
+  </programme>
+  <programme start="20190118192000 -0300" stop="20190118222500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">Deporte: Será Anunciado</title>
+  </programme>
+  <programme start="20190118222500 -0300" stop="20190118232500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">CDF Noticias Edición Central</title>
+  </programme>
+  <programme start="20190118232500 -0300" stop="20190119002500 -0300" channel="Canal del Fútbol HDTV">
+    <title lang="es">En el Nombre del Fútbol</title>
+  </programme>
+  <programme start="20190115000000 -0300" stop="20190115010000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115010000 -0300" stop="20190115020000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190115020000 -0300" stop="20190115040000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115040000 -0300" stop="20190115050000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190115050000 -0300" stop="20190115060000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115070000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115073000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190115073000 -0300" stop="20190115080000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115080000 -0300" stop="20190115090000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190115090000 -0300" stop="20190115100000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190115100000 -0300" stop="20190115103000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115103000 -0300" stop="20190115110000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190115110000 -0300" stop="20190115120000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190115120000 -0300" stop="20190115130000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190115130000 -0300" stop="20190115140000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115150000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115160000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190115160000 -0300" stop="20190115163000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115170000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115180000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190115180000 -0300" stop="20190115190000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115200000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115210000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115220000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190115230000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190115230000 -0300" stop="20190116000000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190116000000 -0300" stop="20190116010000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116010000 -0300" stop="20190116020000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190116020000 -0300" stop="20190116030000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190116030000 -0300" stop="20190116040000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116040000 -0300" stop="20190116050000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190116050000 -0300" stop="20190116053000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190116053000 -0300" stop="20190116060000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116070000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116080000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116090000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190116090000 -0300" stop="20190116100000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190116100000 -0300" stop="20190116103000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116103000 -0300" stop="20190116110000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190116110000 -0300" stop="20190116120000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190116120000 -0300" stop="20190116123000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190116123000 -0300" stop="20190116140000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116150000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116160000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190116160000 -0300" stop="20190116163000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116170000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116180000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190116180000 -0300" stop="20190116190000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116200000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116210000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116220000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116230000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190117000000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117003000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117020000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117030000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117040000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117050000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117060000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117070000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117080000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117083000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117103000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117120000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117130000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117140000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117150000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117160000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117163000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190117163000 -0300" stop="20190117170000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117180000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117190000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117200000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117210000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117220000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117223000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117230000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190118000000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118010000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118020000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190118020000 -0300" stop="20190118030000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118030000 -0300" stop="20190118040000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118050000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118060000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118070000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118080000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118090000 -0300" channel="ZONA LATINA">
+    <title lang="es">Bloque de dos</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118093000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190118093000 -0300" stop="20190118103000 -0300" channel="ZONA LATINA">
+    <title lang="es">En tu idioma</title>
+  </programme>
+  <programme start="20190118103000 -0300" stop="20190118110000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118120000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190118120000 -0300" stop="20190118130000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190118130000 -0300" stop="20190118140000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118143000 -0300" channel="ZONA LATINA">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190118143000 -0300" stop="20190118150000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118160000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190118160000 -0300" stop="20190118163000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118163000 -0300" stop="20190118170000 -0300" channel="ZONA LATINA">
+    <title lang="es">El abogado</title>
+  </programme>
+  <programme start="20190118170000 -0300" stop="20190118180000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190118180000 -0300" stop="20190118190000 -0300" channel="ZONA LATINA">
+    <title lang="es">Sabores</title>
+  </programme>
+  <programme start="20190118190000 -0300" stop="20190118200000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190118200000 -0300" stop="20190118210000 -0300" channel="ZONA LATINA">
+    <title lang="es">Zona de estrellas</title>
+  </programme>
+  <programme start="20190118210000 -0300" stop="20190118220000 -0300" channel="ZONA LATINA">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118230000 -0300" channel="ZONA LATINA">
+    <title lang="es">Concuerdas conmigo</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190119000000 -0300" channel="ZONA LATINA">
+    <title lang="es">No eres tú</title>
+  </programme>
+  <programme start="20190115040000 -0300" stop="20190115043000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115043000 -0300" stop="20190115050000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115050000 -0300" stop="20190115053000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115053000 -0300" stop="20190115060000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115060000 -0300" stop="20190115063000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190115063000 -0300" stop="20190115070000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190115070000 -0300" stop="20190115073000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115073000 -0300" stop="20190115080000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115080000 -0300" stop="20190115083000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190115083000 -0300" stop="20190115090000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190115090000 -0300" stop="20190115093000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115093000 -0300" stop="20190115100000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115100000 -0300" stop="20190115103000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115103000 -0300" stop="20190115110000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115110000 -0300" stop="20190115113000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X</title>
+  </programme>
+  <programme start="20190115113000 -0300" stop="20190115120000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190115120000 -0300" stop="20190115123000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115123000 -0300" stop="20190115130000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115130000 -0300" stop="20190115133000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190115133000 -0300" stop="20190115140000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190115140000 -0300" stop="20190115143000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115143000 -0300" stop="20190115150000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190115150000 -0300" stop="20190115153000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115153000 -0300" stop="20190115160000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190115160000 -0300" stop="20190115163000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190115163000 -0300" stop="20190115170000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190115170000 -0300" stop="20190115173000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190115173000 -0300" stop="20190115180000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190115180000 -0300" stop="20190115183000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190115183000 -0300" stop="20190115190000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190115190000 -0300" stop="20190115193000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115193000 -0300" stop="20190115200000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190115200000 -0300" stop="20190115203000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190115203000 -0300" stop="20190115210000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190115210000 -0300" stop="20190115213000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190115213000 -0300" stop="20190115220000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190115220000 -0300" stop="20190115223000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190115223000 -0300" stop="20190115230000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190115230000 -0300" stop="20190115233000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso? New</title>
+  </programme>
+  <programme start="20190115233000 -0300" stop="20190116000000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116000000 -0300" stop="20190116003000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X New</title>
+  </programme>
+  <programme start="20190116003000 -0300" stop="20190116010000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190116010000 -0300" stop="20190116013000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190116013000 -0300" stop="20190116020000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190116020000 -0300" stop="20190116023000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116023000 -0300" stop="20190116030000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116030000 -0300" stop="20190116033000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116033000 -0300" stop="20190116040000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116040000 -0300" stop="20190116043000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116043000 -0300" stop="20190116050000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116050000 -0300" stop="20190116053000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116053000 -0300" stop="20190116060000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116060000 -0300" stop="20190116063000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116063000 -0300" stop="20190116070000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116070000 -0300" stop="20190116073000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116073000 -0300" stop="20190116080000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116080000 -0300" stop="20190116083000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116083000 -0300" stop="20190116090000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116090000 -0300" stop="20190116093000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190116093000 -0300" stop="20190116100000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190116100000 -0300" stop="20190116103000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116103000 -0300" stop="20190116110000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116110000 -0300" stop="20190116113000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116113000 -0300" stop="20190116120000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116120000 -0300" stop="20190116123000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116123000 -0300" stop="20190116130000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116130000 -0300" stop="20190116133000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116133000 -0300" stop="20190116140000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116140000 -0300" stop="20190116143000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116143000 -0300" stop="20190116150000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190116150000 -0300" stop="20190116153000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116153000 -0300" stop="20190116160000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190116160000 -0300" stop="20190116163000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190116163000 -0300" stop="20190116170000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X New</title>
+  </programme>
+  <programme start="20190116170000 -0300" stop="20190116173000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116173000 -0300" stop="20190116180000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190116180000 -0300" stop="20190116183000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116183000 -0300" stop="20190116190000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190116190000 -0300" stop="20190116193000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116193000 -0300" stop="20190116200000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190116200000 -0300" stop="20190116203000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190116203000 -0300" stop="20190116210000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190116210000 -0300" stop="20190116213000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190116213000 -0300" stop="20190116220000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190116220000 -0300" stop="20190116223000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190116223000 -0300" stop="20190116230000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190116230000 -0300" stop="20190116233000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso? New</title>
+  </programme>
+  <programme start="20190116233000 -0300" stop="20190117000000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190117000000 -0300" stop="20190117003000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X New</title>
+  </programme>
+  <programme start="20190117003000 -0300" stop="20190117010000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117010000 -0300" stop="20190117013000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117013000 -0300" stop="20190117020000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117020000 -0300" stop="20190117023000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117023000 -0300" stop="20190117030000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190117030000 -0300" stop="20190117033000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117033000 -0300" stop="20190117040000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117040000 -0300" stop="20190117043000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117043000 -0300" stop="20190117050000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117050000 -0300" stop="20190117053000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117053000 -0300" stop="20190117060000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117060000 -0300" stop="20190117063000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190117063000 -0300" stop="20190117070000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190117070000 -0300" stop="20190117073000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117073000 -0300" stop="20190117080000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117080000 -0300" stop="20190117083000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117083000 -0300" stop="20190117090000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117090000 -0300" stop="20190117093000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117093000 -0300" stop="20190117100000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117100000 -0300" stop="20190117103000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117103000 -0300" stop="20190117110000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117110000 -0300" stop="20190117113000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X</title>
+  </programme>
+  <programme start="20190117113000 -0300" stop="20190117120000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190117120000 -0300" stop="20190117123000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117123000 -0300" stop="20190117130000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117130000 -0300" stop="20190117133000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117133000 -0300" stop="20190117140000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190117140000 -0300" stop="20190117143000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117143000 -0300" stop="20190117150000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190117150000 -0300" stop="20190117153000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117153000 -0300" stop="20190117160000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190117160000 -0300" stop="20190117163000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190117163000 -0300" stop="20190117170000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190117170000 -0300" stop="20190117173000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117173000 -0300" stop="20190117180000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117180000 -0300" stop="20190117183000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117183000 -0300" stop="20190117190000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190117190000 -0300" stop="20190117193000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117193000 -0300" stop="20190117200000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190117200000 -0300" stop="20190117203000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190117203000 -0300" stop="20190117210000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190117210000 -0300" stop="20190117213000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190117213000 -0300" stop="20190117220000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win New</title>
+  </programme>
+  <programme start="20190117220000 -0300" stop="20190117223000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190117223000 -0300" stop="20190117230000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190117230000 -0300" stop="20190117233000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso? New</title>
+  </programme>
+  <programme start="20190117233000 -0300" stop="20190118000000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190118000000 -0300" stop="20190118003000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X New</title>
+  </programme>
+  <programme start="20190118003000 -0300" stop="20190118010000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118010000 -0300" stop="20190118013000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118013000 -0300" stop="20190118020000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190118020000 -0300" stop="20190118023000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190118023000 -0300" stop="20190118030000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190118030000 -0300" stop="20190118033000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190118033000 -0300" stop="20190118040000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports</title>
+  </programme>
+  <programme start="20190118040000 -0300" stop="20190118043000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118043000 -0300" stop="20190118050000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118050000 -0300" stop="20190118053000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190118053000 -0300" stop="20190118060000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190118060000 -0300" stop="20190118063000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118063000 -0300" stop="20190118070000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118070000 -0300" stop="20190118073000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190118073000 -0300" stop="20190118080000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190118080000 -0300" stop="20190118083000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118083000 -0300" stop="20190118090000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118090000 -0300" stop="20190118093000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118093000 -0300" stop="20190118100000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118100000 -0300" stop="20190118103000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X</title>
+  </programme>
+  <programme start="20190118103000 -0300" stop="20190118110000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190118110000 -0300" stop="20190118113000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118113000 -0300" stop="20190118120000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118120000 -0300" stop="20190118123000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190118123000 -0300" stop="20190118130000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional</title>
+  </programme>
+  <programme start="20190118130000 -0300" stop="20190118133000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118133000 -0300" stop="20190118140000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible</title>
+  </programme>
+  <programme start="20190118140000 -0300" stop="20190118143000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118143000 -0300" stop="20190118150000 -0300" channel="Via Equis ">
+    <title lang="es">Yu Win</title>
+  </programme>
+  <programme start="20190118150000 -0300" stop="20190118153000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190118153000 -0300" stop="20190118160000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso?</title>
+  </programme>
+  <programme start="20190118160000 -0300" stop="20190118163000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118163000 -0300" stop="20190118170000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio</title>
+  </programme>
+  <programme start="20190118170000 -0300" stop="20190118173000 -0300" channel="Via Equis ">
+    <title lang="es">Un día X</title>
+  </programme>
+  <programme start="20190118173000 -0300" stop="20190118180000 -0300" channel="Via Equis ">
+    <title lang="es">Con las manos en la masa</title>
+  </programme>
+  <programme start="20190118180000 -0300" stop="20190118183000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports New</title>
+  </programme>
+  <programme start="20190118183000 -0300" stop="20190118190000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports New</title>
+  </programme>
+  <programme start="20190118190000 -0300" stop="20190118193000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports New</title>
+  </programme>
+  <programme start="20190118193000 -0300" stop="20190118200000 -0300" channel="Via Equis ">
+    <title lang="es">Viax E Sports New</title>
+  </programme>
+  <programme start="20190118200000 -0300" stop="20190118203000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190118203000 -0300" stop="20190118210000 -0300" channel="Via Equis ">
+    <title lang="es">Séptimo Vicio New</title>
+  </programme>
+  <programme start="20190118210000 -0300" stop="20190118213000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible New</title>
+  </programme>
+  <programme start="20190118213000 -0300" stop="20190118220000 -0300" channel="Via Equis ">
+    <title lang="es">Stock Disponible New</title>
+  </programme>
+  <programme start="20190118220000 -0300" stop="20190118223000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190118223000 -0300" stop="20190118230000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190118230000 -0300" stop="20190118233000 -0300" channel="Via Equis ">
+    <title lang="es">Cadena Nacional New</title>
+  </programme>
+  <programme start="20190118233000 -0300" stop="20190119000000 -0300" channel="Via Equis ">
+    <title lang="es">¿y que paso? New</title>
   </programme>
 </tv>
