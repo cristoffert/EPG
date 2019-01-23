@@ -52,6 +52,18 @@
     <display-name lang="es">Unicable HD</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
+  <channel id="MTV Hits (Latin America English)">
+    <display-name lang="es">MTV hits</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="RMS (Ritmoson)">
+    <display-name lang="es">RITMOSON</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Bandamax (Mexico)">
+    <display-name lang="es">BANDAMAX</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
   <programme start="20190121060000 -0300" stop="20190121070000 -0300" channel="Pasiones HDTV (USA)">
     <title lang="es">Mujeres asesinas</title>
   </programme>
@@ -3441,5 +3453,872 @@
   </programme>
   <programme start="20190125233000 -0300" stop="20190126010000 -0300" channel="Canal U (Mexico) HDTV">
     <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190123040000 -0300" stop="20190123050000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123050000 -0300" stop="20190123060000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190123060000 -0300" stop="20190123070000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190123070000 -0300" stop="20190123080000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123080000 -0300" stop="20190123090000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123090000 -0300" stop="20190123100000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190123100000 -0300" stop="20190123110000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123110000 -0300" stop="20190123120000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist New</title>
+  </programme>
+  <programme start="20190123120000 -0300" stop="20190123130000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123130000 -0300" stop="20190123140000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190123140000 -0300" stop="20190123150000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190123150000 -0300" stop="20190123160000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123160000 -0300" stop="20190123170000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123170000 -0300" stop="20190123180000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190123180000 -0300" stop="20190123190000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123190000 -0300" stop="20190123200000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190123200000 -0300" stop="20190123210000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190123210000 -0300" stop="20190123220000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190123220000 -0300" stop="20190123230000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190123230000 -0300" stop="20190124000000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124000000 -0300" stop="20190124010000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124010000 -0300" stop="20190124020000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124020000 -0300" stop="20190124030000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124030000 -0300" stop="20190124040000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124040000 -0300" stop="20190124050000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124050000 -0300" stop="20190124060000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190124060000 -0300" stop="20190124070000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190124070000 -0300" stop="20190124080000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124080000 -0300" stop="20190124090000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124090000 -0300" stop="20190124100000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190124100000 -0300" stop="20190124110000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124110000 -0300" stop="20190124113000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124113000 -0300" stop="20190124120000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist New</title>
+  </programme>
+  <programme start="20190124120000 -0300" stop="20190124130000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124130000 -0300" stop="20190124140000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190124140000 -0300" stop="20190124150000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124150000 -0300" stop="20190124160000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124160000 -0300" stop="20190124170000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124170000 -0300" stop="20190124180000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190124180000 -0300" stop="20190124190000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124190000 -0300" stop="20190124193000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124193000 -0300" stop="20190124200000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124200000 -0300" stop="20190124210000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190124210000 -0300" stop="20190124220000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190124220000 -0300" stop="20190124230000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190124230000 -0300" stop="20190125000000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125000000 -0300" stop="20190125010000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125010000 -0300" stop="20190125020000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190125020000 -0300" stop="20190125030000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125030000 -0300" stop="20190125033000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125033000 -0300" stop="20190125040000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125040000 -0300" stop="20190125050000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125050000 -0300" stop="20190125060000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190125060000 -0300" stop="20190125070000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125070000 -0300" stop="20190125080000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125080000 -0300" stop="20190125090000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125090000 -0300" stop="20190125100000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125100000 -0300" stop="20190125110000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125110000 -0300" stop="20190125120000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125120000 -0300" stop="20190125130000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125130000 -0300" stop="20190125140000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190125140000 -0300" stop="20190125150000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125150000 -0300" stop="20190125160000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125160000 -0300" stop="20190125170000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125170000 -0300" stop="20190125180000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125180000 -0300" stop="20190125190000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125190000 -0300" stop="20190125200000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125200000 -0300" stop="20190125210000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190125210000 -0300" stop="20190125220000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190125220000 -0300" stop="20190125230000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190125230000 -0300" stop="20190126000000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190126000000 -0300" stop="20190126010000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190126010000 -0300" stop="20190126020000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126020000 -0300" stop="20190126030000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190126030000 -0300" stop="20190126040000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126040000 -0300" stop="20190126050000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190126050000 -0300" stop="20190126060000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190126060000 -0300" stop="20190126070000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126070000 -0300" stop="20190126080000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Hits Playlistism</title>
+  </programme>
+  <programme start="20190126080000 -0300" stop="20190126090000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20190126090000 -0300" stop="20190126100000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190126100000 -0300" stop="20190126110000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190126110000 -0300" stop="20190126120000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20190126120000 -0300" stop="20190126130000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126130000 -0300" stop="20190126133000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126133000 -0300" stop="20190126140000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126140000 -0300" stop="20190126150000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126150000 -0300" stop="20190126160000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20190126160000 -0300" stop="20190126170000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20190126170000 -0300" stop="20190126180000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Classic</title>
+  </programme>
+  <programme start="20190126180000 -0300" stop="20190126190000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Biggest! Hottest! Loudest!</title>
+  </programme>
+  <programme start="20190126190000 -0300" stop="20190126200000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Weekend Playlist</title>
+  </programme>
+  <programme start="20190126200000 -0300" stop="20190126210000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126210000 -0300" stop="20190126213000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126213000 -0300" stop="20190126220000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126220000 -0300" stop="20190126230000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126230000 -0300" stop="20190126233000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">Hitlist</title>
+  </programme>
+  <programme start="20190126233000 -0300" stop="20190127000000 -0300" channel="MTV Hits (Latin America English)">
+    <title lang="es">MTV Live</title>
+  </programme>
+  <programme start="20190123050000 -0300" stop="20190123060000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190123060000 -0300" stop="20190123070000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123070000 -0300" stop="20190123080000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123080000 -0300" stop="20190123090000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123090000 -0300" stop="20190123100000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123100000 -0300" stop="20190123110000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123110000 -0300" stop="20190123120000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123120000 -0300" stop="20190123130000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123130000 -0300" stop="20190123140000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190123140000 -0300" stop="20190123150000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123150000 -0300" stop="20190123160000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190123160000 -0300" stop="20190123170000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190123170000 -0300" stop="20190123180000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123180000 -0300" stop="20190123190000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123190000 -0300" stop="20190123200000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123200000 -0300" stop="20190123210000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123210000 -0300" stop="20190123220000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190123220000 -0300" stop="20190123230000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123230000 -0300" stop="20190124000000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124000000 -0300" stop="20190124010000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124010000 -0300" stop="20190124020000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124020000 -0300" stop="20190124030000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190124030000 -0300" stop="20190124040000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Rock RMS</title>
+  </programme>
+  <programme start="20190124040000 -0300" stop="20190124050000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124050000 -0300" stop="20190124060000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190124060000 -0300" stop="20190124070000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124070000 -0300" stop="20190124080000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124080000 -0300" stop="20190124090000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124090000 -0300" stop="20190124100000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124100000 -0300" stop="20190124110000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124110000 -0300" stop="20190124120000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124120000 -0300" stop="20190124130000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124130000 -0300" stop="20190124140000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190124140000 -0300" stop="20190124150000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124150000 -0300" stop="20190124160000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190124160000 -0300" stop="20190124170000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190124170000 -0300" stop="20190124180000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124180000 -0300" stop="20190124190000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190124190000 -0300" stop="20190124200000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124200000 -0300" stop="20190124210000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124210000 -0300" stop="20190124220000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190124220000 -0300" stop="20190124230000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190124230000 -0300" stop="20190125000000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125000000 -0300" stop="20190125010000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125010000 -0300" stop="20190125020000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125020000 -0300" stop="20190125030000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190125030000 -0300" stop="20190125040000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Rock RMS</title>
+  </programme>
+  <programme start="20190125040000 -0300" stop="20190125050000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125050000 -0300" stop="20190125060000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190125060000 -0300" stop="20190125070000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125070000 -0300" stop="20190125080000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125080000 -0300" stop="20190125090000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125090000 -0300" stop="20190125100000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125100000 -0300" stop="20190125110000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125110000 -0300" stop="20190125120000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125120000 -0300" stop="20190125130000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125130000 -0300" stop="20190125140000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190125140000 -0300" stop="20190125150000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125150000 -0300" stop="20190125160000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190125160000 -0300" stop="20190125170000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190125170000 -0300" stop="20190125180000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125180000 -0300" stop="20190125190000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125190000 -0300" stop="20190125200000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125200000 -0300" stop="20190125210000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125210000 -0300" stop="20190125220000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190125220000 -0300" stop="20190125230000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190125230000 -0300" stop="20190126000000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126000000 -0300" stop="20190126010000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126010000 -0300" stop="20190126030000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Karaoke</title>
+  </programme>
+  <programme start="20190126030000 -0300" stop="20190126040000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126040000 -0300" stop="20190126050000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126050000 -0300" stop="20190126060000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126060000 -0300" stop="20190126070000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126070000 -0300" stop="20190126080000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126080000 -0300" stop="20190126090000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126090000 -0300" stop="20190126100000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Karaoke</title>
+  </programme>
+  <programme start="20190126100000 -0300" stop="20190126110000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126110000 -0300" stop="20190126120000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126120000 -0300" stop="20190126130000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20190126130000 -0300" stop="20190126140000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126140000 -0300" stop="20190126150000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190126150000 -0300" stop="20190126160000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126160000 -0300" stop="20190126170000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Karaoke</title>
+  </programme>
+  <programme start="20190126170000 -0300" stop="20190126180000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Vintage</title>
+  </programme>
+  <programme start="20190126180000 -0300" stop="20190126190000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126190000 -0300" stop="20190126200000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126200000 -0300" stop="20190126210000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126210000 -0300" stop="20190126220000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190126220000 -0300" stop="20190126230000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Ranking</title>
+  </programme>
+  <programme start="20190126230000 -0300" stop="20190127000000 -0300" channel="RMS (Ritmoson)">
+    <title lang="es">Playlist</title>
+  </programme>
+  <programme start="20190123080000 -0300" stop="20190123090000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">XE- Bandamax</title>
+  </programme>
+  <programme start="20190123090000 -0300" stop="20190123100000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190123100000 -0300" stop="20190123110000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Buenos días Bandamax</title>
+  </programme>
+  <programme start="20190123110000 -0300" stop="20190123120000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contacto Paisano</title>
+  </programme>
+  <programme start="20190123120000 -0300" stop="20190123130000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190123130000 -0300" stop="20190123133000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las Románticas de Bandamax</title>
+  </programme>
+  <programme start="20190123133000 -0300" stop="20190123140000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190123140000 -0300" stop="20190123150000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190123150000 -0300" stop="20190123160000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las más picudas</title>
+  </programme>
+  <programme start="20190123160000 -0300" stop="20190123163000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190123163000 -0300" stop="20190123173000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">XE- Bandamax</title>
+  </programme>
+  <programme start="20190123173000 -0300" stop="20190123180000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">De norte a sur...</title>
+  </programme>
+  <programme start="20190123180000 -0300" stop="20190123190000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Los consentidos bdx</title>
+  </programme>
+  <programme start="20190123190000 -0300" stop="20190123193000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Notibanda</title>
+  </programme>
+  <programme start="20190123193000 -0300" stop="20190123203000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos 2x1</title>
+  </programme>
+  <programme start="20190123203000 -0300" stop="20190123213000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190123213000 -0300" stop="20190123223000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos BDX UNO</title>
+  </programme>
+  <programme start="20190123223000 -0300" stop="20190123230000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Notibanda</title>
+  </programme>
+  <programme start="20190123230000 -0300" stop="20190124000000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Los consentidos bdx</title>
+  </programme>
+  <programme start="20190124000000 -0300" stop="20190124010000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190124010000 -0300" stop="20190124013000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Acceso grupero</title>
+  </programme>
+  <programme start="20190124013000 -0300" stop="20190124020000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190124020000 -0300" stop="20190124023000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Ponte de buenas con...</title>
+  </programme>
+  <programme start="20190124023000 -0300" stop="20190124030000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Fusiones BDX</title>
+  </programme>
+  <programme start="20190124030000 -0300" stop="20190124040000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos 2x1</title>
+  </programme>
+  <programme start="20190124040000 -0300" stop="20190124080000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190124080000 -0300" stop="20190124090000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190124090000 -0300" stop="20190124100000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190124100000 -0300" stop="20190124110000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Buenos días Bandamax</title>
+  </programme>
+  <programme start="20190124110000 -0300" stop="20190124120000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos 2x1</title>
+  </programme>
+  <programme start="20190124120000 -0300" stop="20190124130000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190124130000 -0300" stop="20190124133000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contrabandeando</title>
+  </programme>
+  <programme start="20190124133000 -0300" stop="20190124140000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190124140000 -0300" stop="20190124150000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Los consentidos bdx</title>
+  </programme>
+  <programme start="20190124150000 -0300" stop="20190124160000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las más picudas</title>
+  </programme>
+  <programme start="20190124160000 -0300" stop="20190124163000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190124163000 -0300" stop="20190124173000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190124173000 -0300" stop="20190124180000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Acceso grupero</title>
+  </programme>
+  <programme start="20190124180000 -0300" stop="20190124190000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Los consentidos bdx</title>
+  </programme>
+  <programme start="20190124190000 -0300" stop="20190124193000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Pa mis Redes</title>
+  </programme>
+  <programme start="20190124193000 -0300" stop="20190124203000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contacto Paisano</title>
+  </programme>
+  <programme start="20190124203000 -0300" stop="20190124213000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190124213000 -0300" stop="20190124223000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos BDX UNO</title>
+  </programme>
+  <programme start="20190124223000 -0300" stop="20190124230000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Pa mis Redes</title>
+  </programme>
+  <programme start="20190124230000 -0300" stop="20190125000000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190125000000 -0300" stop="20190125010000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Yo mero</title>
+  </programme>
+  <programme start="20190125010000 -0300" stop="20190125013000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">De norte a sur...</title>
+  </programme>
+  <programme start="20190125013000 -0300" stop="20190125020000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190125020000 -0300" stop="20190125023000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Clásicos BDX</title>
+  </programme>
+  <programme start="20190125023000 -0300" stop="20190125030000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Solo para adoloridos</title>
+  </programme>
+  <programme start="20190125030000 -0300" stop="20190125040000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contacto Paisano</title>
+  </programme>
+  <programme start="20190125040000 -0300" stop="20190125080000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190125080000 -0300" stop="20190125090000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Yo mero</title>
+  </programme>
+  <programme start="20190125090000 -0300" stop="20190125100000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190125100000 -0300" stop="20190125110000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Buenos días Bandamax</title>
+  </programme>
+  <programme start="20190125110000 -0300" stop="20190125120000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contacto Paisano</title>
+  </programme>
+  <programme start="20190125120000 -0300" stop="20190125130000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190125130000 -0300" stop="20190125133000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las Románticas de Bandamax</title>
+  </programme>
+  <programme start="20190125133000 -0300" stop="20190125140000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190125140000 -0300" stop="20190125150000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190125150000 -0300" stop="20190125160000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las más picudas</title>
+  </programme>
+  <programme start="20190125160000 -0300" stop="20190125163000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190125163000 -0300" stop="20190125173000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Yo mero</title>
+  </programme>
+  <programme start="20190125173000 -0300" stop="20190125180000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">De norte a sur...</title>
+  </programme>
+  <programme start="20190125180000 -0300" stop="20190125190000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Los consentidos bdx</title>
+  </programme>
+  <programme start="20190125190000 -0300" stop="20190125193000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Arrancando el fin</title>
+  </programme>
+  <programme start="20190125193000 -0300" stop="20190125203000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos 2x1</title>
+  </programme>
+  <programme start="20190125203000 -0300" stop="20190125213000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190125213000 -0300" stop="20190125223000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos BDX UNO</title>
+  </programme>
+  <programme start="20190125223000 -0300" stop="20190125230000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Arrancando el fin</title>
+  </programme>
+  <programme start="20190125230000 -0300" stop="20190126000000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190126000000 -0300" stop="20190126010000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las más picudas</title>
+  </programme>
+  <programme start="20190126010000 -0300" stop="20190126013000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Acceso grupero</title>
+  </programme>
+  <programme start="20190126013000 -0300" stop="20190126020000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190126020000 -0300" stop="20190126023000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Ponte de buenas con...</title>
+  </programme>
+  <programme start="20190126023000 -0300" stop="20190126030000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Banda-oke</title>
+  </programme>
+  <programme start="20190126030000 -0300" stop="20190126033000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos pa'bailar</title>
+  </programme>
+  <programme start="20190126033000 -0300" stop="20190126040000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos pa'bailar</title>
+  </programme>
+  <programme start="20190126040000 -0300" stop="20190126080000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190126080000 -0300" stop="20190126083000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Solo para adoloridos</title>
+  </programme>
+  <programme start="20190126083000 -0300" stop="20190126090000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Solo para adoloridos</title>
+  </programme>
+  <programme start="20190126090000 -0300" stop="20190126093000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Banda-oke</title>
+  </programme>
+  <programme start="20190126093000 -0300" stop="20190126100000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">De norte a sur...</title>
+  </programme>
+  <programme start="20190126100000 -0300" stop="20190126110000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las imperdibles BDX</title>
+  </programme>
+  <programme start="20190126110000 -0300" stop="20190126113000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Ponte de buenas con...</title>
+  </programme>
+  <programme start="20190126113000 -0300" stop="20190126123000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos BDX UNO</title>
+  </programme>
+  <programme start="20190126123000 -0300" stop="20190126130000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190126130000 -0300" stop="20190126140000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190126140000 -0300" stop="20190126150000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Contacto Paisano</title>
+  </programme>
+  <programme start="20190126150000 -0300" stop="20190126160000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Las más picudas</title>
+  </programme>
+  <programme start="20190126160000 -0300" stop="20190126163000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190126163000 -0300" stop="20190126170000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Clásicos BDX</title>
+  </programme>
+  <programme start="20190126170000 -0300" stop="20190126173000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La reina del tex mex</title>
+  </programme>
+  <programme start="20190126173000 -0300" stop="20190126180000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Acceso grupero</title>
+  </programme>
+  <programme start="20190126180000 -0300" stop="20190126190000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190126190000 -0300" stop="20190126200000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Vámonos recio</title>
+  </programme>
+  <programme start="20190126200000 -0300" stop="20190126210000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Bridón</title>
+  </programme>
+  <programme start="20190126210000 -0300" stop="20190126220000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La Cantina del Tunco Maclovich</title>
+  </programme>
+  <programme start="20190126220000 -0300" stop="20190126223000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Ponte de buenas con...</title>
+  </programme>
+  <programme start="20190126223000 -0300" stop="20190126230000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">Videos Bandamax</title>
+  </programme>
+  <programme start="20190126230000 -0300" stop="20190127000000 -0300" channel="Bandamax (Mexico)">
+    <title lang="es">La diva de bandamax</title>
   </programme>
 </tv>
