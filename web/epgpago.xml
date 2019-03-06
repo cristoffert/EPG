@@ -33,6 +33,46 @@
     <display-name lang="es">VIA X</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
+  <channel id="América 24">
+    <display-name lang="es">A24</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="América TV Internacional">
+    <display-name lang="es">AMERICA 2</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="TV Pública HDTV">
+    <display-name lang="es">TV PUBLICA</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="El Trece (Canal 13) ">
+    <display-name lang="es">EL TRECE</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal Nueve">
+    <display-name lang="es">EL NUEVE</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Telefe">
+    <display-name lang="es">TELEFE</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal 26 Noticias">
+    <display-name lang="es">CANAL 26</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Encuentro">
+    <display-name lang="es">ENCUENTRO</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal Luz">
+    <display-name lang="es">CANAL LUZ</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal Rural Satelital">
+    <display-name lang="es">CANAL RURAL</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
   <programme start="20190305050000 -0300" stop="20190305060000 -0300" channel="13 C (Chile)">
     <title lang="es">Tierra adentro</title>
   </programme>
@@ -2474,5 +2514,2753 @@
   </programme>
   <programme start="20190308233000 -0300" stop="20190309000000 -0300" channel="Via Equis ">
     <title lang="es">Fea latitud</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305070000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305090000 -0300" channel="América 24">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305110000 -0300" channel="América 24">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190305110000 -0300" stop="20190305130000 -0300" channel="América 24">
+    <title lang="es">A24 Segunda Mañana</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305150000 -0300" channel="América 24">
+    <title lang="es">A24 Primera Tarde</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305190000 -0300" channel="América 24">
+    <title lang="es">Más que Noticias</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="América 24">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305230000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190306000000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306010000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306020000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306030000 -0300" channel="América 24">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190306030000 -0300" stop="20190306040000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306060000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306070000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306090000 -0300" channel="América 24">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306110000 -0300" channel="América 24">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190306110000 -0300" stop="20190306130000 -0300" channel="América 24">
+    <title lang="es">A24 Segunda Mañana</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306150000 -0300" channel="América 24">
+    <title lang="es">A24 Primera Tarde</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306190000 -0300" channel="América 24">
+    <title lang="es">Más que Noticias</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306200000 -0300" channel="América 24">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306230000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190307000000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307010000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190307010000 -0300" stop="20190307020000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307030000 -0300" channel="América 24">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190307030000 -0300" stop="20190307040000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307060000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307070000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307090000 -0300" channel="América 24">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307110000 -0300" channel="América 24">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190307110000 -0300" stop="20190307130000 -0300" channel="América 24">
+    <title lang="es">A24 Segunda Mañana</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307150000 -0300" channel="América 24">
+    <title lang="es">A24 Primera Tarde</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307190000 -0300" channel="América 24">
+    <title lang="es">Más que Noticias</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307200000 -0300" channel="América 24">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307230000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190308000000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308010000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190308010000 -0300" stop="20190308020000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308030000 -0300" channel="América 24">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190308030000 -0300" stop="20190308040000 -0300" channel="América 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308060000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308070000 -0300" channel="América 24">
+    <title lang="es">Luis novaresio entrevista</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308090000 -0300" channel="América 24">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308110000 -0300" channel="América 24">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190308110000 -0300" stop="20190308130000 -0300" channel="América 24">
+    <title lang="es">A24 Segunda Mañana</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308150000 -0300" channel="América 24">
+    <title lang="es">A24 Primera Tarde</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308190000 -0300" channel="América 24">
+    <title lang="es">Más que Noticias</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308200000 -0300" channel="América 24">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308220000 -0300" channel="América 24">
+    <title lang="es">El Noticiero A24</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190309000000 -0300" channel="América 24">
+    <title lang="es">GPS</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305090000 -0300" channel="América TV Internacional">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305103000 -0300" channel="América TV Internacional">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190305103000 -0300" stop="20190305130000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305153000 -0300" channel="América TV Internacional">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190305153000 -0300" stop="20190305171500 -0300" channel="América TV Internacional">
+    <title lang="es">Pamela a la tarde</title>
+  </programme>
+  <programme start="20190305171500 -0300" stop="20190305184500 -0300" channel="América TV Internacional">
+    <title lang="es">Incorrectas</title>
+  </programme>
+  <programme start="20190305184500 -0300" stop="20190305200000 -0300" channel="América TV Internacional">
+    <title lang="es">América Noticias Segunda Edición</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305211500 -0300" channel="América TV Internacional">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20190305211500 -0300" stop="20190305231500 -0300" channel="América TV Internacional">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20190305231500 -0300" stop="20190306010000 -0300" channel="América TV Internacional">
+    <title lang="es">Animales Sueltos</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306020000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306020000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306040000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306063000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306090000 -0300" channel="América TV Internacional">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306103000 -0300" channel="América TV Internacional">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190306103000 -0300" stop="20190306130000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306153000 -0300" channel="América TV Internacional">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190306153000 -0300" stop="20190306171500 -0300" channel="América TV Internacional">
+    <title lang="es">Pamela a la tarde</title>
+  </programme>
+  <programme start="20190306171500 -0300" stop="20190306184500 -0300" channel="América TV Internacional">
+    <title lang="es">Incorrectas</title>
+  </programme>
+  <programme start="20190306184500 -0300" stop="20190306200000 -0300" channel="América TV Internacional">
+    <title lang="es">América Noticias Segunda Edición</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306211500 -0300" channel="América TV Internacional">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20190306211500 -0300" stop="20190306231500 -0300" channel="América TV Internacional">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20190306231500 -0300" stop="20190307010000 -0300" channel="América TV Internacional">
+    <title lang="es">Animales Sueltos</title>
+  </programme>
+  <programme start="20190307010000 -0300" stop="20190307020000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307020000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307040000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307063000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307090000 -0300" channel="América TV Internacional">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307103000 -0300" channel="América TV Internacional">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190307103000 -0300" stop="20190307130000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307153000 -0300" channel="América TV Internacional">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190307153000 -0300" stop="20190307171500 -0300" channel="América TV Internacional">
+    <title lang="es">Pamela a la tarde</title>
+  </programme>
+  <programme start="20190307171500 -0300" stop="20190307184500 -0300" channel="América TV Internacional">
+    <title lang="es">Incorrectas</title>
+  </programme>
+  <programme start="20190307184500 -0300" stop="20190307200000 -0300" channel="América TV Internacional">
+    <title lang="es">América Noticias Segunda Edición</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307211500 -0300" channel="América TV Internacional">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20190307211500 -0300" stop="20190307231500 -0300" channel="América TV Internacional">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20190307231500 -0300" stop="20190308010000 -0300" channel="América TV Internacional">
+    <title lang="es">Animales Sueltos</title>
+  </programme>
+  <programme start="20190308010000 -0300" stop="20190308020000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308020000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308040000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308063000 -0300" channel="América TV Internacional">
+    <title lang="es">Duplex A24</title>
+  </programme>
+  <programme start="20190308063000 -0300" stop="20190308090000 -0300" channel="América TV Internacional">
+    <title lang="es">Buenos Días América</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308103000 -0300" channel="América TV Internacional">
+    <title lang="es">BDA extra</title>
+  </programme>
+  <programme start="20190308103000 -0300" stop="20190308130000 -0300" channel="América TV Internacional">
+    <title lang="es">Involucrados</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308153000 -0300" channel="América TV Internacional">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190308153000 -0300" stop="20190308171500 -0300" channel="América TV Internacional">
+    <title lang="es">Pamela a la tarde</title>
+  </programme>
+  <programme start="20190308171500 -0300" stop="20190308184500 -0300" channel="América TV Internacional">
+    <title lang="es">Incorrectas</title>
+  </programme>
+  <programme start="20190308184500 -0300" stop="20190308200000 -0300" channel="América TV Internacional">
+    <title lang="es">América Noticias Segunda Edición</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308211500 -0300" channel="América TV Internacional">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20190308211500 -0300" stop="20190308231500 -0300" channel="América TV Internacional">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20190308231500 -0300" stop="20190309010000 -0300" channel="América TV Internacional">
+    <title lang="es">Animales Sueltos</title>
+  </programme>
+  <programme start="20190305050000 -0300" stop="20190305060000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Ronda de editores</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305063000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Películas Recuperadas</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305070000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Escuela de aprendices</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305073000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190305073000 -0300" stop="20190305080000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Pampero</title>
+  </programme>
+  <programme start="20190305080000 -0300" stop="20190305090000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305093000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190305093000 -0300" stop="20190305100000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Polifonías</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305110000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Nuestras crónicas</title>
+  </programme>
+  <programme start="20190305110000 -0300" stop="20190305120000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305130000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Television Publica Argentina Noticias</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305140000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Maratón 2018</title>
+  </programme>
+  <programme start="20190305140000 -0300" stop="20190305160000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190305160000 -0300" stop="20190305180000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305190000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305210000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190305210000 -0300" stop="20190305220000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305230000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Historia de un clan</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190305233000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Según Roxi</title>
+  </programme>
+  <programme start="20190305233000 -0300" stop="20190306000000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cada noche</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306003000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Television Publica Argentina Noticias</title>
+  </programme>
+  <programme start="20190306003000 -0300" stop="20190306023000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306023000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306043000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190306043000 -0300" stop="20190306050000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Polifonías</title>
+  </programme>
+  <programme start="20190306050000 -0300" stop="20190306060000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Juventud acumulada</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306063000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Visita Guiada</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306070000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Escuela de aprendices</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306073000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190306073000 -0300" stop="20190306080000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Pampero</title>
+  </programme>
+  <programme start="20190306080000 -0300" stop="20190306090000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306093000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190306093000 -0300" stop="20190306100000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Polifonías</title>
+  </programme>
+  <programme start="20190306100000 -0300" stop="20190306110000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Nuestras crónicas</title>
+  </programme>
+  <programme start="20190306110000 -0300" stop="20190306120000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306130000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Television Publica Argentina Noticias</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306140000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Maratón 2018</title>
+  </programme>
+  <programme start="20190306140000 -0300" stop="20190306160000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190306160000 -0300" stop="20190306173000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190306173000 -0300" stop="20190306180000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306190000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306200000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306210000 -0300" channel="TV Pública HDTV">
+    <title lang="es">El color: el espectro de la ciencia</title>
+  </programme>
+  <programme start="20190306210000 -0300" stop="20190306220000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306230000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Historia de un clan</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190306233000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190306233000 -0300" stop="20190307000000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cada noche</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307003000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190307003000 -0300" stop="20190307022000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190307022000 -0300" stop="20190307022000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190307022000 -0300" stop="20190307042000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190307042000 -0300" stop="20190307045000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Polifonías</title>
+  </programme>
+  <programme start="20190307045000 -0300" stop="20190307060000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307063000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Visita Guiada</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307070000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Escuela de aprendices</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307073000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190307073000 -0300" stop="20190307080000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Pampero</title>
+  </programme>
+  <programme start="20190307080000 -0300" stop="20190307090000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307093000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190307093000 -0300" stop="20190307100000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307110000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Nuestras crónicas</title>
+  </programme>
+  <programme start="20190307110000 -0300" stop="20190307120000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307130000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Television Publica Argentina Noticias</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307140000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Maratón 2018</title>
+  </programme>
+  <programme start="20190307140000 -0300" stop="20190307160000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190307160000 -0300" stop="20190307173000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190307173000 -0300" stop="20190307180000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307190000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Todo tiene un porqué</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307200000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307210000 -0300" channel="TV Pública HDTV">
+    <title lang="es">24 horas en el planeta Tierra</title>
+  </programme>
+  <programme start="20190307210000 -0300" stop="20190307220000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Historia de un clan</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190307233000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190307233000 -0300" stop="20190308000000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cada noche</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308030000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Canal 7</title>
+  </programme>
+  <programme start="20190308030000 -0300" stop="20190308052000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190308052000 -0300" stop="20190308060000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Nuestras crónicas</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308070000 -0300" channel="TV Pública HDTV">
+    <title lang="es">País Paisaje</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308073000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Tierra animada</title>
+  </programme>
+  <programme start="20190308073000 -0300" stop="20190308080000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Pampero</title>
+  </programme>
+  <programme start="20190308080000 -0300" stop="20190308090000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308093000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Paka Paka</title>
+  </programme>
+  <programme start="20190308093000 -0300" stop="20190308100000 -0300" channel="TV Pública HDTV">
+    <title lang="es">La Libertad</title>
+  </programme>
+  <programme start="20190308100000 -0300" stop="20190308110000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Nuestras crónicas</title>
+  </programme>
+  <programme start="20190308110000 -0300" stop="20190308120000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308130000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Television Publica Argentina Noticias</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308140000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Maratón 2019</title>
+  </programme>
+  <programme start="20190308140000 -0300" stop="20190308160000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Cocineros Argentinos</title>
+  </programme>
+  <programme start="20190308160000 -0300" stop="20190308180000 -0300" channel="TV Pública HDTV">
+    <title lang="es">La tarde es un festival</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308190000 -0300" channel="TV Pública HDTV">
+    <title lang="es">DeporTV</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308200000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Televisión Pública Noticias</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308210000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Festival de Cocineros</title>
+  </programme>
+  <programme start="20190308210000 -0300" stop="20190308220000 -0300" channel="TV Pública HDTV">
+    <title lang="es">Festival País '19</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305090000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Arriba Argentinos</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305103000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20190305103000 -0300" stop="20190305120000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Los ángeles de la mañana</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305130000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El Zorro</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305143000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Noticiero Trece</title>
+  </programme>
+  <programme start="20190305143000 -0300" stop="20190305164500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+  <programme start="20190305164500 -0300" stop="20190305183000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20190305183000 -0300" stop="20190305200000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305213000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20190305213000 -0300" stop="20190305223000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Mi hermano es un clon</title>
+  </programme>
+  <programme start="20190305223000 -0300" stop="20190306000000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Amores cruzados</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306004500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">En Síntesis</title>
+  </programme>
+  <programme start="20190306004500 -0300" stop="20190306013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306063000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306070000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306090000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Arriba Argentinos</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306103000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20190306103000 -0300" stop="20190306120000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Los ángeles de la mañana</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306130000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El Zorro</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306143000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Noticiero Trece</title>
+  </programme>
+  <programme start="20190306143000 -0300" stop="20190306164500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+  <programme start="20190306164500 -0300" stop="20190306183000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20190306183000 -0300" stop="20190306200000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306213000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20190306213000 -0300" stop="20190306223000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Mi hermano es un clon</title>
+  </programme>
+  <programme start="20190306223000 -0300" stop="20190307000000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Amores cruzados</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307004500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">En Síntesis</title>
+  </programme>
+  <programme start="20190307004500 -0300" stop="20190307013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307063000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307070000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307090000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Arriba Argentinos</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307103000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20190307103000 -0300" stop="20190307120000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Los ángeles de la mañana</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307130000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El Zorro</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307143000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Noticiero Trece</title>
+  </programme>
+  <programme start="20190307143000 -0300" stop="20190307164500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+  <programme start="20190307164500 -0300" stop="20190307183000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20190307183000 -0300" stop="20190307200000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307213000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20190307213000 -0300" stop="20190307223000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Mi hermano es un clon</title>
+  </programme>
+  <programme start="20190307223000 -0300" stop="20190308000000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Especial Midachi Kindon</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308004500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">En Síntesis</title>
+  </programme>
+  <programme start="20190308004500 -0300" stop="20190308013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308013000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308063000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190308063000 -0300" stop="20190308070000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308090000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Arriba Argentinos</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308103000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20190308103000 -0300" stop="20190308120000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Los ángeles de la mañana</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308130000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El Zorro</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308143000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Noticiero Trece</title>
+  </programme>
+  <programme start="20190308143000 -0300" stop="20190308164500 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+  <programme start="20190308164500 -0300" stop="20190308183000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20190308183000 -0300" stop="20190308200000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308213000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20190308213000 -0300" stop="20190308223000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Mi hermano es un clon</title>
+  </programme>
+  <programme start="20190308223000 -0300" stop="20190309000000 -0300" channel="El Trece (Canal 13) ">
+    <title lang="es">Amores cruzados</title>
+  </programme>
+  <programme start="20190305040000 -0300" stop="20190305053000 -0300" channel="Canal Nueve">
+    <title lang="es">Eh gato y sus amigos</title>
+  </programme>
+  <programme start="20190305053000 -0300" stop="20190305063000 -0300" channel="Canal Nueve">
+    <title lang="es">Chespirito</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305070000 -0300" channel="Canal Nueve">
+    <title lang="es">Chacra TV</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305100000 -0300" channel="Canal Nueve">
+    <title lang="es">Amanecer</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305120000 -0300" channel="Canal Nueve">
+    <title lang="es">Que Mañana!</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305131500 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Mediodia</title>
+  </programme>
+  <programme start="20190305131500 -0300" stop="20190305150000 -0300" channel="Canal Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305160000 -0300" channel="Canal Nueve">
+    <title lang="es">Confrontados</title>
+  </programme>
+  <programme start="20190305160000 -0300" stop="20190305171500 -0300" channel="Canal Nueve">
+    <title lang="es">Todas las Tardes</title>
+  </programme>
+  <programme start="20190305171500 -0300" stop="20190305184500 -0300" channel="Canal Nueve">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20190305184500 -0300" stop="20190305203000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20190305203000 -0300" stop="20190305220000 -0300" channel="Canal Nueve">
+    <title lang="es">Bendita TV</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305230000 -0300" channel="Canal Nueve">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190306000000 -0300" channel="Canal Nueve">
+    <title lang="es">Todo por Hoy</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306003000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Cierre</title>
+  </programme>
+  <programme start="20190306003000 -0300" stop="20190306011500 -0300" channel="Canal Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20190306011500 -0300" stop="20190306021500 -0300" channel="Canal Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20190306021500 -0300" stop="20190306021500 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190306021500 -0300" stop="20190306033000 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190306033000 -0300" stop="20190306040000 -0300" channel="Canal Nueve">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306053000 -0300" channel="Canal Nueve">
+    <title lang="es">Eh gato y sus amigos</title>
+  </programme>
+  <programme start="20190306053000 -0300" stop="20190306063000 -0300" channel="Canal Nueve">
+    <title lang="es">Chespirito</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306070000 -0300" channel="Canal Nueve">
+    <title lang="es">Chacra TV</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306100000 -0300" channel="Canal Nueve">
+    <title lang="es">Amanecer</title>
+  </programme>
+  <programme start="20190306100000 -0300" stop="20190306120000 -0300" channel="Canal Nueve">
+    <title lang="es">Que Mañana!</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306131500 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Mediodia</title>
+  </programme>
+  <programme start="20190306131500 -0300" stop="20190306150000 -0300" channel="Canal Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306160000 -0300" channel="Canal Nueve">
+    <title lang="es">Confrontados</title>
+  </programme>
+  <programme start="20190306160000 -0300" stop="20190306171500 -0300" channel="Canal Nueve">
+    <title lang="es">Todas las Tardes</title>
+  </programme>
+  <programme start="20190306171500 -0300" stop="20190306184500 -0300" channel="Canal Nueve">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20190306184500 -0300" stop="20190306203000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20190306203000 -0300" stop="20190306220000 -0300" channel="Canal Nueve">
+    <title lang="es">Bendita TV</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306230000 -0300" channel="Canal Nueve">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190307000000 -0300" channel="Canal Nueve">
+    <title lang="es">Todo por Hoy</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307003000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Cierre</title>
+  </programme>
+  <programme start="20190307003000 -0300" stop="20190307011500 -0300" channel="Canal Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20190307011500 -0300" stop="20190307021500 -0300" channel="Canal Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20190307021500 -0300" stop="20190307021500 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190307021500 -0300" stop="20190307033000 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190307033000 -0300" stop="20190307040000 -0300" channel="Canal Nueve">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307053000 -0300" channel="Canal Nueve">
+    <title lang="es">Eh gato y sus amigos</title>
+  </programme>
+  <programme start="20190307053000 -0300" stop="20190307063000 -0300" channel="Canal Nueve">
+    <title lang="es">Chespirito</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307070000 -0300" channel="Canal Nueve">
+    <title lang="es">Chacra TV</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307100000 -0300" channel="Canal Nueve">
+    <title lang="es">Amanecer</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307120000 -0300" channel="Canal Nueve">
+    <title lang="es">Que Mañana!</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307131500 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Mediodia</title>
+  </programme>
+  <programme start="20190307131500 -0300" stop="20190307150000 -0300" channel="Canal Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307160000 -0300" channel="Canal Nueve">
+    <title lang="es">Confrontados</title>
+  </programme>
+  <programme start="20190307160000 -0300" stop="20190307171500 -0300" channel="Canal Nueve">
+    <title lang="es">Todas las Tardes</title>
+  </programme>
+  <programme start="20190307171500 -0300" stop="20190307184500 -0300" channel="Canal Nueve">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20190307184500 -0300" stop="20190307203000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20190307203000 -0300" stop="20190307220000 -0300" channel="Canal Nueve">
+    <title lang="es">Bendita TV</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Canal Nueve">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190308000000 -0300" channel="Canal Nueve">
+    <title lang="es">Todo por Hoy</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308003000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Cierre</title>
+  </programme>
+  <programme start="20190308003000 -0300" stop="20190308011500 -0300" channel="Canal Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20190308011500 -0300" stop="20190308021500 -0300" channel="Canal Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20190308021500 -0300" stop="20190308021500 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190308021500 -0300" stop="20190308033000 -0300" channel="Canal Nueve">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20190308033000 -0300" stop="20190308040000 -0300" channel="Canal Nueve">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308053000 -0300" channel="Canal Nueve">
+    <title lang="es">Eh gato y sus amigos</title>
+  </programme>
+  <programme start="20190308053000 -0300" stop="20190308063000 -0300" channel="Canal Nueve">
+    <title lang="es">Chespirito</title>
+  </programme>
+  <programme start="20190308063000 -0300" stop="20190308070000 -0300" channel="Canal Nueve">
+    <title lang="es">Chacra TV</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308100000 -0300" channel="Canal Nueve">
+    <title lang="es">Amanecer</title>
+  </programme>
+  <programme start="20190308100000 -0300" stop="20190308120000 -0300" channel="Canal Nueve">
+    <title lang="es">Que Mañana!</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308131500 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve al Mediodia</title>
+  </programme>
+  <programme start="20190308131500 -0300" stop="20190308150000 -0300" channel="Canal Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308160000 -0300" channel="Canal Nueve">
+    <title lang="es">Confrontados</title>
+  </programme>
+  <programme start="20190308160000 -0300" stop="20190308171500 -0300" channel="Canal Nueve">
+    <title lang="es">Todas las Tardes</title>
+  </programme>
+  <programme start="20190308171500 -0300" stop="20190308184500 -0300" channel="Canal Nueve">
+    <title lang="es">Hay que ver</title>
+  </programme>
+  <programme start="20190308184500 -0300" stop="20190308203000 -0300" channel="Canal Nueve">
+    <title lang="es">Telenueve Central</title>
+  </programme>
+  <programme start="20190308203000 -0300" stop="20190308220000 -0300" channel="Canal Nueve">
+    <title lang="es">Bendita TV</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190308230000 -0300" channel="Canal Nueve">
+    <title lang="es">Mejor de noche</title>
+  </programme>
+  <programme start="20190308230000 -0300" stop="20190309000000 -0300" channel="Canal Nueve">
+    <title lang="es">Todo por Hoy</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305070000 -0300" channel="Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305083000 -0300" channel="Telefe">
+    <title lang="es">Buen martes</title>
+  </programme>
+  <programme start="20190305083000 -0300" stop="20190305093000 -0300" channel="Telefe">
+    <title lang="es">Morfi Kids</title>
+  </programme>
+  <programme start="20190305093000 -0300" stop="20190305114500 -0300" channel="Telefe">
+    <title lang="es">Morfi, todos a la mesa</title>
+  </programme>
+  <programme start="20190305114500 -0300" stop="20190305130000 -0300" channel="Telefe">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305143000 -0300" channel="Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20190305143000 -0300" stop="20190305170000 -0300" channel="Telefe">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20190305170000 -0300" stop="20190305180000 -0300" channel="Telefe">
+    <title lang="es">La venganza de Iffet</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305190000 -0300" channel="Telefe">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="Telefe">
+    <title lang="es">Caso cerrado</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305211500 -0300" channel="Telefe">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20190305211500 -0300" stop="20190305221500 -0300" channel="Telefe">
+    <title lang="es">La Tierra Prometida</title>
+  </programme>
+  <programme start="20190305221500 -0300" stop="20190306001500 -0300" channel="Telefe">
+    <title lang="es">El Sultán</title>
+  </programme>
+  <programme start="20190306001500 -0300" stop="20190306003000 -0300" channel="Telefe">
+    <title lang="es">Noti campi</title>
+  </programme>
+  <programme start="20190306003000 -0300" stop="20190306010000 -0300" channel="Telefe">
+    <title lang="es">Diario de Medianoche</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306013000 -0300" channel="Telefe">
+    <title lang="es">UPlay</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306013000 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306031500 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190306031500 -0300" stop="20190306060000 -0300" channel="Telefe">
+    <title lang="es">Altas horas: MTV y Comedy Central</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306070000 -0300" channel="Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306090000 -0300" channel="Telefe">
+    <title lang="es">Buen miércoles</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306114500 -0300" channel="Telefe">
+    <title lang="es">Morfi, todos a la mesa</title>
+  </programme>
+  <programme start="20190306114500 -0300" stop="20190306130000 -0300" channel="Telefe">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306143000 -0300" channel="Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20190306143000 -0300" stop="20190306170000 -0300" channel="Telefe">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20190306170000 -0300" stop="20190306180000 -0300" channel="Telefe">
+    <title lang="es">Una Parte De Mí</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306200000 -0300" channel="Telefe">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306213000 -0300" channel="Telefe">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20190306213000 -0300" stop="20190306223000 -0300" channel="Telefe">
+    <title lang="es">La voz argentina</title>
+  </programme>
+  <programme start="20190306223000 -0300" stop="20190306234500 -0300" channel="Telefe">
+    <title lang="es">100 días para enamorarse</title>
+  </programme>
+  <programme start="20190306234500 -0300" stop="20190307003000 -0300" channel="Telefe">
+    <title lang="es">Morir de Amor</title>
+  </programme>
+  <programme start="20190307003000 -0300" stop="20190307013000 -0300" channel="Telefe">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307013000 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307031500 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190307031500 -0300" stop="20190307060000 -0300" channel="Telefe">
+    <title lang="es">Altas horas: MTV y Comedy Central</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307070000 -0300" channel="Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307090000 -0300" channel="Telefe">
+    <title lang="es">Buen jueves</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307114500 -0300" channel="Telefe">
+    <title lang="es">Morfi, todos a la mesa</title>
+  </programme>
+  <programme start="20190307114500 -0300" stop="20190307130000 -0300" channel="Telefe">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307143000 -0300" channel="Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20190307143000 -0300" stop="20190307170000 -0300" channel="Telefe">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20190307170000 -0300" stop="20190307180000 -0300" channel="Telefe">
+    <title lang="es">Una Parte De Mí</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307200000 -0300" channel="Telefe">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307213000 -0300" channel="Telefe">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20190307213000 -0300" stop="20190307223000 -0300" channel="Telefe">
+    <title lang="es">La voz argentina</title>
+  </programme>
+  <programme start="20190307223000 -0300" stop="20190307234500 -0300" channel="Telefe">
+    <title lang="es">100 días para enamorarse</title>
+  </programme>
+  <programme start="20190307234500 -0300" stop="20190308002500 -0300" channel="Telefe">
+    <title lang="es">Kara Para Aşk</title>
+  </programme>
+  <programme start="20190308002500 -0300" stop="20190308004500 -0300" channel="Telefe">
+    <title lang="es">El arqui</title>
+  </programme>
+  <programme start="20190308004500 -0300" stop="20190308013000 -0300" channel="Telefe">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308013000 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308033000 -0300" channel="Telefe">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20190308033000 -0300" stop="20190308060000 -0300" channel="Telefe">
+    <title lang="es">Altas horas: MTV y Comedy Central</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308070000 -0300" channel="Telefe">
+    <title lang="es">Nick Jr.</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308090000 -0300" channel="Telefe">
+    <title lang="es">Buen viernes</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308114500 -0300" channel="Telefe">
+    <title lang="es">Morfi, todos a la mesa</title>
+  </programme>
+  <programme start="20190308114500 -0300" stop="20190308130000 -0300" channel="Telefe">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308143000 -0300" channel="Telefe">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+  <programme start="20190308143000 -0300" stop="20190308170000 -0300" channel="Telefe">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20190308170000 -0300" stop="20190308180000 -0300" channel="Telefe">
+    <title lang="es">Una Parte De Mí</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308200000 -0300" channel="Telefe">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308214500 -0300" channel="Telefe">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+  <programme start="20190308214500 -0300" stop="20190308224500 -0300" channel="Telefe">
+    <title lang="es">La voz argentina</title>
+  </programme>
+  <programme start="20190308224500 -0300" stop="20190309001500 -0300" channel="Telefe">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190305043000 -0300" stop="20190305053000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190305053000 -0300" stop="20190305060000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305070000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La mañana de Canal 26</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305100000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El pulso</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305130000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">26 Directo</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305150000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo al mediodía</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305170000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Chiche En Vivo</title>
+  </programme>
+  <programme start="20190305170000 -0300" stop="20190305180000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vas a ver</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305190000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Diario 26</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305210000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190305210000 -0300" stop="20190305220000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305230000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Conversatorio</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190306000000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Noticias a las 23</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306003000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo a la medianoche</title>
+  </programme>
+  <programme start="20190306003000 -0300" stop="20190306013000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Peatonal</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Conversatorio</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306033000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Conversatorio</title>
+  </programme>
+  <programme start="20190306033000 -0300" stop="20190306043000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Noticias a las 23</title>
+  </programme>
+  <programme start="20190306043000 -0300" stop="20190306053000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190306053000 -0300" stop="20190306060000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306070000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La mañana de Canal 26</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306100000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El pulso</title>
+  </programme>
+  <programme start="20190306100000 -0300" stop="20190306130000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">26 Directo</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306150000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo al mediodía</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306170000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Chiche En Vivo</title>
+  </programme>
+  <programme start="20190306170000 -0300" stop="20190306180000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vas a ver</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306190000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Diario 26</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306200000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306210000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190306210000 -0300" stop="20190306220000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306230000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">A Fuego Lento</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190307000000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Antes que mañana</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307003000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo a la medianoche</title>
+  </programme>
+  <programme start="20190307003000 -0300" stop="20190307013000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Peatonal</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190307023000 -0300" stop="20190307023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">A Fuego Lento</title>
+  </programme>
+  <programme start="20190307023000 -0300" stop="20190307033000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">A Fuego Lento</title>
+  </programme>
+  <programme start="20190307033000 -0300" stop="20190307043000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Antes que mañana</title>
+  </programme>
+  <programme start="20190307043000 -0300" stop="20190307053000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190307053000 -0300" stop="20190307060000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307070000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La mañana de Canal 26</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307100000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El pulso</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307130000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">26 Directo</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307150000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo al mediodía</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307170000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Chiche En Vivo</title>
+  </programme>
+  <programme start="20190307170000 -0300" stop="20190307180000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vas a ver</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307190000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Diario 26</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307200000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307210000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190307210000 -0300" stop="20190307220000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El timón de la Economía</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190308000000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Noticias a las 23</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308003000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo a la medianoche</title>
+  </programme>
+  <programme start="20190308003000 -0300" stop="20190308013000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Peatonal</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190308023000 -0300" stop="20190308023000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El timón de la Economía</title>
+  </programme>
+  <programme start="20190308023000 -0300" stop="20190308033000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El timón de la Economía</title>
+  </programme>
+  <programme start="20190308033000 -0300" stop="20190308043000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Noticias a las 23</title>
+  </programme>
+  <programme start="20190308043000 -0300" stop="20190308053000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190308053000 -0300" stop="20190308060000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308070000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La mañana de Canal 26</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308100000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">El pulso</title>
+  </programme>
+  <programme start="20190308100000 -0300" stop="20190308130000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">26 Directo</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308150000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vivo al mediodía</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308170000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Chiche En Vivo</title>
+  </programme>
+  <programme start="20190308170000 -0300" stop="20190308180000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Vas a ver</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308190000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Diario 26</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308200000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Liberman en línea</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308210000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">La nota del día</title>
+  </programme>
+  <programme start="20190308210000 -0300" stop="20190308220000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Plan M</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190308230000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Que hacemos con los pesos?</title>
+  </programme>
+  <programme start="20190308230000 -0300" stop="20190309000000 -0300" channel="Canal 26 Noticias">
+    <title lang="es">Informe Klipphan</title>
+  </programme>
+  <programme start="20190305033000 -0300" stop="20190305040000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Peluquería</title>
+  </programme>
+  <programme start="20190305040000 -0300" stop="20190305050000 -0300" channel="Encuentro">
+    <title lang="es">Magritte, noche y día</title>
+  </programme>
+  <programme start="20190305050000 -0300" stop="20190305053000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Bayer</title>
+  </programme>
+  <programme start="20190305053000 -0300" stop="20190305060000 -0300" channel="Encuentro">
+    <title lang="es">Paisanos</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305063000 -0300" channel="Encuentro">
+    <title lang="es">Faros. La luz de la civilizacion</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305070000 -0300" channel="Encuentro">
+    <title lang="es">Rodolfo Walsh, Reconstrucción de un Hombre</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305080000 -0300" channel="Encuentro">
+    <title lang="es">A fondo</title>
+  </programme>
+  <programme start="20190305080000 -0300" stop="20190305090000 -0300" channel="Encuentro">
+    <title lang="es">África</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305100000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños monstruos</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305110000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Peluquería</title>
+  </programme>
+  <programme start="20190305110000 -0300" stop="20190305114500 -0300" channel="Encuentro">
+    <title lang="es">La conspiración permanente</title>
+  </programme>
+  <programme start="20190305114500 -0300" stop="20190305120000 -0300" channel="Encuentro">
+    <title lang="es">Religión para principiantes</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305123000 -0300" channel="Encuentro">
+    <title lang="es">Sueños lúcidos</title>
+  </programme>
+  <programme start="20190305123000 -0300" stop="20190305130000 -0300" channel="Encuentro">
+    <title lang="es">Pensar Malvinas</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305140000 -0300" channel="Encuentro">
+    <title lang="es">Martin Luther King y la lucha por los derechos civiles</title>
+  </programme>
+  <programme start="20190305140000 -0300" stop="20190305141500 -0300" channel="Encuentro">
+    <title lang="es">Ensamblados</title>
+  </programme>
+  <programme start="20190305141500 -0300" stop="20190305143000 -0300" channel="Encuentro">
+    <title lang="es">Claves de lectura</title>
+  </programme>
+  <programme start="20190305143000 -0300" stop="20190305150000 -0300" channel="Encuentro">
+    <title lang="es">Aguas adentro</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305160000 -0300" channel="Encuentro">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20190305160000 -0300" stop="20190305170000 -0300" channel="Encuentro">
+    <title lang="es">África</title>
+  </programme>
+  <programme start="20190305170000 -0300" stop="20190305173000 -0300" channel="Encuentro">
+    <title lang="es">Grandes conciertos</title>
+  </programme>
+  <programme start="20190305173000 -0300" stop="20190305180000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Peluquería</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305183000 -0300" channel="Encuentro">
+    <title lang="es">Aire: Cambio Climático</title>
+  </programme>
+  <programme start="20190305183000 -0300" stop="20190305190000 -0300" channel="Encuentro">
+    <title lang="es">Escuelas Argentinas</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="Encuentro">
+    <title lang="es">El nacimiento del vagabundo (2014)</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305201500 -0300" channel="Encuentro">
+    <title lang="es">Ensamblados</title>
+  </programme>
+  <programme start="20190305201500 -0300" stop="20190305203000 -0300" channel="Encuentro">
+    <title lang="es">Claves de lectura</title>
+  </programme>
+  <programme start="20190305203000 -0300" stop="20190305210000 -0300" channel="Encuentro">
+    <title lang="es">Entornos invisibles</title>
+  </programme>
+  <programme start="20190305210000 -0300" stop="20190305220000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico sur</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305223000 -0300" channel="Encuentro">
+    <title lang="es">Memoria Iluminada</title>
+  </programme>
+  <programme start="20190305223000 -0300" stop="20190305230000 -0300" channel="Encuentro">
+    <title lang="es">Cuerpo a cuerpo: El caso de Marita Verón</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190306000000 -0300" channel="Encuentro">
+    <title lang="es">Músicos de Latinoamérica</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306010000 -0300" channel="Encuentro">
+    <title lang="es">A fondo</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306013000 -0300" channel="Encuentro">
+    <title lang="es">Rodolfo Walsh, Reconstrucción de un Hombre</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306020000 -0300" channel="Encuentro">
+    <title lang="es">Entornos invisibles</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306020000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico sur</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306040000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico sur</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306050000 -0300" channel="Encuentro">
+    <title lang="es">El secreto de los abejorros</title>
+  </programme>
+  <programme start="20190306050000 -0300" stop="20190306060000 -0300" channel="Encuentro">
+    <title lang="es">Apocalipsis: El desembarco de Normandía</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306063000 -0300" channel="Encuentro">
+    <title lang="es">Aguas adentro</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306073000 -0300" channel="Encuentro">
+    <title lang="es">Los años oscuros, una era de luz</title>
+  </programme>
+  <programme start="20190306073000 -0300" stop="20190306090000 -0300" channel="Encuentro">
+    <title lang="es">El futuro es nuestro</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306094500 -0300" channel="Encuentro">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20190306094500 -0300" stop="20190306103000 -0300" channel="Encuentro">
+    <title lang="es">Revoluciones</title>
+  </programme>
+  <programme start="20190306103000 -0300" stop="20190306110000 -0300" channel="Encuentro">
+    <title lang="es">Entornos invisibles</title>
+  </programme>
+  <programme start="20190306110000 -0300" stop="20190306120000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico sur</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306123000 -0300" channel="Encuentro">
+    <title lang="es">H.I.J.O.S. de una misma historia</title>
+  </programme>
+  <programme start="20190306123000 -0300" stop="20190306130000 -0300" channel="Encuentro">
+    <title lang="es">Escuelas Argentinas</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306143000 -0300" channel="Encuentro">
+    <title lang="es">Músicos de Latinoamérica</title>
+  </programme>
+  <programme start="20190306143000 -0300" stop="20190306150000 -0300" channel="Encuentro">
+    <title lang="es">Memoria Iluminada</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306160000 -0300" channel="Encuentro">
+    <title lang="es">Con Ustedes</title>
+  </programme>
+  <programme start="20190306160000 -0300" stop="20190306170000 -0300" channel="Encuentro">
+    <title lang="es">La vida secreta de los elefantes</title>
+  </programme>
+  <programme start="20190306170000 -0300" stop="20190306173000 -0300" channel="Encuentro">
+    <title lang="es">Grandes de Nuestra Cultura</title>
+  </programme>
+  <programme start="20190306173000 -0300" stop="20190306180000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Huerta</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306190000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el Estudio</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306200000 -0300" channel="Encuentro">
+    <title lang="es">Dentro de la Vía Láctea</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306203000 -0300" channel="Encuentro">
+    <title lang="es">Religión para principiantes</title>
+  </programme>
+  <programme start="20190306203000 -0300" stop="20190306210000 -0300" channel="Encuentro">
+    <title lang="es">El cerebro y yo</title>
+  </programme>
+  <programme start="20190306210000 -0300" stop="20190306213000 -0300" channel="Encuentro">
+    <title lang="es">Maestros de América Latina</title>
+  </programme>
+  <programme start="20190306213000 -0300" stop="20190306220000 -0300" channel="Encuentro">
+    <title lang="es">99,99%. La ciencia de las abuelas</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306223000 -0300" channel="Encuentro">
+    <title lang="es">Cumbia de la buena</title>
+  </programme>
+  <programme start="20190306223000 -0300" stop="20190306230000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Jaime Torres</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190306233000 -0300" channel="Encuentro">
+    <title lang="es">Madres de Plaza de Mayo</title>
+  </programme>
+  <programme start="20190306233000 -0300" stop="20190307000000 -0300" channel="Encuentro">
+    <title lang="es">Alfred Hitchcock presenta</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307010000 -0300" channel="Encuentro">
+    <title lang="es">Los años oscuros, una era de luz</title>
+  </programme>
+  <programme start="20190307010000 -0300" stop="20190307013000 -0300" channel="Encuentro">
+    <title lang="es">Aguas adentro</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307020000 -0300" channel="Encuentro">
+    <title lang="es">El cerebro y yo</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307023000 -0300" channel="Encuentro">
+    <title lang="es">Maestros de América Latina</title>
+  </programme>
+  <programme start="20190307023000 -0300" stop="20190307030000 -0300" channel="Encuentro">
+    <title lang="es">99,99%. La ciencia de las abuelas</title>
+  </programme>
+  <programme start="20190307030000 -0300" stop="20190307031500 -0300" channel="Encuentro">
+    <title lang="es">Cultura para principiantes</title>
+  </programme>
+  <programme start="20190307031500 -0300" stop="20190307033000 -0300" channel="Encuentro">
+    <title lang="es">Los no convencionales</title>
+  </programme>
+  <programme start="20190307033000 -0300" stop="20190307040000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Albañilería</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307043000 -0300" channel="Encuentro">
+    <title lang="es">Inoxidables, íconos de la industria cordobesa</title>
+  </programme>
+  <programme start="20190307043000 -0300" stop="20190307050000 -0300" channel="Encuentro">
+    <title lang="es">Filosofía, Aquí y Ahora</title>
+  </programme>
+  <programme start="20190307050000 -0300" stop="20190307054500 -0300" channel="Encuentro">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20190307054500 -0300" stop="20190307060000 -0300" channel="Encuentro">
+    <title lang="es">Revoluciones</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307070000 -0300" channel="Encuentro">
+    <title lang="es">Músicos de Latinoamérica</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307073000 -0300" channel="Encuentro">
+    <title lang="es">H.I.J.O.S. de una misma historia</title>
+  </programme>
+  <programme start="20190307073000 -0300" stop="20190307080000 -0300" channel="Encuentro">
+    <title lang="es">Grandes de Nuestra Cultura</title>
+  </programme>
+  <programme start="20190307080000 -0300" stop="20190307090000 -0300" channel="Encuentro">
+    <title lang="es">La vida secreta de los elefantes</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307100000 -0300" channel="Encuentro">
+    <title lang="es">Con Ustedes</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307103000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Albañilería</title>
+  </programme>
+  <programme start="20190307103000 -0300" stop="20190307110000 -0300" channel="Encuentro">
+    <title lang="es">El cerebro y yo</title>
+  </programme>
+  <programme start="20190307110000 -0300" stop="20190307113000 -0300" channel="Encuentro">
+    <title lang="es">Maestros de América Latina</title>
+  </programme>
+  <programme start="20190307113000 -0300" stop="20190307120000 -0300" channel="Encuentro">
+    <title lang="es">99,99%. La ciencia de las abuelas</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307130000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el Estudio</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307140000 -0300" channel="Encuentro">
+    <title lang="es">Dentro de la Vía Láctea</title>
+  </programme>
+  <programme start="20190307140000 -0300" stop="20190307141500 -0300" channel="Encuentro">
+    <title lang="es">Cultura para principiantes</title>
+  </programme>
+  <programme start="20190307141500 -0300" stop="20190307143000 -0300" channel="Encuentro">
+    <title lang="es">Los no convencionales</title>
+  </programme>
+  <programme start="20190307143000 -0300" stop="20190307150000 -0300" channel="Encuentro">
+    <title lang="es">Grandes de Nuestra Cultura</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307153000 -0300" channel="Encuentro">
+    <title lang="es">Madres de Plaza de Mayo</title>
+  </programme>
+  <programme start="20190307153000 -0300" stop="20190307160000 -0300" channel="Encuentro">
+    <title lang="es">Alfred Hitchcock presenta</title>
+  </programme>
+  <programme start="20190307160000 -0300" stop="20190307170000 -0300" channel="Encuentro">
+    <title lang="es">La vida secreta de los elefantes</title>
+  </programme>
+  <programme start="20190307170000 -0300" stop="20190307173000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Jaime Torres</title>
+  </programme>
+  <programme start="20190307173000 -0300" stop="20190307180000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Albañilería</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307183000 -0300" channel="Encuentro">
+    <title lang="es">Paisanos</title>
+  </programme>
+  <programme start="20190307183000 -0300" stop="20190307190000 -0300" channel="Encuentro">
+    <title lang="es">Disparos en la biblioteca</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307200000 -0300" channel="Encuentro">
+    <title lang="es">Magritte, noche y día</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307201500 -0300" channel="Encuentro">
+    <title lang="es">Cultura para principiantes</title>
+  </programme>
+  <programme start="20190307201500 -0300" stop="20190307203000 -0300" channel="Encuentro">
+    <title lang="es">Los no convencionales</title>
+  </programme>
+  <programme start="20190307203000 -0300" stop="20190307210000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Bayer</title>
+  </programme>
+  <programme start="20190307210000 -0300" stop="20190307220000 -0300" channel="Encuentro">
+    <title lang="es">El secreto de los huesos</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Encuentro">
+    <title lang="es">Somos memoria</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190308000000 -0300" channel="Encuentro">
+    <title lang="es">La física de la luz</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308013000 -0300" channel="Encuentro">
+    <title lang="es">El cine va a la escuela</title>
+  </programme>
+  <programme start="20190308013000 -0300" stop="20190308020000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Bayer</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308020000 -0300" channel="Encuentro">
+    <title lang="es">El secreto de los huesos</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308040000 -0300" channel="Encuentro">
+    <title lang="es">El secreto de los huesos</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308050000 -0300" channel="Encuentro">
+    <title lang="es">Con Ustedes</title>
+  </programme>
+  <programme start="20190308050000 -0300" stop="20190308060000 -0300" channel="Encuentro">
+    <title lang="es">Cuerpo a cuerpo: El caso de Marita Verón</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308070000 -0300" channel="Encuentro">
+    <title lang="es">Dentro de la Vía Láctea</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308080000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el Estudio</title>
+  </programme>
+  <programme start="20190308080000 -0300" stop="20190308090000 -0300" channel="Encuentro">
+    <title lang="es">Croacia salvaje</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308093000 -0300" channel="Encuentro">
+    <title lang="es">Madres de Plaza de Mayo</title>
+  </programme>
+  <programme start="20190308093000 -0300" stop="20190308103000 -0300" channel="Encuentro">
+    <title lang="es">Alfred Hitchcock presenta</title>
+  </programme>
+  <programme start="20190308103000 -0300" stop="20190308110000 -0300" channel="Encuentro">
+    <title lang="es">Mundo Bayer</title>
+  </programme>
+  <programme start="20190308110000 -0300" stop="20190308120000 -0300" channel="Encuentro">
+    <title lang="es">El secreto de los huesos</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308130000 -0300" channel="Encuentro">
+    <title lang="es">Somos memoria</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308143000 -0300" channel="Encuentro">
+    <title lang="es">Magritte, noche y día</title>
+  </programme>
+  <programme start="20190308143000 -0300" stop="20190308150000 -0300" channel="Encuentro">
+    <title lang="es">Paisanos</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308160000 -0300" channel="Encuentro">
+    <title lang="es">La física de la luz</title>
+  </programme>
+  <programme start="20190308160000 -0300" stop="20190308170000 -0300" channel="Encuentro">
+    <title lang="es">Croacia salvaje</title>
+  </programme>
+  <programme start="20190308170000 -0300" stop="20190308173000 -0300" channel="Encuentro">
+    <title lang="es">Disparos en la biblioteca</title>
+  </programme>
+  <programme start="20190308173000 -0300" stop="20190308180000 -0300" channel="Encuentro">
+    <title lang="es">Oficios: Curso de Carpinteria</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308183000 -0300" channel="Encuentro">
+    <title lang="es">Faros. La luz de la civilizacion</title>
+  </programme>
+  <programme start="20190308183000 -0300" stop="20190308190000 -0300" channel="Encuentro">
+    <title lang="es">Rodolfo Walsh, Reconstrucción de un Hombre</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308200000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños monstruos</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308203000 -0300" channel="Encuentro">
+    <title lang="es">Mi banda</title>
+  </programme>
+  <programme start="20190308203000 -0300" stop="20190308210000 -0300" channel="Encuentro">
+    <title lang="es">Mentira la Verdad</title>
+  </programme>
+  <programme start="20190308210000 -0300" stop="20190308220000 -0300" channel="Encuentro">
+    <title lang="es">Descifrando el código genético</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190308230000 -0300" channel="Encuentro">
+    <title lang="es">A fondo</title>
+  </programme>
+  <programme start="20190308230000 -0300" stop="20190309000000 -0300" channel="Encuentro">
+    <title lang="es">El discurso del rey al descubierto</title>
+  </programme>
+  <programme start="20190305040000 -0300" stop="20190305043000 -0300" channel="Canal Luz">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20190305043000 -0300" stop="20190305053000 -0300" channel="Canal Luz">
+    <title lang="es">Un tiempo con Jesús</title>
+  </programme>
+  <programme start="20190305053000 -0300" stop="20190305054500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190305054500 -0300" stop="20190305060000 -0300" channel="Canal Luz">
+    <title lang="es">Micro la reforma</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305063000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305064500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190305064500 -0300" stop="20190305070000 -0300" channel="Canal Luz">
+    <title lang="es">El Living De Mabel</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305080000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190305080000 -0300" stop="20190305090000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190305090000 -0300" stop="20190305093000 -0300" channel="Canal Luz">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20190305093000 -0300" stop="20190305100000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305103000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190305103000 -0300" stop="20190305120000 -0300" channel="Canal Luz">
+    <title lang="es">Personalidades</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305123000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190305123000 -0300" stop="20190305130000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo Carnival On Line</title>
+  </programme>
+  <programme start="20190305130000 -0300" stop="20190305140000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190305140000 -0300" stop="20190305143000 -0300" channel="Canal Luz">
+    <title lang="es">El Amor Que Vale - Adrian Rogers</title>
+  </programme>
+  <programme start="20190305143000 -0300" stop="20190305150000 -0300" channel="Canal Luz">
+    <title lang="es">Bendita luz</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305153000 -0300" channel="Canal Luz">
+    <title lang="es">Salvemos nuestros Niños</title>
+  </programme>
+  <programme start="20190305153000 -0300" stop="20190305154500 -0300" channel="Canal Luz">
+    <title lang="es">Dia de bendición</title>
+  </programme>
+  <programme start="20190305154500 -0300" stop="20190305160000 -0300" channel="Canal Luz">
+    <title lang="es">Sembrar valores</title>
+  </programme>
+  <programme start="20190305160000 -0300" stop="20190305163000 -0300" channel="Canal Luz">
+    <title lang="es">Karina musical TV</title>
+  </programme>
+  <programme start="20190305163000 -0300" stop="20190305170000 -0300" channel="Canal Luz">
+    <title lang="es">Avivamiento</title>
+  </programme>
+  <programme start="20190305170000 -0300" stop="20190305171500 -0300" channel="Canal Luz">
+    <title lang="es">Salida directa</title>
+  </programme>
+  <programme start="20190305171500 -0300" stop="20190305173000 -0300" channel="Canal Luz">
+    <title lang="es">Hay una salida</title>
+  </programme>
+  <programme start="20190305173000 -0300" stop="20190305180000 -0300" channel="Canal Luz">
+    <title lang="es">Libres por la verdad</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305183000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190305183000 -0300" stop="20190305190000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305200000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305203000 -0300" channel="Canal Luz">
+    <title lang="es">Esperanza en la ciudad</title>
+  </programme>
+  <programme start="20190305203000 -0300" stop="20190305204500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190305204500 -0300" stop="20190305210000 -0300" channel="Canal Luz">
+    <title lang="es">Mentor Sergio</title>
+  </programme>
+  <programme start="20190305210000 -0300" stop="20190305213000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190305213000 -0300" stop="20190305214500 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190305214500 -0300" stop="20190305220000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305230000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190305233000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190305233000 -0300" stop="20190306000000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306003000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo carnival online - para toda la vida - nueva vida</title>
+  </programme>
+  <programme start="20190306003000 -0300" stop="20190306010000 -0300" channel="Canal Luz">
+    <title lang="es">Iglesia de la ciudad</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306013000 -0300" channel="Canal Luz">
+    <title lang="es">Bendita luz - Un momento para pensar - Un mensaje a la conciencia - Elegí vida - El tiempo es ahora - Musicales</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306020000 -0300" channel="Canal Luz">
+    <title lang="es">Salvemos nuestros Niños</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306021500 -0300" channel="Canal Luz">
+    <title lang="es">Dia de bendición</title>
+  </programme>
+  <programme start="20190306021500 -0300" stop="20190306023000 -0300" channel="Canal Luz">
+    <title lang="es">Sembrar valores</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306030000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190306030000 -0300" stop="20190306033000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190306033000 -0300" stop="20190306040000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306050000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190306050000 -0300" stop="20190306053000 -0300" channel="Canal Luz">
+    <title lang="es">Esperanza en la ciudad</title>
+  </programme>
+  <programme start="20190306053000 -0300" stop="20190306054500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190306054500 -0300" stop="20190306060000 -0300" channel="Canal Luz">
+    <title lang="es">Mentor Sergio</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306064500 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190306064500 -0300" stop="20190306080000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190306080000 -0300" stop="20190306090000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190306090000 -0300" stop="20190306093000 -0300" channel="Canal Luz">
+    <title lang="es">Libres por la verdad</title>
+  </programme>
+  <programme start="20190306093000 -0300" stop="20190306100000 -0300" channel="Canal Luz">
+    <title lang="es">Vida Dura</title>
+  </programme>
+  <programme start="20190306100000 -0300" stop="20190306103000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190306103000 -0300" stop="20190306120000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306123000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a tiempo</title>
+  </programme>
+  <programme start="20190306123000 -0300" stop="20190306130000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo Carnival Online</title>
+  </programme>
+  <programme start="20190306130000 -0300" stop="20190306133000 -0300" channel="Canal Luz">
+    <title lang="es">Palabra de aliento New</title>
+  </programme>
+  <programme start="20190306133000 -0300" stop="20190306140000 -0300" channel="Canal Luz">
+    <title lang="es">Tomamos un café</title>
+  </programme>
+  <programme start="20190306140000 -0300" stop="20190306143000 -0300" channel="Canal Luz">
+    <title lang="es">El Amor Que Vale - Adrian Rogers</title>
+  </programme>
+  <programme start="20190306143000 -0300" stop="20190306150000 -0300" channel="Canal Luz">
+    <title lang="es">Esperanza en la ciudad</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306153000 -0300" channel="Canal Luz">
+    <title lang="es">Edificados por la palabra</title>
+  </programme>
+  <programme start="20190306153000 -0300" stop="20190306160000 -0300" channel="Canal Luz">
+    <title lang="es">Tiempo de fe</title>
+  </programme>
+  <programme start="20190306160000 -0300" stop="20190306163000 -0300" channel="Canal Luz">
+    <title lang="es">Karina musical TV</title>
+  </programme>
+  <programme start="20190306163000 -0300" stop="20190306170000 -0300" channel="Canal Luz">
+    <title lang="es">Jesús está aquí</title>
+  </programme>
+  <programme start="20190306170000 -0300" stop="20190306173000 -0300" channel="Canal Luz">
+    <title lang="es">Gente Nueva</title>
+  </programme>
+  <programme start="20190306173000 -0300" stop="20190306180000 -0300" channel="Canal Luz">
+    <title lang="es">Directo al corazón</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306183000 -0300" channel="Canal Luz">
+    <title lang="es">Vida Dura</title>
+  </programme>
+  <programme start="20190306183000 -0300" stop="20190306190000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306200000 -0300" channel="Canal Luz">
+    <title lang="es">Visión de futuro</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306210000 -0300" channel="Canal Luz">
+    <title lang="es">500 años de la reforma</title>
+  </programme>
+  <programme start="20190306210000 -0300" stop="20190306213000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190306213000 -0300" stop="20190306214500 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190306214500 -0300" stop="20190306220000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306230000 -0300" channel="Canal Luz">
+    <title lang="es">El Living De Mabel</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190306233000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190306233000 -0300" stop="20190307000000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a tiempo</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307003000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo carnival online - para toda la vida - nueva vida</title>
+  </programme>
+  <programme start="20190307003000 -0300" stop="20190307010000 -0300" channel="Canal Luz">
+    <title lang="es">Si quieres un cambio</title>
+  </programme>
+  <programme start="20190307010000 -0300" stop="20190307013000 -0300" channel="Canal Luz">
+    <title lang="es">Esperanza en la ciudad</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307020000 -0300" channel="Canal Luz">
+    <title lang="es">Edificados por la palabra</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307023000 -0300" channel="Canal Luz">
+    <title lang="es">Tiempo de fe</title>
+  </programme>
+  <programme start="20190307023000 -0300" stop="20190307030000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190307030000 -0300" stop="20190307033000 -0300" channel="Canal Luz">
+    <title lang="es">Vida Dura</title>
+  </programme>
+  <programme start="20190307033000 -0300" stop="20190307040000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307050000 -0300" channel="Canal Luz">
+    <title lang="es">Visión de futuro</title>
+  </programme>
+  <programme start="20190307050000 -0300" stop="20190307060000 -0300" channel="Canal Luz">
+    <title lang="es">500 años de la reforma</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307063000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307064500 -0300" channel="Canal Luz">
+    <title lang="es">Viviendo en el plan de Dios</title>
+  </programme>
+  <programme start="20190307064500 -0300" stop="20190307070000 -0300" channel="Canal Luz">
+    <title lang="es">El Living De Mabel</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307080000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190307080000 -0300" stop="20190307090000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190307090000 -0300" stop="20190307093000 -0300" channel="Canal Luz">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20190307093000 -0300" stop="20190307100000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307103000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190307103000 -0300" stop="20190307120000 -0300" channel="Canal Luz">
+    <title lang="es">El Living De Mabel</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307123000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a tiempo</title>
+  </programme>
+  <programme start="20190307123000 -0300" stop="20190307130000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo Carnival Online</title>
+  </programme>
+  <programme start="20190307130000 -0300" stop="20190307140000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190307140000 -0300" stop="20190307143000 -0300" channel="Canal Luz">
+    <title lang="es">El Amor Que Vale - Adrian Rogers</title>
+  </programme>
+  <programme start="20190307143000 -0300" stop="20190307150000 -0300" channel="Canal Luz">
+    <title lang="es">Directo al corazón</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307153000 -0300" channel="Canal Luz">
+    <title lang="es">Enciende una luz</title>
+  </programme>
+  <programme start="20190307153000 -0300" stop="20190307160000 -0300" channel="Canal Luz">
+    <title lang="es">La verdad y nada más</title>
+  </programme>
+  <programme start="20190307160000 -0300" stop="20190307163000 -0300" channel="Canal Luz">
+    <title lang="es">Karina musical TV</title>
+  </programme>
+  <programme start="20190307163000 -0300" stop="20190307170000 -0300" channel="Canal Luz">
+    <title lang="es">Avivamiento</title>
+  </programme>
+  <programme start="20190307170000 -0300" stop="20190307171500 -0300" channel="Canal Luz">
+    <title lang="es">Salida Directa</title>
+  </programme>
+  <programme start="20190307171500 -0300" stop="20190307173000 -0300" channel="Canal Luz">
+    <title lang="es">Hay una salida</title>
+  </programme>
+  <programme start="20190307173000 -0300" stop="20190307180000 -0300" channel="Canal Luz">
+    <title lang="es">Libres por la verdad</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307183000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190307183000 -0300" stop="20190307190000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307200000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307203000 -0300" channel="Canal Luz">
+    <title lang="es">Santuario de fe</title>
+  </programme>
+  <programme start="20190307203000 -0300" stop="20190307204500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190307204500 -0300" stop="20190307210000 -0300" channel="Canal Luz">
+    <title lang="es">Micro la reforma</title>
+  </programme>
+  <programme start="20190307210000 -0300" stop="20190307213000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190307213000 -0300" stop="20190307214500 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190307214500 -0300" stop="20190307220000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190307233000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190307233000 -0300" stop="20190308000000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a Tiempo</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308003000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo Carnival Online</title>
+  </programme>
+  <programme start="20190308003000 -0300" stop="20190308010000 -0300" channel="Canal Luz">
+    <title lang="es">Iglesia de la ciudad</title>
+  </programme>
+  <programme start="20190308010000 -0300" stop="20190308020000 -0300" channel="Canal Luz">
+    <title lang="es">Vamos por más</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308023000 -0300" channel="Canal Luz">
+    <title lang="es">La verdad y nada más</title>
+  </programme>
+  <programme start="20190308023000 -0300" stop="20190308030000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190308030000 -0300" stop="20190308033000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190308033000 -0300" stop="20190308040000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308050000 -0300" channel="Canal Luz">
+    <title lang="es">IEMA</title>
+  </programme>
+  <programme start="20190308050000 -0300" stop="20190308053000 -0300" channel="Canal Luz">
+    <title lang="es">Santuario de fe</title>
+  </programme>
+  <programme start="20190308053000 -0300" stop="20190308060000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308063000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190308063000 -0300" stop="20190308064500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190308064500 -0300" stop="20190308080000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190308080000 -0300" stop="20190308090000 -0300" channel="Canal Luz">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20190308090000 -0300" stop="20190308093000 -0300" channel="Canal Luz">
+    <title lang="es">Santuario de fe</title>
+  </programme>
+  <programme start="20190308093000 -0300" stop="20190308100000 -0300" channel="Canal Luz">
+    <title lang="es">Vida Dura</title>
+  </programme>
+  <programme start="20190308100000 -0300" stop="20190308103000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190308103000 -0300" stop="20190308110000 -0300" channel="Canal Luz">
+    <title lang="es">Actualidad</title>
+  </programme>
+  <programme start="20190308110000 -0300" stop="20190308113000 -0300" channel="Canal Luz">
+    <title lang="es">Vive +</title>
+  </programme>
+  <programme start="20190308113000 -0300" stop="20190308120000 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308123000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a tiempo</title>
+  </programme>
+  <programme start="20190308123000 -0300" stop="20190308130000 -0300" channel="Canal Luz">
+    <title lang="es">Osvaldo Carnival Online</title>
+  </programme>
+  <programme start="20190308130000 -0300" stop="20190308133000 -0300" channel="Canal Luz">
+    <title lang="es">Palabra de aliento New</title>
+  </programme>
+  <programme start="20190308133000 -0300" stop="20190308140000 -0300" channel="Canal Luz">
+    <title lang="es">Uno + para Jesús</title>
+  </programme>
+  <programme start="20190308140000 -0300" stop="20190308143000 -0300" channel="Canal Luz">
+    <title lang="es">El Amor Que Vale - Adrian Rogers</title>
+  </programme>
+  <programme start="20190308143000 -0300" stop="20190308144500 -0300" channel="Canal Luz">
+    <title lang="es">Tiempo de fe</title>
+  </programme>
+  <programme start="20190308144500 -0300" stop="20190308150000 -0300" channel="Canal Luz">
+    <title lang="es">Un amor eterno</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308153000 -0300" channel="Canal Luz">
+    <title lang="es">La verdad te hará libre</title>
+  </programme>
+  <programme start="20190308153000 -0300" stop="20190308160000 -0300" channel="Canal Luz">
+    <title lang="es">Ministración del Espíritu Santo</title>
+  </programme>
+  <programme start="20190308160000 -0300" stop="20190308163000 -0300" channel="Canal Luz">
+    <title lang="es">Karina musical TV</title>
+  </programme>
+  <programme start="20190308163000 -0300" stop="20190308173000 -0300" channel="Canal Luz">
+    <title lang="es">Iglesia redentor</title>
+  </programme>
+  <programme start="20190308173000 -0300" stop="20190308180000 -0300" channel="Canal Luz">
+    <title lang="es">Edificando generaciones</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308183000 -0300" channel="Canal Luz">
+    <title lang="es">Cálmate</title>
+  </programme>
+  <programme start="20190308183000 -0300" stop="20190308190000 -0300" channel="Canal Luz">
+    <title lang="es">La Vida Ahora</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308193000 -0300" channel="Canal Luz">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20190308193000 -0300" stop="20190308200000 -0300" channel="Canal Luz">
+    <title lang="es">La otra TV</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308203000 -0300" channel="Canal Luz">
+    <title lang="es">Una Cita con la Vida</title>
+  </programme>
+  <programme start="20190308203000 -0300" stop="20190308204500 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190308204500 -0300" stop="20190308210000 -0300" channel="Canal Luz">
+    <title lang="es">Mentor Sergio</title>
+  </programme>
+  <programme start="20190308210000 -0300" stop="20190308214500 -0300" channel="Canal Luz">
+    <title lang="es">GPS Recalculando</title>
+  </programme>
+  <programme start="20190308214500 -0300" stop="20190308220000 -0300" channel="Canal Luz">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190308223000 -0300" channel="Canal Luz">
+    <title lang="es">Mabel, capítulos de mi vida</title>
+  </programme>
+  <programme start="20190308223000 -0300" stop="20190308230000 -0300" channel="Canal Luz">
+    <title lang="es">Club 700 Hoy</title>
+  </programme>
+  <programme start="20190308230000 -0300" stop="20190308233000 -0300" channel="Canal Luz">
+    <title lang="es">Vida Dura</title>
+  </programme>
+  <programme start="20190308233000 -0300" stop="20190309000000 -0300" channel="Canal Luz">
+    <title lang="es">Justo a tiempo</title>
+  </programme>
+  <programme start="20190305040000 -0300" stop="20190305043000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Costumbres Rurales</title>
+  </programme>
+  <programme start="20190305043000 -0300" stop="20190305050000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Actualidad Agropecuaria</title>
+  </programme>
+  <programme start="20190305050000 -0300" stop="20190305053000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra Rural</title>
+  </programme>
+  <programme start="20190305053000 -0300" stop="20190305060000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Santiago Rural</title>
+  </programme>
+  <programme start="20190305060000 -0300" stop="20190305063000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Por el Campo</title>
+  </programme>
+  <programme start="20190305063000 -0300" stop="20190305070000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Primera Edición New</title>
+  </programme>
+  <programme start="20190305070000 -0300" stop="20190305100000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Visión</title>
+  </programme>
+  <programme start="20190305100000 -0300" stop="20190305103000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Empresarios del campo</title>
+  </programme>
+  <programme start="20190305103000 -0300" stop="20190305110000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Corrientes Coe'mbota</title>
+  </programme>
+  <programme start="20190305110000 -0300" stop="20190305113000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra Rural</title>
+  </programme>
+  <programme start="20190305113000 -0300" stop="20190305120000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Ganadería con Todos</title>
+  </programme>
+  <programme start="20190305120000 -0300" stop="20190305123000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tecnificando el Agro</title>
+  </programme>
+  <programme start="20190305123000 -0300" stop="20190305133000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Mediodía New</title>
+  </programme>
+  <programme start="20190305133000 -0300" stop="20190305140000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra de productor New</title>
+  </programme>
+  <programme start="20190305140000 -0300" stop="20190305143000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Paraguay rural</title>
+  </programme>
+  <programme start="20190305143000 -0300" stop="20190305150000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Sólo campo</title>
+  </programme>
+  <programme start="20190305150000 -0300" stop="20190305153000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Emprendimientos</title>
+  </programme>
+  <programme start="20190305153000 -0300" stop="20190305160000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Saber Rural</title>
+  </programme>
+  <programme start="20190305160000 -0300" stop="20190305163000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Hipismo de Primera</title>
+  </programme>
+  <programme start="20190305163000 -0300" stop="20190305170000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Actualidad Agropecuaria</title>
+  </programme>
+  <programme start="20190305170000 -0300" stop="20190305173000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo en Acción</title>
+  </programme>
+  <programme start="20190305173000 -0300" stop="20190305180000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Siembra y cosecha</title>
+  </programme>
+  <programme start="20190305180000 -0300" stop="20190305183000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agroverdad</title>
+  </programme>
+  <programme start="20190305183000 -0300" stop="20190305190000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Chacarero</title>
+  </programme>
+  <programme start="20190305190000 -0300" stop="20190305193000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Producción</title>
+  </programme>
+  <programme start="20190305193000 -0300" stop="20190305200000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Estancias Argentinas</title>
+  </programme>
+  <programme start="20190305200000 -0300" stop="20190305203000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Procampo</title>
+  </programme>
+  <programme start="20190305203000 -0300" stop="20190305210000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Patagonia Sur Sur New</title>
+  </programme>
+  <programme start="20190305210000 -0300" stop="20190305220000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Central New</title>
+  </programme>
+  <programme start="20190305220000 -0300" stop="20190305223000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alimentos y Regiones</title>
+  </programme>
+  <programme start="20190305223000 -0300" stop="20190305230000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">ADN pergamino New</title>
+  </programme>
+  <programme start="20190305230000 -0300" stop="20190305233000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agro 9 New</title>
+  </programme>
+  <programme start="20190305233000 -0300" stop="20190306000000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Leyes Naturales</title>
+  </programme>
+  <programme start="20190306000000 -0300" stop="20190306010000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Canal Rural Noticias</title>
+  </programme>
+  <programme start="20190306010000 -0300" stop="20190306013000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alimentos y Regiones</title>
+  </programme>
+  <programme start="20190306013000 -0300" stop="20190306020000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">ADN pergamino</title>
+  </programme>
+  <programme start="20190306020000 -0300" stop="20190306023000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agro 9</title>
+  </programme>
+  <programme start="20190306023000 -0300" stop="20190306030000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Leyes Naturales</title>
+  </programme>
+  <programme start="20190306030000 -0300" stop="20190306034500 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Procampo</title>
+  </programme>
+  <programme start="20190306034500 -0300" stop="20190306040000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Patagonia Sur Sur</title>
+  </programme>
+  <programme start="20190306040000 -0300" stop="20190306043000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alimentos y Regiones</title>
+  </programme>
+  <programme start="20190306043000 -0300" stop="20190306050000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">ADN pergamino</title>
+  </programme>
+  <programme start="20190306050000 -0300" stop="20190306053000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agro 9</title>
+  </programme>
+  <programme start="20190306053000 -0300" stop="20190306060000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Procampo</title>
+  </programme>
+  <programme start="20190306060000 -0300" stop="20190306063000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Patagonia Sur Sur</title>
+  </programme>
+  <programme start="20190306063000 -0300" stop="20190306070000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Primera Edición New</title>
+  </programme>
+  <programme start="20190306070000 -0300" stop="20190306100000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Visión</title>
+  </programme>
+  <programme start="20190306100000 -0300" stop="20190306103000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Video Campo New</title>
+  </programme>
+  <programme start="20190306103000 -0300" stop="20190306110000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Patagonia Rural</title>
+  </programme>
+  <programme start="20190306110000 -0300" stop="20190306113000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Estancias Argentinas</title>
+  </programme>
+  <programme start="20190306113000 -0300" stop="20190306120000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">ADN pergamino</title>
+  </programme>
+  <programme start="20190306120000 -0300" stop="20190306123000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo en Acción</title>
+  </programme>
+  <programme start="20190306123000 -0300" stop="20190306133000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Mediodía New</title>
+  </programme>
+  <programme start="20190306133000 -0300" stop="20190306140000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Costumbres Rurales</title>
+  </programme>
+  <programme start="20190306140000 -0300" stop="20190306143000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Corrientes Coe'mbota</title>
+  </programme>
+  <programme start="20190306143000 -0300" stop="20190306150000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alternativa Rural</title>
+  </programme>
+  <programme start="20190306150000 -0300" stop="20190306153000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo Abierto</title>
+  </programme>
+  <programme start="20190306153000 -0300" stop="20190306160000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Vademecum</title>
+  </programme>
+  <programme start="20190306160000 -0300" stop="20190306163000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Río 4 agro</title>
+  </programme>
+  <programme start="20190306163000 -0300" stop="20190306170000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tecnología Rural</title>
+  </programme>
+  <programme start="20190306170000 -0300" stop="20190306173000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Sentir Patagónico</title>
+  </programme>
+  <programme start="20190306173000 -0300" stop="20190306180000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Terra Chaco</title>
+  </programme>
+  <programme start="20190306180000 -0300" stop="20190306183000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tecnificando el Agro</title>
+  </programme>
+  <programme start="20190306183000 -0300" stop="20190306190000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra de productor</title>
+  </programme>
+  <programme start="20190306190000 -0300" stop="20190306193000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Riquezas del Litoral</title>
+  </programme>
+  <programme start="20190306193000 -0300" stop="20190306200000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">San Francisco y su región New</title>
+  </programme>
+  <programme start="20190306200000 -0300" stop="20190306203000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">A Corral New</title>
+  </programme>
+  <programme start="20190306203000 -0300" stop="20190306210000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agroverdad</title>
+  </programme>
+  <programme start="20190306210000 -0300" stop="20190306220000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Central New</title>
+  </programme>
+  <programme start="20190306220000 -0300" stop="20190306223000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Salta Agropecuaria New</title>
+  </programme>
+  <programme start="20190306223000 -0300" stop="20190306230000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">País de las Estancias</title>
+  </programme>
+  <programme start="20190306230000 -0300" stop="20190306233000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Ganadería con Todos New</title>
+  </programme>
+  <programme start="20190306233000 -0300" stop="20190307000000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo de Precisión</title>
+  </programme>
+  <programme start="20190307000000 -0300" stop="20190307010000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Canal Rural Noticias</title>
+  </programme>
+  <programme start="20190307010000 -0300" stop="20190307013000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Salta Agropecuaria</title>
+  </programme>
+  <programme start="20190307013000 -0300" stop="20190307020000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">País de las Estancias</title>
+  </programme>
+  <programme start="20190307020000 -0300" stop="20190307023000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Ganadería con Todos</title>
+  </programme>
+  <programme start="20190307023000 -0300" stop="20190307030000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo de Precisión</title>
+  </programme>
+  <programme start="20190307030000 -0300" stop="20190307034500 -0300" channel="Canal Rural Satelital">
+    <title lang="es">A Corral</title>
+  </programme>
+  <programme start="20190307034500 -0300" stop="20190307040000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agroverdad</title>
+  </programme>
+  <programme start="20190307040000 -0300" stop="20190307043000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Salta Agropecuaria</title>
+  </programme>
+  <programme start="20190307043000 -0300" stop="20190307050000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">País de las Estancias</title>
+  </programme>
+  <programme start="20190307050000 -0300" stop="20190307053000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Ganadería con Todos</title>
+  </programme>
+  <programme start="20190307053000 -0300" stop="20190307060000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">A Corral</title>
+  </programme>
+  <programme start="20190307060000 -0300" stop="20190307063000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agroverdad</title>
+  </programme>
+  <programme start="20190307063000 -0300" stop="20190307070000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Primera Edición New</title>
+  </programme>
+  <programme start="20190307070000 -0300" stop="20190307100000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Visión</title>
+  </programme>
+  <programme start="20190307100000 -0300" stop="20190307103000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alternativa Rural New</title>
+  </programme>
+  <programme start="20190307103000 -0300" stop="20190307110000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Ganadería con Todos</title>
+  </programme>
+  <programme start="20190307110000 -0300" stop="20190307113000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Riquezas del Litoral</title>
+  </programme>
+  <programme start="20190307113000 -0300" stop="20190307120000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Actualidad Agropecuaria</title>
+  </programme>
+  <programme start="20190307120000 -0300" stop="20190307123000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alimentos y Regiones</title>
+  </programme>
+  <programme start="20190307123000 -0300" stop="20190307133000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Mediodía New</title>
+  </programme>
+  <programme start="20190307133000 -0300" stop="20190307140000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Sólo campo New</title>
+  </programme>
+  <programme start="20190307140000 -0300" stop="20190307143000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Chacarero</title>
+  </programme>
+  <programme start="20190307143000 -0300" stop="20190307150000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Patagonia Sur Sur</title>
+  </programme>
+  <programme start="20190307150000 -0300" stop="20190307153000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo de Precisión</title>
+  </programme>
+  <programme start="20190307153000 -0300" stop="20190307160000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Frutihortícola New</title>
+  </programme>
+  <programme start="20190307160000 -0300" stop="20190307163000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Procampo</title>
+  </programme>
+  <programme start="20190307163000 -0300" stop="20190307170000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Semanario de Cuyo</title>
+  </programme>
+  <programme start="20190307170000 -0300" stop="20190307173000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra Rural New</title>
+  </programme>
+  <programme start="20190307173000 -0300" stop="20190307180000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Agro 9</title>
+  </programme>
+  <programme start="20190307180000 -0300" stop="20190307183000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Caballos Criollos</title>
+  </programme>
+  <programme start="20190307183000 -0300" stop="20190307190000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Vademecum New</title>
+  </programme>
+  <programme start="20190307190000 -0300" stop="20190307193000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Puerta Regional New</title>
+  </programme>
+  <programme start="20190307193000 -0300" stop="20190307200000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Producción New</title>
+  </programme>
+  <programme start="20190307200000 -0300" stop="20190307203000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Coninagro TV</title>
+  </programme>
+  <programme start="20190307203000 -0300" stop="20190307210000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Río 4 agro New</title>
+  </programme>
+  <programme start="20190307210000 -0300" stop="20190307220000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Central New</title>
+  </programme>
+  <programme start="20190307220000 -0300" stop="20190307230000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">El campo de la industria verde New</title>
+  </programme>
+  <programme start="20190307230000 -0300" stop="20190307233000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tranquera Abierta</title>
+  </programme>
+  <programme start="20190307233000 -0300" stop="20190308000000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tecnificando el Agro New</title>
+  </programme>
+  <programme start="20190308000000 -0300" stop="20190308010000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Canal Rural Noticias</title>
+  </programme>
+  <programme start="20190308010000 -0300" stop="20190308020000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">El campo de la industria verde</title>
+  </programme>
+  <programme start="20190308020000 -0300" stop="20190308023000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tranquera Abierta</title>
+  </programme>
+  <programme start="20190308023000 -0300" stop="20190308030000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tecnificando el Agro</title>
+  </programme>
+  <programme start="20190308030000 -0300" stop="20190308033000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Coninagro TV</title>
+  </programme>
+  <programme start="20190308033000 -0300" stop="20190308040000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Río 4 agro</title>
+  </programme>
+  <programme start="20190308040000 -0300" stop="20190308050000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">El campo de la industria verde</title>
+  </programme>
+  <programme start="20190308050000 -0300" stop="20190308053000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Tranquera Abierta</title>
+  </programme>
+  <programme start="20190308053000 -0300" stop="20190308060000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Coninagro TV</title>
+  </programme>
+  <programme start="20190308060000 -0300" stop="20190308063000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Río 4 agro</title>
+  </programme>
+  <programme start="20190308063000 -0300" stop="20190308070000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Primera Edición New</title>
+  </programme>
+  <programme start="20190308070000 -0300" stop="20190308100000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Visión</title>
+  </programme>
+  <programme start="20190308100000 -0300" stop="20190308110000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">El campo de la industria verde</title>
+  </programme>
+  <programme start="20190308110000 -0300" stop="20190308113000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Siembra y cosecha</title>
+  </programme>
+  <programme start="20190308113000 -0300" stop="20190308120000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Costumbres Rurales New</title>
+  </programme>
+  <programme start="20190308120000 -0300" stop="20190308123000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Chacarero New</title>
+  </programme>
+  <programme start="20190308123000 -0300" stop="20190308133000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Mediodía New</title>
+  </programme>
+  <programme start="20190308133000 -0300" stop="20190308140000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Por el Campo New</title>
+  </programme>
+  <programme start="20190308140000 -0300" stop="20190308143000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Video Campo</title>
+  </programme>
+  <programme start="20190308143000 -0300" stop="20190308150000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra Rural</title>
+  </programme>
+  <programme start="20190308150000 -0300" stop="20190308153000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Rafaela Rural New</title>
+  </programme>
+  <programme start="20190308153000 -0300" stop="20190308160000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Surco TV New</title>
+  </programme>
+  <programme start="20190308160000 -0300" stop="20190308163000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Emprendimientos New</title>
+  </programme>
+  <programme start="20190308163000 -0300" stop="20190308170000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Una Mirada al Campo</title>
+  </programme>
+  <programme start="20190308170000 -0300" stop="20190308173000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Palabra de productor</title>
+  </programme>
+  <programme start="20190308173000 -0300" stop="20190308180000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alternativa Rural</title>
+  </programme>
+  <programme start="20190308180000 -0300" stop="20190308183000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Alimentos y Regiones</title>
+  </programme>
+  <programme start="20190308183000 -0300" stop="20190308190000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Saber Rural New</title>
+  </programme>
+  <programme start="20190308190000 -0300" stop="20190308193000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Mercado Frutihortícola</title>
+  </programme>
+  <programme start="20190308193000 -0300" stop="20190308200000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Salta Agropecuaria New</title>
+  </programme>
+  <programme start="20190308200000 -0300" stop="20190308203000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Vademecum</title>
+  </programme>
+  <programme start="20190308203000 -0300" stop="20190308210000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Sólo campo</title>
+  </programme>
+  <programme start="20190308210000 -0300" stop="20190308220000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Noticiero Edición Central New</title>
+  </programme>
+  <programme start="20190308220000 -0300" stop="20190308223000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Terra Chaco New</title>
+  </programme>
+  <programme start="20190308223000 -0300" stop="20190308230000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Aromas del Terruño</title>
+  </programme>
+  <programme start="20190308230000 -0300" stop="20190308233000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">El estado que viene New</title>
+  </programme>
+  <programme start="20190308233000 -0300" stop="20190309000000 -0300" channel="Canal Rural Satelital">
+    <title lang="es">Campo, comercio y turismo New</title>
   </programme>
 </tv>
