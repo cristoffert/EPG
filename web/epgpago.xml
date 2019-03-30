@@ -48,6 +48,38 @@
     <display-name lang="es">ZONA LATINA</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
+  <channel id="Ultra Clásico HDTV ">
+    <display-name lang="es">Ultra Clasico</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Cine HDTV">
+    <display-name lang="es">Ultra Cine</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Mex HDTV">
+    <display-name lang="es">Ultra Mex</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Macho HDTV ">
+    <display-name lang="es">Ultra Macho</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Kidz HDTV ">
+    <display-name lang="es">Ultra Kidz</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Familia HDTV">
+    <display-name lang="es">Ultra Familia</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Fiesta HDTV ">
+    <display-name lang="es">Ultra Fiesta</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Ultra Docu HDTV">
+    <display-name lang="es">Ultra Docu</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
   <programme start="20190329063000 -0300" stop="20190329073000 -0300" channel="Canal del Fútbol (Básico)">
     <title lang="es">CDF Noticias Edición Central</title>
   </programme>
@@ -3446,5 +3478,1799 @@
   </programme>
   <programme start="20190401233000 -0300" stop="20190402000000 -0300" channel="Zona Latina">
     <title lang="es">No Eres Tú</title>
+  </programme>
+  <programme start="20190330051500 -0300" stop="20190330070000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Mujeres Sacrificadas (1952)</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330083000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">De Ranchero a Empresario (1953)</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330100000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Mujeres Encantadoras (1958)</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330114500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Pervertida (1946)</title>
+  </programme>
+  <programme start="20190330114500 -0300" stop="20190330133000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Mujeres de Teatro (1951)</title>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330151500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Los Amantes (1951)</title>
+  </programme>
+  <programme start="20190330151500 -0300" stop="20190330164500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Puerto de Tentación (1951)</title>
+  </programme>
+  <programme start="20190330164500 -0300" stop="20190330183000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Maternidad Imposible (1955)</title>
+  </programme>
+  <programme start="20190330183000 -0300" stop="20190330200000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">La Noche Es Nuestra (1952)</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330213000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">De Ranchero a Empresario (1953)</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330230000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Mujeres Encantadoras (1958)</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331004500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Pervertida (1946)</title>
+  </programme>
+  <programme start="20190331004500 -0300" stop="20190331023000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Mujeres de Teatro (1951)</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331023000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Los Amantes (1951)</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331041500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Los Amantes (1951)</title>
+  </programme>
+  <programme start="20190331041500 -0300" stop="20190331054500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Puerto de Tentación (1951)</title>
+  </programme>
+  <programme start="20190331054500 -0300" stop="20190331070000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Música y Dinero (1958)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331083000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Por querer a una mujer (1951)</title>
+  </programme>
+  <programme start="20190331083000 -0300" stop="20190331101500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Las luchadoras contra la momia (1964)</title>
+  </programme>
+  <programme start="20190331101500 -0300" stop="20190331121500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Qué Bonito Amor (1960)</title>
+  </programme>
+  <programme start="20190331121500 -0300" stop="20190331140000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">El Pecado de ser Mujer (1955)</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331160000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Como Agua pa' Longaniza (1996)</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331174500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">El Chismoso de la Ventana (1956)</title>
+  </programme>
+  <programme start="20190331174500 -0300" stop="20190331193000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">De Cocula es el Mariachi (1968)</title>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331211500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Guitarras de Medianoche (1958)</title>
+  </programme>
+  <programme start="20190331211500 -0300" stop="20190331230000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Tigre (1979)</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401004500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Los Matones del Norte (1985)</title>
+  </programme>
+  <programme start="20190401004500 -0300" stop="20190401024500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">La Venus de Fuego (1949)</title>
+  </programme>
+  <programme start="20190401024500 -0300" stop="20190401024500 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">La Ausente</title>
+  </programme>
+  <programme start="20190401024500 -0300" stop="20190401050000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">La Ausente</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401070000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Cría cuervos (1976)</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Ultra Clásico</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Clásico HDTV ">
+    <title lang="es">Ultra Clásico</title>
+  </programme>
+  <programme start="20190330051500 -0300" stop="20190330070000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Orillas (2010)</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330085000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Noviembre (2003)</title>
+  </programme>
+  <programme start="20190330085000 -0300" stop="20190330103000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Seis y medio</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330120500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Chance (2009)</title>
+  </programme>
+  <programme start="20190330120500 -0300" stop="20190330133500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Coach (1978)</title>
+  </programme>
+  <programme start="20190330133500 -0300" stop="20190330150000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Más Oscuro que la Noche</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330165000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">I love you baby (2001)</title>
+  </programme>
+  <programme start="20190330165000 -0300" stop="20190330183500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Quiero morir en tus brazos (2013)</title>
+  </programme>
+  <programme start="20190330183500 -0300" stop="20190330201000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">La Yuma (2009)</title>
+  </programme>
+  <programme start="20190330201000 -0300" stop="20190330213000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Domo</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330230000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Estoy vivo (1974)</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331003500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">El Candidato (1972)</title>
+  </programme>
+  <programme start="20190331003500 -0300" stop="20190331023000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Patagonia de Los Sueños</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331023000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">El último fin de semana (2011)</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331040000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">El último fin de semana (2011)</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331043000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Nino dolce hotel</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331050000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Nino dolce hotel</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331053000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Nino dolce hotel</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331070000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">La Perla (2001)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331085000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">I love you baby (2001)</title>
+  </programme>
+  <programme start="20190331085000 -0300" stop="20190331103500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Quiero morir en tus brazos (2013)</title>
+  </programme>
+  <programme start="20190331103500 -0300" stop="20190331121000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">La Yuma (2009)</title>
+  </programme>
+  <programme start="20190331121000 -0300" stop="20190331132500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Domo</title>
+  </programme>
+  <programme start="20190331132500 -0300" stop="20190331150000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Pagafantas (2009)</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331164500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Orillas (2010)</title>
+  </programme>
+  <programme start="20190331164500 -0300" stop="20190331184500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Contigo pan y cebolla (2014)</title>
+  </programme>
+  <programme start="20190331184500 -0300" stop="20190331210000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">La mujer del anarquista (2008)</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331230000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Sobreviviendo Guazapa (2008)</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401003500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Agua y sal (2012)</title>
+  </programme>
+  <programme start="20190401003500 -0300" stop="20190401015000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Fe (2011)</title>
+  </programme>
+  <programme start="20190401015000 -0300" stop="20190401015000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Póker</title>
+  </programme>
+  <programme start="20190401015000 -0300" stop="20190401031000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Póker</title>
+  </programme>
+  <programme start="20190401031000 -0300" stop="20190401050500 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">El tiempo de la felicidad (1997)</title>
+  </programme>
+  <programme start="20190401050500 -0300" stop="20190401070000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Polvareda (2013)</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Ultra Cine</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Cine HDTV">
+    <title lang="es">Ultra Cine</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330083000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Los ninis</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330100500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Muñecas ciegas (2013)</title>
+  </programme>
+  <programme start="20190330100500 -0300" stop="20190330114000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Pícaras enfermeras (2014)</title>
+  </programme>
+  <programme start="20190330114000 -0300" stop="20190330132500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Condena Para un Ilegal (2000)</title>
+  </programme>
+  <programme start="20190330132500 -0300" stop="20190330150000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Operativo diablo (2014)</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330173000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">El Diablo de Culiacán (2012)</title>
+  </programme>
+  <programme start="20190330173000 -0300" stop="20190330191500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">En busca de un sueño (2014)</title>
+  </programme>
+  <programme start="20190330191500 -0300" stop="20190330210500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">El corrido de la Barbie (2013)</title>
+  </programme>
+  <programme start="20190330210500 -0300" stop="20190330230000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Nacidos para matar (2011)</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331011500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Puños de Acero (1996)</title>
+  </programme>
+  <programme start="20190331011500 -0300" stop="20190331030000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">La Sicaria (2019)</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331050000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Mutilación, tráfico sangriento (2013)</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331070000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Caceria de asesinos (2014)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331091500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Reto sangriento (2016)</title>
+  </programme>
+  <programme start="20190331091500 -0300" stop="20190331110000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Los hermanos Fierro (2012)</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331130000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Frontera Roja 2 (2010)</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331150000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Papá Nos Quita las Novias (2009)</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331170000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Le Firmé un Contrato al Diablo (2010)</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331190000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Sicario del infierno (2013)</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331210000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">A Fuerza ni los Zapatos (2009)</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331230000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Yo Soy La Patrona</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401003500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Operativo diablo (2014)</title>
+  </programme>
+  <programme start="20190401003500 -0300" stop="20190401020500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Los ninis</title>
+  </programme>
+  <programme start="20190401020500 -0300" stop="20190401020500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Muñecas ciegas (2013)</title>
+  </programme>
+  <programme start="20190401020500 -0300" stop="20190401034000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Muñecas ciegas (2013)</title>
+  </programme>
+  <programme start="20190401034000 -0300" stop="20190401051500 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Pícaras enfermeras (2014)</title>
+  </programme>
+  <programme start="20190401051500 -0300" stop="20190401070000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Condena Para un Ilegal (2000)</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Ultra Mex</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Mex HDTV">
+    <title lang="es">Ultra Mex</title>
+  </programme>
+  <programme start="20190330043000 -0300" stop="20190330063000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Chaman Viento de Muerte (2000)</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las chicas recargadoras</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Mi vida al extremo</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Mi vida al extremo</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330094000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Crímenes Literarios</title>
+  </programme>
+  <programme start="20190330094000 -0300" stop="20190330111000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Grotesco (1988)</title>
+  </programme>
+  <programme start="20190330111000 -0300" stop="20190330130000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La banda de Picasso (2013)</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330144500 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Los secretos de la mansión Rocheville</title>
+  </programme>
+  <programme start="20190330144500 -0300" stop="20190330170000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Al final todos mueren (2013)</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330190000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330200000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330224500 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La suegra de todos (2014)</title>
+  </programme>
+  <programme start="20190330224500 -0300" stop="20190331003000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Ovnis en Zacapa (2014)</title>
+  </programme>
+  <programme start="20190331003000 -0300" stop="20190331023000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ley, el orden y el desorden (2013)</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331023000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Scarface renacido (2011)</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331050000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Scarface renacido (2011)</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331070000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Killing down (2006)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331080000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La fiesta de los comediantes</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331094000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Crímenes Literarios</title>
+  </programme>
+  <programme start="20190331094000 -0300" stop="20190331111000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Caras lindas (2018)</title>
+  </programme>
+  <programme start="20190331111000 -0300" stop="20190331125000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La escuelita del pecado (2015)</title>
+  </programme>
+  <programme start="20190331125000 -0300" stop="20190331145500 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La Tercera Ola (2003)</title>
+  </programme>
+  <programme start="20190331145500 -0300" stop="20190331170000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pompeya (2006)</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331190000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331200000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331210000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331221500 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20190331221500 -0300" stop="20190331233000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20190331233000 -0300" stop="20190401011000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Dos leyendas</title>
+  </programme>
+  <programme start="20190401011000 -0300" stop="20190401030000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Comando Elite (2014)</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401050000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Al límite del placer (2014)</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401070000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Chaman Viento de Muerte (2000)</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">México es MMA</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Water Crashers</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Apuesta Extrema</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La fiesta de los comediantes</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401123000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Caso. Crónica de sucesos</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401133000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20190401133000 -0300" stop="20190401140000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Historias Infinitas</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401153000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Los Archivos del Cardenal</title>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401163000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190401163000 -0300" stop="20190401173000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Water Crashers</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401183000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Apuesta Extrema</title>
+  </programme>
+  <programme start="20190401183000 -0300" stop="20190401193000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401210000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Caso. Crónica de sucesos</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401223000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Historias Infinitas</title>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401230000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Infiltrado</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402010000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402020000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Los Archivos del Cardenal</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402023000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">TransUrbania</title>
+  </programme>
+  <programme start="20190402023000 -0300" stop="20190402030000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las chicas recargadoras</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402033000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Encuentros cruzados</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402043000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Infiltrado</title>
+  </programme>
+  <programme start="20190402043000 -0300" stop="20190402063000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las chicas recargadoras</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402090000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">México es MMA</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Manada de lobos</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402110000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La fiesta de los comediantes</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402123000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Caso. Crónica de sucesos</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402133000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Historias Infinitas</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402153000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Los Archivos del Cardenal</title>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402163000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">La ruta blanca</title>
+  </programme>
+  <programme start="20190402163000 -0300" stop="20190402173000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402183000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Manada de lobos</title>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402193000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Pablo Escobar: El patrón del mal</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402210000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Caso. Crónica de sucesos</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402220000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402223000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Historias Infinitas</title>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402230000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="Ultra Macho HDTV ">
+    <title lang="es">Infiltrado</title>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330043000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190330043000 -0300" stop="20190330050000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330053000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190330053000 -0300" stop="20190330060000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330063000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330120000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190330123000 -0300" stop="20190330130000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330133000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330140000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330143000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330150000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330153000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190330153000 -0300" stop="20190330160000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330163000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190330163000 -0300" stop="20190330170000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330173000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190330173000 -0300" stop="20190330180000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330183000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190330183000 -0300" stop="20190330190000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330193000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330203000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190330203000 -0300" stop="20190330210000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330213000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330223000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190330230000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190330233000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190330233000 -0300" stop="20190331000000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331003000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190331003000 -0300" stop="20190331010000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331013000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190331013000 -0300" stop="20190331020000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331030000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331033000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331040000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331043000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331050000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331053000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331060000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331063000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331070000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331073000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190331073000 -0300" stop="20190331080000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331083000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190331083000 -0300" stop="20190331090000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331093000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331100000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331103000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331110000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331113000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190331113000 -0300" stop="20190331120000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331123000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331130000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331133000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190331133000 -0300" stop="20190331140000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331143000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190331143000 -0300" stop="20190331150000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331153000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331160000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331163000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190331163000 -0300" stop="20190331170000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331173000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190331173000 -0300" stop="20190331180000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331183000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190331183000 -0300" stop="20190331190000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331193000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331200000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331203000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190331203000 -0300" stop="20190331210000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331213000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190331220000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331223000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190331230000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190331233000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190331233000 -0300" stop="20190401000000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401003000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401010000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401013000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190401013000 -0300" stop="20190401020000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401023000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190401023000 -0300" stop="20190401030000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401033000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190401033000 -0300" stop="20190401040000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401043000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190401043000 -0300" stop="20190401050000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401053000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190401053000 -0300" stop="20190401060000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401063000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190401063000 -0300" stop="20190401070000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401073000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190401073000 -0300" stop="20190401080000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401083000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190401083000 -0300" stop="20190401090000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401103000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401113000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190401113000 -0300" stop="20190401120000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401123000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401130000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401133000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190401133000 -0300" stop="20190401140000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401150000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401153000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401160000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401163000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190401163000 -0300" stop="20190401170000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401173000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401183000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190401183000 -0300" stop="20190401190000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401193000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401200000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401203000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190401203000 -0300" stop="20190401210000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401213000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190401213000 -0300" stop="20190401220000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401223000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401230000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190401233000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190401233000 -0300" stop="20190402000000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402003000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190402003000 -0300" stop="20190402010000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402013000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190402013000 -0300" stop="20190402020000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402023000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190402023000 -0300" stop="20190402030000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402033000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402040000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402043000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190402043000 -0300" stop="20190402050000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402053000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190402053000 -0300" stop="20190402060000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402063000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402073000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190402073000 -0300" stop="20190402080000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402083000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402093000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402110000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402113000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190402113000 -0300" stop="20190402120000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402123000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402130000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Corneil y Bernie</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402133000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Lucky Fred</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402150000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Hero 108</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402153000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402160000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Rat a Tat</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402163000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190402163000 -0300" stop="20190402170000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Slash</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402173000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402180000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Criaturas SOS</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402183000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402190000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Yu-Gi-Oh Zexal</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402193000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402200000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Pet Pals5</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402203000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402210000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Agi Bagi</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402213000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190402213000 -0300" stop="20190402220000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Sandra:The Fairytale Detective</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402223000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402230000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Los Hermanos Boonie</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190402233000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190402233000 -0300" stop="20190403000000 -0300" channel="Ultra Kidz HDTV ">
+    <title lang="es">Cosmic quantum ray</title>
+  </programme>
+  <programme start="20190330054500 -0300" stop="20190330061500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los súper Pérez</title>
+  </programme>
+  <programme start="20190330061500 -0300" stop="20190330070000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los súper Pérez</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Tiny Square Critters</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Gloops</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pispas</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Flip Flap</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Kemy</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Mouk</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Misho y Robin</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los preescolares</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pop magic street</title>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330120000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Prank My Pet</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El mundo animal de Max Rodríguez</title>
+  </programme>
+  <programme start="20190330123000 -0300" stop="20190330130000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los súper Pérez</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330143000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Sister's Kids Home Alone (2012)</title>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330160000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Orps, The movie (2009)</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330180000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Babine (2008)</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330194500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Mi Tío, el Zorrino y Yo (1986)</title>
+  </programme>
+  <programme start="20190330194500 -0300" stop="20190330211500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El dragón de hielo (2012)</title>
+  </programme>
+  <programme start="20190330211500 -0300" stop="20190330224500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Zarafa (2012)</title>
+  </programme>
+  <programme start="20190330224500 -0300" stop="20190331001500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Monster Buster (2009)</title>
+  </programme>
+  <programme start="20190331001500 -0300" stop="20190331020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Journey to the Center of the Earth</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Sister's Kids Home Alone (2012)</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331033000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Sister's Kids Home Alone (2012)</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331051500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Orps, The movie (2009)</title>
+  </programme>
+  <programme start="20190331051500 -0300" stop="20190331070000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Babine (2008)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331084500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190331084500 -0300" stop="20190331103000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Finn (2013)</title>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331120000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Adventures by V. Swchwrm (2012)</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331134500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Superbrother (2009)</title>
+  </programme>
+  <programme start="20190331134500 -0300" stop="20190331153000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Retiro Matrimonial (2011)</title>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331170000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El dragón de hielo (2012)</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331190000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Homebound (2013)</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331204500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">When Do We Eat? (2006)</title>
+  </programme>
+  <programme start="20190331204500 -0300" stop="20190331223000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Meant to Be (2017)</title>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190401001500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Journey to the Center of the Earth</title>
+  </programme>
+  <programme start="20190401001500 -0300" stop="20190401020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">The Chosen One</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401034500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190401034500 -0300" stop="20190401053000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Finn (2013)</title>
+  </programme>
+  <programme start="20190401053000 -0300" stop="20190401070000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Adventures by V. Swchwrm (2012)</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401073000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Tiny Square Critters</title>
+  </programme>
+  <programme start="20190401073000 -0300" stop="20190401080000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Gloops</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401083000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pispas</title>
+  </programme>
+  <programme start="20190401083000 -0300" stop="20190401090000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Flip Flap</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Kemy</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Mouk</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401103000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Misho y Robin</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los preescolares</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401123000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Orps, The movie (2009)</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401141500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Superbrother (2009)</title>
+  </programme>
+  <programme start="20190401141500 -0300" stop="20190401160000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401163000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pop magic street</title>
+  </programme>
+  <programme start="20190401163000 -0300" stop="20190401170000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Prank My Pet</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401173000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El mundo animal de Max Rodríguez</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los súper Pérez</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401193000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Adventures by V. Swchwrm (2012)</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401211500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Finn (2013)</title>
+  </programme>
+  <programme start="20190401211500 -0300" stop="20190401224500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Retiro Matrimonial (2011)</title>
+  </programme>
+  <programme start="20190401224500 -0300" stop="20190402001500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Monster Buster (2009)</title>
+  </programme>
+  <programme start="20190402001500 -0300" stop="20190402020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Mi Tío, el Zorrino y Yo (1986)</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402020000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Orps, The movie (2009)</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402033000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Orps, The movie (2009)</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402051500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Superbrother (2009)</title>
+  </programme>
+  <programme start="20190402051500 -0300" stop="20190402070000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402073000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Tiny Square Critters</title>
+  </programme>
+  <programme start="20190402073000 -0300" stop="20190402080000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Gloops</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402083000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pispas</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Flip Flap</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402093000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Kemy</title>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Mouk</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Misho y Robin</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402110000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los preescolares</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402123000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">My Sister's Kids Home Alone (2012)</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402141500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Finn (2013)</title>
+  </programme>
+  <programme start="20190402141500 -0300" stop="20190402160000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">When Do We Eat? (2006)</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402163000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Pop magic street</title>
+  </programme>
+  <programme start="20190402163000 -0300" stop="20190402170000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Prank My Pet</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402173000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El mundo animal de Max Rodríguez</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402180000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Los súper Pérez</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402193000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Monster Buster (2009)</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402211500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">Escápate a casa (2004)</title>
+  </programme>
+  <programme start="20190402211500 -0300" stop="20190402224500 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">El dragón de hielo (2012)</title>
+  </programme>
+  <programme start="20190402224500 -0300" stop="20190403003000 -0300" channel="Ultra Familia HDTV">
+    <title lang="es">The Chosen One</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330060000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330070000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330080000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330090000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330100000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330110000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330120000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330130000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330150000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330160000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330170000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330190000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330200000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330220000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330230000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331010000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331030000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331040000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331050000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331060000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331070000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331080000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331090000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331100000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331110000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331120000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331130000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331140000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331150000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331160000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331170000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331190000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331200000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331210000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331220000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331230000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401000000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401010000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401050000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401060000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401100000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401120000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401130000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401140000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401150000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401180000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401200000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401210000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401230000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402010000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402020000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402030000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402040000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402060000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402070000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402090000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402110000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402120000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402130000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402140000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402150000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402170000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402180000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402190000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402200000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402210000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402220000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402230000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="Ultra Fiesta HDTV ">
+    <title lang="es">Ultra Fiesta Hitz</title>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330043000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Música Habana</title>
+  </programme>
+  <programme start="20190330043000 -0300" stop="20190330050000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Saber más</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330053000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190330053000 -0300" stop="20190330060000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aventura paraíso</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330063000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Global ideas</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aventura paraíso</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aventura paraíso</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aventura paraíso</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aventura paraíso</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Encerrados - La frontera Interalemana</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330130000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Justin Bieber el proximo capitulo (2013)</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El Papa del fin de mundo (2013)</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330143000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330150000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330153000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190330153000 -0300" stop="20190330160000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330173000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Lady Gaga el arte de la música (2018)</title>
+  </programme>
+  <programme start="20190330173000 -0300" stop="20190330183000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Arte: Los Cranach y la Modernidad en la Edad Media</title>
+  </programme>
+  <programme start="20190330183000 -0300" stop="20190330190000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Veronica mi vida artistica</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330203000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Los pibes</title>
+  </programme>
+  <programme start="20190330203000 -0300" stop="20190330213000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">La Marcha de Zacatecas (1968)</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330223000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190330230000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Show de Jaime Maussan</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190330233000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Música Habana</title>
+  </programme>
+  <programme start="20190330233000 -0300" stop="20190331010000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Justin Bieber el proximo capitulo (2013)</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El Papa del fin de mundo (2013)</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">The Boat Show</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331030000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">The Boat Show</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331033000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">The Boat Show</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331040000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Maestros marciales</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331053000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Lady Gaga el arte de la música (2018)</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331070000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Gabor (2013)</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331080000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El Mariachi</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331093000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Rosario (1971)</title>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331104500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Linea de Aborto</title>
+  </programme>
+  <programme start="20190331104500 -0300" stop="20190331114500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Aprendan Polaco</title>
+  </programme>
+  <programme start="20190331114500 -0300" stop="20190331123000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Los chicos invisibles</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331133000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El Zar de las Esmeraldas</title>
+  </programme>
+  <programme start="20190331133000 -0300" stop="20190331153000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Los Últimos Días del Che</title>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331171500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Pancho Villa (2008)</title>
+  </programme>
+  <programme start="20190331171500 -0300" stop="20190331190000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El Álamo (1960)</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331201500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">One Direction: El camino a la cima</title>
+  </programme>
+  <programme start="20190331201500 -0300" stop="20190331213000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Justin Timberlake el hombre del momento (2018)</title>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190331224500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Beyoncé: Detrás del glamour</title>
+  </programme>
+  <programme start="20190331224500 -0300" stop="20190331234500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El aroma de la patria</title>
+  </programme>
+  <programme start="20190331234500 -0300" stop="20190401003000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">#Mi huida (2016)</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401020000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Tras Nazarín (2015)</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401020000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Madagascar, el Reino del Camaleón</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401031500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Madagascar, el Reino del Camaleón</title>
+  </programme>
+  <programme start="20190401031500 -0300" stop="20190401043000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">El ataque de los troles (2017)</title>
+  </programme>
+  <programme start="20190401043000 -0300" stop="20190401051500 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Bayerischer</title>
+  </programme>
+  <programme start="20190401051500 -0300" stop="20190401070000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Hasta el fin de los días</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Ultra Docu</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Docu HDTV">
+    <title lang="es">Ultra Docu</title>
   </programme>
 </tv>
