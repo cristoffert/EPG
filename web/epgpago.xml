@@ -80,6 +80,38 @@
     <display-name lang="es">Ultra Docu</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
+  <channel id="E! Entertainment Television (Mexico)">
+    <display-name lang="es">E!</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Elgourmet.com (Norte)">
+    <display-name lang="es">El Gourmet</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="¡Hola! TV HDTV">
+    <display-name lang="es">Hola TV HD</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Más Chic TV International HDTV">
+    <display-name lang="es">Mas Chic HD</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Canal U (Mexico) HDTV">
+    <display-name lang="es">Unicable HD</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Pasiones HDTV (USA)">
+    <display-name lang="es">PASIONES</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="Tele Novelas (Latin America)">
+    <display-name lang="es">TLNOVELAS</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
+  <channel id="RCN Novelas">
+    <display-name lang="es">RCN NOVELAS</display-name>
+    <url>http://www.mexico.yo.tv</url>
+  </channel>
   <programme start="20190329063000 -0300" stop="20190329073000 -0300" channel="Canal del Fútbol (Básico)">
     <title lang="es">CDF Noticias Edición Central</title>
   </programme>
@@ -5272,5 +5304,2399 @@
   </programme>
   <programme start="20190401070000 -0300" stop="20190401070000 -0300" channel="Ultra Docu HDTV">
     <title lang="es">Ultra Docu</title>
+  </programme>
+  <programme start="20190330034000 -0300" stop="20190330040000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330060000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330070000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mysteries and Scandals</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330080000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330090000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330110000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330120000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">How do i look?</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330130000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Below Deck - Bajo cubierta</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Below Deck - Bajo cubierta</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330150000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330160000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330170000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330190000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330193000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Nightly pop</title>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Nightly pop</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cuídate de la cámara</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330220000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cuídate de la cámara</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330230000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Get a room with Carson &amp; Thom</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Get a room with Carson &amp; Thom</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331010000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">¿Hay que ver para querer?</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">¿Hay que ver para querer?</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331030000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mysteries and Scandals</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331040000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mysteries and Scandals</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331060000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331070000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331080000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331090000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Summer house</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331110000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331120000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">How do i look?</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331130000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Below Deck - Bajo cubierta</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331140000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Below Deck - Bajo cubierta</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331142000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Nightly pop</title>
+  </programme>
+  <programme start="20190331142000 -0300" stop="20190331150000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Nightly pop</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331160000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cuídate de la cámara</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331170000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cuídate de la cámara</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Total bellas</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331190000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Total bellas</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331200000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331210000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331220000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331230000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401000000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401010000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Mi mitad + hot</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Get a room with Carson &amp; Thom</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Total bellas</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401060000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401100000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401120000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Wags</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401123000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Buzz</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401130000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Films &amp; Stars</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401140000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401150000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea New</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">The Royals</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401180000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">The Royals</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401200000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401210000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Medium with Tyler Henry</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401230000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402010000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look New</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402013000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402013000 -0300" stop="20190402020000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402030000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402033000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402043000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">E! News Live</title>
+  </programme>
+  <programme start="20190402043000 -0300" stop="20190402050000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402060000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402070000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402083000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402110000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402120000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Wags</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402123000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Hollywood Buzz</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402130000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Films &amp; Stars</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402140000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Made In Chelsea</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402150000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402170000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402180000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402190000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Keeping Up with the Kardashians</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402193000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Live From E!</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402200000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402203000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402210000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">La Sopa México</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402220000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Botched by Nature</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402230000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Cámbiame el look</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="E! Entertainment Television (Mexico)">
+    <title lang="es">Será anunciado</title>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330043000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190330043000 -0300" stop="20190330050000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330053000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190330053000 -0300" stop="20190330060000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330063000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas caseras desde México</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Repostería con Virginia Sar</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Favoritos de los Petersen</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La pastelería de Paulina</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330120000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330123000 -0300" stop="20190330130000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330133000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Favoritos de los Petersen</title>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330140000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330143000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330150000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330153000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190330153000 -0300" stop="20190330160000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330163000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Mas Sano, Mas Rico</title>
+  </programme>
+  <programme start="20190330163000 -0300" stop="20190330170000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas caseras desde México</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330173000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Favoritos de los Petersen</title>
+  </programme>
+  <programme start="20190330173000 -0300" stop="20190330180000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330183000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La pastelería de Paulina</title>
+  </programme>
+  <programme start="20190330183000 -0300" stop="20190330190000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Petersen Recetas Caseras</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330193000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330203000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190330203000 -0300" stop="20190330210000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Repostería con Anna Olson</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330213000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330223000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Me voy a comer el mundo</title>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190330230000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Mas Sano, Mas Rico</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190330233000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Petersen Recetas Caseras</title>
+  </programme>
+  <programme start="20190330233000 -0300" stop="20190331000000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331003000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190331003000 -0300" stop="20190331010000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331013000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190331013000 -0300" stop="20190331020000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331030000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331033000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331040000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Enchilarte</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331043000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331050000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331053000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331060000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331063000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas caseras desde México</title>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331070000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Repostería con Anna Olson</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331073000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190331073000 -0300" stop="20190331080000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores de nuestra tierra. Ecuador</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331083000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190331083000 -0300" stop="20190331090000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331093000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La pastelería de Paulina</title>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331100000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331103000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331110000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331113000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331113000 -0300" stop="20190331120000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331123000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331130000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331133000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores de nuestra tierra. Ecuador</title>
+  </programme>
+  <programme start="20190331133000 -0300" stop="20190331140000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331143000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190331143000 -0300" stop="20190331150000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331153000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331160000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331163000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Mas Sano, Mas Rico</title>
+  </programme>
+  <programme start="20190331163000 -0300" stop="20190331170000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas caseras desde México</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331173000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores de nuestra tierra. Ecuador</title>
+  </programme>
+  <programme start="20190331173000 -0300" stop="20190331180000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331183000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La pastelería de Paulina</title>
+  </programme>
+  <programme start="20190331183000 -0300" stop="20190331190000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Petersen Recetas Caseras</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331193000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331200000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331203000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Nuestros cocineros por el mundo</title>
+  </programme>
+  <programme start="20190331203000 -0300" stop="20190331210000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Repostería con Anna Olson</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331213000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190331223000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Me voy a comer el mundo</title>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190331230000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Mas Sano, Mas Rico</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190331233000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Los Petersen Recetas Caseras</title>
+  </programme>
+  <programme start="20190331233000 -0300" stop="20190401000000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401003000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401010000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Ruta Tex Mex</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401013000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190401013000 -0300" stop="20190401020000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401023000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190401023000 -0300" stop="20190401030000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">El pan nuestro de cada día</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401033000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190401033000 -0300" stop="20190401040000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del asado</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401043000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Al fuego</title>
+  </programme>
+  <programme start="20190401043000 -0300" stop="20190401050000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Viajes con sabor</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401053000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190401053000 -0300" stop="20190401060000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Dulces detalles Paulina Abascal</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401063000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190401063000 -0300" stop="20190401070000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401073000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190401073000 -0300" stop="20190401080000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401083000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190401083000 -0300" stop="20190401090000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Horneados por Gross</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Viajes con sabor</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401103000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401113000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401113000 -0300" stop="20190401120000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401123000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401130000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401133000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190401133000 -0300" stop="20190401140000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401150000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Tierra de sabores. Colombia y Venezuela.</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401153000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401160000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401163000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190401163000 -0300" stop="20190401170000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del asado</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401173000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Dulces detalles Paulina Abascal</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401183000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190401183000 -0300" stop="20190401200000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Horneados por Gross</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401203000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190401203000 -0300" stop="20190401210000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401213000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Al fuego</title>
+  </programme>
+  <programme start="20190401213000 -0300" stop="20190401220000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401223000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Viajes con sabor</title>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401230000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190401233000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190401233000 -0300" stop="20190402000000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402013000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del asado</title>
+  </programme>
+  <programme start="20190402013000 -0300" stop="20190402020000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Al fuego</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402023000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190402023000 -0300" stop="20190402030000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402033000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402040000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del asado</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402043000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Al fuego</title>
+  </programme>
+  <programme start="20190402043000 -0300" stop="20190402050000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Guanajuato. Tradición y vanguardia</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402053000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190402053000 -0300" stop="20190402060000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Dulces detalles Paulina Abascal</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402063000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402073000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190402073000 -0300" stop="20190402080000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402083000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402093000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Horneados por Gross</title>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Guanajuato. Tradición y vanguardia</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402110000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402113000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402113000 -0300" stop="20190402120000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402123000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402130000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402133000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sabores callejeros</title>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402150000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Tierra de sabores. Colombia y Venezuela.</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402153000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402160000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402163000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190402163000 -0300" stop="20190402170000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del asado</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402173000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Dulces detalles Paulina Abascal</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402180000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Cocina de hacienda</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402183000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Comer como Dios manda</title>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402200000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Horneados por Gross</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402203000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402210000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Sazón casero</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402213000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Al fuego</title>
+  </programme>
+  <programme start="20190402213000 -0300" stop="20190402220000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Recetas de Familia</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402223000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Guanajuato. Tradición y vanguardia</title>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402230000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Abuelita linda</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190402233000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Maestros del taco</title>
+  </programme>
+  <programme start="20190402233000 -0300" stop="20190403000000 -0300" channel="Elgourmet.com (Norte)">
+    <title lang="es">Menú para todos los días</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330063000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Casas, Diseño y Estilo</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El horno increíble Power AirFryer reemplaza 7 diferentes electrodomésticos. Pruébalo hoy sin riesgo y obten $200 en bonos GRATIS</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Convierte tu mesa de interior en una auténtica estación de parrillas! Prueba el increíble Power Smokeless Grill hoy!</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330130000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Lo mejor de Mundo ¡Hola!</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330133000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">#HolaTV</title>
+  </programme>
+  <programme start="20190330133000 -0300" stop="20190330140000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Magnifique</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330150000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">¡Hola! TV Fashion</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330160000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Casas de ensueño</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330170000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El Clóset de...</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330200000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Lo mejor de Mundo ¡Hola!</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330203000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Magnifique</title>
+  </programme>
+  <programme start="20190330203000 -0300" stop="20190330213000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">¡Hola! TV Fashion</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las cocinas de Palacio</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330230000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Intimo y personal</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331010000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las cocinas de Palacio</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331023000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331033000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331043000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331053000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331063000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Intimo y personal</title>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331070000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las cocinas de Palacio</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331090000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Lo mejor de Mundo ¡Hola!</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331093000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331100000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331103000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El horno increíble Power AirFryer reemplaza 7 diferentes electrodomésticos. Pruébalo hoy sin riesgo y obten $200 en bonos GRATIS</title>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331110000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331113000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190331113000 -0300" stop="20190331120000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331123000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331130000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331133000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190331133000 -0300" stop="20190331143000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El Clóset de...</title>
+  </programme>
+  <programme start="20190331143000 -0300" stop="20190331150000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Magnifique</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331160000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">¡Hola! TV Fashion</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331170000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Yo puedo hacer de ti una supermodelo</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331173000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20190331173000 -0300" stop="20190331180000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las cocinas de Palacio</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331190000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Especiales realeza</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331200000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Cómo vive la otra mitad</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331203000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190331203000 -0300" stop="20190331210000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">#HolaTV</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331213000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Grandes crónicas de ¡Hola!</title>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190331223000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El Clóset de...</title>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190331233000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190331233000 -0300" stop="20190401003000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401010000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Grandes crónicas de ¡Hola!</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">El Clóset de...</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401050000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401070000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Lo mejor de Mundo ¡Hola!</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401083000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190401083000 -0300" stop="20190401090000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401103000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401123000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401133000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190401133000 -0300" stop="20190401140000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401150000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401153000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">¡Hola! Cinema</title>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401160000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Especiales realeza</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401173000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Casas, Diseño y Estilo</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401183000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Belleza alrededor del mundo</title>
+  </programme>
+  <programme start="20190401183000 -0300" stop="20190401190000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401193000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401200000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401203000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190401203000 -0300" stop="20190401213000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190401213000 -0300" stop="20190401230000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Especiales Hola TV</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402003000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190402003000 -0300" stop="20190402020000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402030000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Especiales Hola TV</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402040000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Especiales Hola TV</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402063000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402083000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402093000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402110000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402123000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402133000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402150000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402153000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402160000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402170000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Íconos Hola TV</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402173000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402180000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Casas, Diseño y Estilo</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402183000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Belleza alrededor del mundo</title>
+  </programme>
+  <programme start="20190402183000 -0300" stop="20190402190000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402193000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Video Fashion</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402200000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Tendencias del siglo XXI</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402203000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Conexión ¡HOLA! TV</title>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402213000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20190402213000 -0300" stop="20190402230000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">La hora hola</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="¡Hola! TV HDTV">
+    <title lang="es">Un nuevo look para una nueva vida</title>
+  </programme>
+  <programme start="20190330040000 -0300" stop="20190330043000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Vísteme, Laura</title>
+  </programme>
+  <programme start="20190330043000 -0300" stop="20190330050000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiestas al aire libre</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330053000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Dr. Antiaging</title>
+  </programme>
+  <programme start="20190330053000 -0300" stop="20190330060000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decora con flores</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330063000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190330063000 -0300" stop="20190330070000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Renueva tu imagen</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330073000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mis hoteles favoritos</title>
+  </programme>
+  <programme start="20190330073000 -0300" stop="20190330080000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330083000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiesta en casa</title>
+  </programme>
+  <programme start="20190330083000 -0300" stop="20190330090000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330093000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330093000 -0300" stop="20190330100000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330103000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330103000 -0300" stop="20190330110000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330113000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330113000 -0300" stop="20190330120000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330123000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Reciclarte</title>
+  </programme>
+  <programme start="20190330123000 -0300" stop="20190330130000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decora con flores</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Charlie Luxton, casas frente al mar</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330143000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190330143000 -0300" stop="20190330150000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Ideas decorativas con Lilla Moreno</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330160000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330163000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190330163000 -0300" stop="20190330170000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330183000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Aprende a maquillarte</title>
+  </programme>
+  <programme start="20190330183000 -0300" stop="20190330190000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Customiza tu casa</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330193000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190330193000 -0300" stop="20190330200000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330203000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190330203000 -0300" stop="20190330210000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en...</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330213000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190330213000 -0300" stop="20190330220000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190330220000 -0300" stop="20190330223000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190330223000 -0300" stop="20190330230000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Cosmética natural</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331003000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190331003000 -0300" stop="20190331010000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en...</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331023000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190331023000 -0300" stop="20190331030000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Viste tu fiesta</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331040000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Charlie Luxton, casas frente al mar</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331043000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Vísteme, Laura</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331050000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331053000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiestas al aire libre</title>
+  </programme>
+  <programme start="20190331053000 -0300" stop="20190331060000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Dr. Antiaging</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331063000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190331063000 -0300" stop="20190331070000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Renueva tu imagen</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331073000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mis hoteles favoritos</title>
+  </programme>
+  <programme start="20190331073000 -0300" stop="20190331080000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331083000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiesta en casa</title>
+  </programme>
+  <programme start="20190331083000 -0300" stop="20190331090000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331093000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331093000 -0300" stop="20190331100000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331103000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331103000 -0300" stop="20190331110000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331113000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331113000 -0300" stop="20190331120000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331123000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Reciclarte</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331130000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decora con flores</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331140000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Charlie Luxton, casas frente al mar</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331143000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190331143000 -0300" stop="20190331150000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Ideas decorativas con Lilla Moreno</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331160000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331163000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190331163000 -0300" stop="20190331170000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331183000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Aprende a maquillarte</title>
+  </programme>
+  <programme start="20190331183000 -0300" stop="20190331190000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Customiza tu casa</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331193000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190331193000 -0300" stop="20190331200000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331203000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190331203000 -0300" stop="20190331210000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en...</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331213000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190331213000 -0300" stop="20190331220000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190331220000 -0300" stop="20190331223000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190331223000 -0300" stop="20190331230000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Cosmética natural</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401000000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401003000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401010000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en...</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401023000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190401023000 -0300" stop="20190401030000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Viste tu fiesta</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Charlie Luxton, casas frente al mar</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401043000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Vísteme, Laura</title>
+  </programme>
+  <programme start="20190401043000 -0300" stop="20190401050000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401053000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiestas al aire libre</title>
+  </programme>
+  <programme start="20190401053000 -0300" stop="20190401060000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Dr. Antiaging</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401063000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190401063000 -0300" stop="20190401070000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Renueva tu imagen</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401073000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mis hoteles favoritos</title>
+  </programme>
+  <programme start="20190401073000 -0300" stop="20190401080000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401083000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mi boda - 2017 España</title>
+  </programme>
+  <programme start="20190401083000 -0300" stop="20190401090000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401093000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401093000 -0300" stop="20190401100000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401103000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401110000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401113000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401113000 -0300" stop="20190401120000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401123000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401130000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401133000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Reciclarte</title>
+  </programme>
+  <programme start="20190401133000 -0300" stop="20190401140000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401143000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Aprende a maquillarte</title>
+  </programme>
+  <programme start="20190401143000 -0300" stop="20190401150000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401163000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fondo de armario</title>
+  </programme>
+  <programme start="20190401163000 -0300" stop="20190401170000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401173000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mi boda - 2017 España</title>
+  </programme>
+  <programme start="20190401173000 -0300" stop="20190401180000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401193000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Customiza tu casa</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401200000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en España</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401203000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190401203000 -0300" stop="20190401210000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mi boda - 2017 España</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401223000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401230000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190401233000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190401233000 -0300" stop="20190402000000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fondo de armario</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402010000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402013000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Customiza tu casa</title>
+  </programme>
+  <programme start="20190402013000 -0300" stop="20190402020000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Aprende a maquillarte</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402023000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mis hoteles favoritos</title>
+  </programme>
+  <programme start="20190402023000 -0300" stop="20190402030000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mi boda - 2017 España</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402033000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en España</title>
+  </programme>
+  <programme start="20190402033000 -0300" stop="20190402040000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Charlie Luxton, casas frente al mar</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402053000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Reciclarte</title>
+  </programme>
+  <programme start="20190402053000 -0300" stop="20190402060000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiestas al aire libre</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402063000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Mis hoteles favoritos</title>
+  </programme>
+  <programme start="20190402063000 -0300" stop="20190402070000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De sin a con</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402073000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fiesta en casa</title>
+  </programme>
+  <programme start="20190402073000 -0300" stop="20190402080000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Renueva tu imagen</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402083000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190402083000 -0300" stop="20190402090000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402093000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402093000 -0300" stop="20190402100000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402103000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402110000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402113000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402113000 -0300" stop="20190402120000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402123000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402130000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402133000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Reciclarte</title>
+  </programme>
+  <programme start="20190402133000 -0300" stop="20190402140000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402143000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Aprende a maquillarte</title>
+  </programme>
+  <programme start="20190402143000 -0300" stop="20190402150000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402163000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fondo de armario</title>
+  </programme>
+  <programme start="20190402163000 -0300" stop="20190402170000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402173000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190402173000 -0300" stop="20190402180000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decoración Creativa</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402190000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Casa nueva en 60</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402193000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Customiza tu casa</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402200000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">De compras en España</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402203000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Redecora con tus manos</title>
+  </programme>
+  <programme start="20190402203000 -0300" stop="20190402210000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fashion week: Madrid 2019</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402220000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Acacias</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402223000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Decorando con Candice</title>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402230000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Look de fiesta</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190402233000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Equipo deco</title>
+  </programme>
+  <programme start="20190402233000 -0300" stop="20190403000000 -0300" channel="Más Chic TV International HDTV">
+    <title lang="es">Fondo de armario</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330090000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330100000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">First Dates</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330110000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">15 Minutos con Jamie</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330120000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Untold Stories of the E.R.</title>
+  </programme>
+  <programme start="20190330120000 -0300" stop="20190330130000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">1000 maneras de morir</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330153000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Amor Mío</title>
+  </programme>
+  <programme start="20190330153000 -0300" stop="20190330163000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">D generaciones</title>
+  </programme>
+  <programme start="20190330163000 -0300" stop="20190330173000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Game time con yordi rosado</title>
+  </programme>
+  <programme start="20190330173000 -0300" stop="20190331010000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">El Chema New</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Netas Divinas</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331030000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Montse &amp; joe</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331033000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">The Dukes of Melrose</title>
+  </programme>
+  <programme start="20190331033000 -0300" stop="20190331040000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">The Dukes of Melrose</title>
+  </programme>
+  <programme start="20190331040000 -0300" stop="20190331043000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20190331043000 -0300" stop="20190331050000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331090000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331100000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Hotel Hell</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331110000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Batallas culinarias con Jamie y Jimmy</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331113000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">The Dukes of Melrose</title>
+  </programme>
+  <programme start="20190331113000 -0300" stop="20190331120000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">The Dukes of Melrose</title>
+  </programme>
+  <programme start="20190331120000 -0300" stop="20190331123000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20190331123000 -0300" stop="20190331130000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331153000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Amor Mío</title>
+  </programme>
+  <programme start="20190331153000 -0300" stop="20190331163000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Con Permiso</title>
+  </programme>
+  <programme start="20190331163000 -0300" stop="20190331173000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Tinderella</title>
+  </programme>
+  <programme start="20190331173000 -0300" stop="20190401010000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">La Reina del Sur New</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Terapia de shock</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Miembros al Aire</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Untold Stories of the E.R.</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401050000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">1000 maneras de morir</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401090000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401100000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Amor Mío</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Batallas culinarias con Jamie y Jimmy</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401123000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190401123000 -0300" stop="20190401140000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401153000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Llena de Amor</title>
+  </programme>
+  <programme start="20190401153000 -0300" stop="20190401170000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401180000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Mind sex</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401193000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401210000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Llena de Amor</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401223000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20190401223000 -0300" stop="20190401233000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Tinderella</title>
+  </programme>
+  <programme start="20190401233000 -0300" stop="20190402010000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402020000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Montse &amp; joe</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402023000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">U news</title>
+  </programme>
+  <programme start="20190402023000 -0300" stop="20190402030000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402040000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Batallas culinarias con Jamie y Jimmy</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402090000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Programación pagada</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Amor Mío</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402110000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Hotel Hell</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402123000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190402123000 -0300" stop="20190402140000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">El Chema</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402153000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Llena de Amor</title>
+  </programme>
+  <programme start="20190402153000 -0300" stop="20190402170000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402180000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Montse &amp; joe</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402193000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402210000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Llena de Amor</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402223000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Laura</title>
+  </programme>
+  <programme start="20190402223000 -0300" stop="20190402233000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">D generaciones</title>
+  </programme>
+  <programme start="20190402233000 -0300" stop="20190403010000 -0300" channel="Canal U (Mexico) HDTV">
+    <title lang="es">Enemigo Intimo</title>
+  </programme>
+  <programme start="20190330050000 -0300" stop="20190330060000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190330060000 -0300" stop="20190330070000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mis tres Marías</title>
+  </programme>
+  <programme start="20190330070000 -0300" stop="20190330080000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190330080000 -0300" stop="20190330090000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190330090000 -0300" stop="20190330100000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330110000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330110000 -0300" stop="20190330130000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190330130000 -0300" stop="20190330140000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330140000 -0300" stop="20190330150000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330160000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190330160000 -0300" stop="20190330170000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Divino Niño</title>
+  </programme>
+  <programme start="20190330170000 -0300" stop="20190330180000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330180000 -0300" stop="20190330190000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330190000 -0300" stop="20190330200000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190330210000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190330210000 -0300" stop="20190330230000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190330230000 -0300" stop="20190331000000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mujeres asesinas</title>
+  </programme>
+  <programme start="20190331000000 -0300" stop="20190331010000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331030000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331050000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190331050000 -0300" stop="20190331060000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mujeres asesinas</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331070000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190331070000 -0300" stop="20190331080000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190331080000 -0300" stop="20190331090000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331100000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331110000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331110000 -0300" stop="20190331130000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190331130000 -0300" stop="20190331140000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331140000 -0300" stop="20190331150000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Prueba de Fé</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331160000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Divino Niño</title>
+  </programme>
+  <programme start="20190331160000 -0300" stop="20190331170000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Divino Niño</title>
+  </programme>
+  <programme start="20190331170000 -0300" stop="20190331180000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331180000 -0300" stop="20190331190000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331190000 -0300" stop="20190331200000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190331210000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190331210000 -0300" stop="20190331230000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190331230000 -0300" stop="20190401000000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mujeres asesinas</title>
+  </programme>
+  <programme start="20190401000000 -0300" stop="20190401010000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401050000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">El Cartel</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401060000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mujeres asesinas</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Tumhari Pahki</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401110000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401120000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401130000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401150000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401180000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mis tres Marías</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Tumhari Pahki</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401200000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401220000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401230000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402020000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402030000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402040000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402060000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Infieles</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402070000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mis tres Marías</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402090000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Tumhari Pahki</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402110000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402120000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402130000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402150000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402170000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402180000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Mis tres Marías</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402190000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Tumhari Pahki</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402200000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402220000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">La señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402230000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="Pasiones HDTV (USA)">
+    <title lang="es">Entre dos amores</title>
+  </programme>
+  <programme start="20190330153500 -0300" stop="20190330160500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20190330160500 -0300" stop="20190330183500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190330183500 -0300" stop="20190330210500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190330210500 -0300" stop="20190330213500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20190330213500 -0300" stop="20190330223500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Ellas con las novelas</title>
+  </programme>
+  <programme start="20190330223500 -0300" stop="20190330233000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20190330233000 -0300" stop="20190331003000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20190331003000 -0300" stop="20190331030000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190331030000 -0300" stop="20190331090000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Yo Amo a Juan Querendón</title>
+  </programme>
+  <programme start="20190331090000 -0300" stop="20190331153500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190331153500 -0300" stop="20190331160500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20190331160500 -0300" stop="20190331183500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190331183500 -0300" stop="20190331210500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190331210500 -0300" stop="20190331220500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Ellas con las novelas</title>
+  </programme>
+  <programme start="20190331220500 -0300" stop="20190331223500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20190331223500 -0300" stop="20190331233500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20190331233500 -0300" stop="20190401003000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20190401003000 -0300" stop="20190401030000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401043500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190401043500 -0300" stop="20190401062000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190401062000 -0300" stop="20190401080500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190401080500 -0300" stop="20190401090000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401103000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190401103000 -0300" stop="20190401120500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190401120500 -0300" stop="20190401134500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190401134500 -0300" stop="20190401152500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190401152500 -0300" stop="20190401170500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Yo Amo a Juan Querendón</title>
+  </programme>
+  <programme start="20190401170500 -0300" stop="20190401180000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401193000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190401193000 -0300" stop="20190401210500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190401210500 -0300" stop="20190401224500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190401224500 -0300" stop="20190402002500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190402002500 -0300" stop="20190402020500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Yo Amo a Juan Querendón</title>
+  </programme>
+  <programme start="20190402020500 -0300" stop="20190402030000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402043500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190402043500 -0300" stop="20190402062000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190402062000 -0300" stop="20190402080500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190402080500 -0300" stop="20190402090000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402103000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190402103000 -0300" stop="20190402120500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190402120500 -0300" stop="20190402134500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190402134500 -0300" stop="20190402152500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190402152500 -0300" stop="20190402170500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Yo Amo a Juan Querendón</title>
+  </programme>
+  <programme start="20190402170500 -0300" stop="20190402180000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Central de Abastos</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402193000 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20190402193000 -0300" stop="20190402210500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Lazos de Amor</title>
+  </programme>
+  <programme start="20190402210500 -0300" stop="20190402224500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Para Volver a Amar</title>
+  </programme>
+  <programme start="20190402224500 -0300" stop="20190403002500 -0300" channel="Tele Novelas (Latin America)">
+    <title lang="es">Destilando Amor</title>
+  </programme>
+  <programme start="20190330100000 -0300" stop="20190330150000 -0300" channel="RCN Novelas">
+    <title lang="es">Tan Cerca y Tan Lejos</title>
+  </programme>
+  <programme start="20190330150000 -0300" stop="20190330200000 -0300" channel="RCN Novelas">
+    <title lang="es">La Costeña y el Cachaco</title>
+  </programme>
+  <programme start="20190330200000 -0300" stop="20190331010000 -0300" channel="RCN Novelas">
+    <title lang="es">Brujeres</title>
+  </programme>
+  <programme start="20190331010000 -0300" stop="20190331020000 -0300" channel="RCN Novelas">
+    <title lang="es">Viuda de la Mafia</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331020000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190331020000 -0300" stop="20190331060000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190331060000 -0300" stop="20190331100000 -0300" channel="RCN Novelas">
+    <title lang="es">La Costeña y el Cachaco New</title>
+  </programme>
+  <programme start="20190331100000 -0300" stop="20190331150000 -0300" channel="RCN Novelas">
+    <title lang="es">Brujeres</title>
+  </programme>
+  <programme start="20190331150000 -0300" stop="20190331200000 -0300" channel="RCN Novelas">
+    <title lang="es">Viuda de la Mafia</title>
+  </programme>
+  <programme start="20190331200000 -0300" stop="20190401010000 -0300" channel="RCN Novelas">
+    <title lang="es">Tan Cerca y Tan Lejos New</title>
+  </programme>
+  <programme start="20190401010000 -0300" stop="20190401020000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190401020000 -0300" stop="20190401030000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190401030000 -0300" stop="20190401040000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados New</title>
+  </programme>
+  <programme start="20190401040000 -0300" stop="20190401050000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé New</title>
+  </programme>
+  <programme start="20190401050000 -0300" stop="20190401060000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190401060000 -0300" stop="20190401070000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo New</title>
+  </programme>
+  <programme start="20190401070000 -0300" stop="20190401080000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190401080000 -0300" stop="20190401090000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190401090000 -0300" stop="20190401100000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados New</title>
+  </programme>
+  <programme start="20190401100000 -0300" stop="20190401110000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé New</title>
+  </programme>
+  <programme start="20190401110000 -0300" stop="20190401120000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190401120000 -0300" stop="20190401130000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo New</title>
+  </programme>
+  <programme start="20190401130000 -0300" stop="20190401140000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190401140000 -0300" stop="20190401150000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190401150000 -0300" stop="20190401160000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados New</title>
+  </programme>
+  <programme start="20190401160000 -0300" stop="20190401170000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé New</title>
+  </programme>
+  <programme start="20190401170000 -0300" stop="20190401180000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190401180000 -0300" stop="20190401190000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo New</title>
+  </programme>
+  <programme start="20190401190000 -0300" stop="20190401200000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190401200000 -0300" stop="20190401210000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190401210000 -0300" stop="20190401220000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados New</title>
+  </programme>
+  <programme start="20190401220000 -0300" stop="20190401230000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé New</title>
+  </programme>
+  <programme start="20190401230000 -0300" stop="20190402000000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190402000000 -0300" stop="20190402010000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo New</title>
+  </programme>
+  <programme start="20190402010000 -0300" stop="20190402020000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190402020000 -0300" stop="20190402030000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190402030000 -0300" stop="20190402040000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados</title>
+  </programme>
+  <programme start="20190402040000 -0300" stop="20190402050000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé</title>
+  </programme>
+  <programme start="20190402050000 -0300" stop="20190402060000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190402060000 -0300" stop="20190402070000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo</title>
+  </programme>
+  <programme start="20190402070000 -0300" stop="20190402080000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190402080000 -0300" stop="20190402090000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190402090000 -0300" stop="20190402100000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados</title>
+  </programme>
+  <programme start="20190402100000 -0300" stop="20190402110000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé</title>
+  </programme>
+  <programme start="20190402110000 -0300" stop="20190402120000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190402120000 -0300" stop="20190402130000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo</title>
+  </programme>
+  <programme start="20190402130000 -0300" stop="20190402140000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190402140000 -0300" stop="20190402150000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190402150000 -0300" stop="20190402160000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados</title>
+  </programme>
+  <programme start="20190402160000 -0300" stop="20190402170000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé</title>
+  </programme>
+  <programme start="20190402170000 -0300" stop="20190402180000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
+  </programme>
+  <programme start="20190402180000 -0300" stop="20190402190000 -0300" channel="RCN Novelas">
+    <title lang="es">La Marca del Deseo</title>
+  </programme>
+  <programme start="20190402190000 -0300" stop="20190402200000 -0300" channel="RCN Novelas">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20190402200000 -0300" stop="20190402210000 -0300" channel="RCN Novelas">
+    <title lang="es">Francisco el Matemático</title>
+  </programme>
+  <programme start="20190402210000 -0300" stop="20190402220000 -0300" channel="RCN Novelas">
+    <title lang="es">Corazones blindados</title>
+  </programme>
+  <programme start="20190402220000 -0300" stop="20190402230000 -0300" channel="RCN Novelas">
+    <title lang="es">Pambelé</title>
+  </programme>
+  <programme start="20190402230000 -0300" stop="20190403000000 -0300" channel="RCN Novelas">
+    <title lang="es">Hombres</title>
   </programme>
 </tv>
