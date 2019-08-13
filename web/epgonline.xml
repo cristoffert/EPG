@@ -50,8 +50,8 @@
     <icon src="https://mitvstatic.com/channels/cl_tnt_m.png" />
     <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="HBO CHILE">
-    <display-name lang="es">HBO CHILE</display-name>
+  <channel id="HBO HD">
+    <display-name lang="es">HBO HD</display-name>
     <icon src="https://mitvstatic.com/channels/cl_hbo_m.png" />
     <url>http://www.mi.tv2</url>
   </channel>
@@ -1385,7 +1385,7 @@
       <value>Solo adultos</value>
     </rating>
   </programme>
-  <programme start="20190812044500 -0400" stop="20190812063500 -0400" channel="HBO CHILE">
+  <programme start="20190812044500 -0400" stop="20190812063500 -0400" channel="HBO HD">
     <title lang="es">Coraline y la puerta secreta (?)</title>
     <desc lang="es">Coraline es una niña que se muda con sus padres a una casa enorme. Aburrida, empieza a explorar las innumerables puertas del lugar y acaba abriendo una que la lleva a otra casa y a otro mundo donde quieren mantenerla presa(n)</desc>
     <credits>
@@ -1407,7 +1407,7 @@
       <value>7.7</value>
     </star-rating>
   </programme>
-  <programme start="20190812063500 -0400" stop="20190812083500 -0400" channel="HBO CHILE">
+  <programme start="20190812063500 -0400" stop="20190812083500 -0400" channel="HBO HD">
     <title lang="es">Venom (?)</title>
     <desc lang="es">Eddie Brock lleva tiempo intentando desenmascarar al famoso genio científico Carlton Drake. Al investigar uno de los experimentos, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y adquiere nuevos e increíbles superpoderes(n)</desc>
     <credits>
@@ -1429,7 +1429,7 @@
       <value>6.7</value>
     </star-rating>
   </programme>
-  <programme start="20190812083500 -0400" stop="20190812101500 -0400" channel="HBO CHILE">
+  <programme start="20190812083500 -0400" stop="20190812101500 -0400" channel="HBO HD">
     <title lang="es">Nido de amor (?)</title>
     <desc lang="es">Un romántico empedernido piensa que ha encontrado el amor verdadero, solo para descubrir que su aventura amorosa va a acabar antes de lo que le gustaría porque ella lo está utilizando para vengarse de su marido(n)</desc>
     <credits>
@@ -1451,7 +1451,7 @@
       <value>5.6</value>
     </star-rating>
   </programme>
-  <programme start="20190812101500 -0400" stop="20190812121000 -0400" channel="HBO CHILE">
+  <programme start="20190812101500 -0400" stop="20190812121000 -0400" channel="HBO HD">
     <title lang="es">La noche de Halloween (?)</title>
     <desc lang="es">Laurie, única sobreviviente de la matanza de la Noche de Brujas de 1978, no ha olvidado su enfrentamiento con Michael Myers. Por eso, 40 años después, Laurie ha convertido su casa en un búnker, por si Michael decidiera volver por ella(n)</desc>
     <credits>
@@ -1473,7 +1473,7 @@
       <value>6.7</value>
     </star-rating>
   </programme>
-  <programme start="20190812121000 -0400" stop="20190812144500 -0400" channel="HBO CHILE">
+  <programme start="20190812121000 -0400" stop="20190812144500 -0400" channel="HBO HD">
     <title lang="es">Armagedón (?)</title>
     <desc lang="es">Un gigantesco asteroide se dirige hacia la Tierra, y amenaza con destruirla. La NASA decide que la única forma de evitar una catástrofe es destruirlo, y contrata a un grupo de especialistas en perforaciones para llevar a cabo la misión(n)</desc>
     <credits>
@@ -1495,7 +1495,7 @@
       <value>6.6</value>
     </star-rating>
   </programme>
-  <programme start="20190812144500 -0400" stop="20190812163500 -0400" channel="HBO CHILE">
+  <programme start="20190812144500 -0400" stop="20190812163500 -0400" channel="HBO HD">
     <title lang="es">El alma de la fiesta (?)</title>
     <desc lang="es">Luego de separarse de su pareja, Deanna regresa a estudiar a la universidad y acaba en la misma clase que su hija. La experiencia universitaria cambiará su vida(n)</desc>
     <credits>
@@ -1517,7 +1517,7 @@
       <value>5.5</value>
     </star-rating>
   </programme>
-  <programme start="20190812163500 -0400" stop="20190812183000 -0400" channel="HBO CHILE">
+  <programme start="20190812163500 -0400" stop="20190812183000 -0400" channel="HBO HD">
     <title lang="es">La noche de Halloween (?)</title>
     <desc lang="es">Laurie, única sobreviviente de la matanza de la Noche de Brujas de 1978, no ha olvidado su enfrentamiento con Michael Myers. Por eso, 40 años después, Laurie ha convertido su casa en un búnker, por si Michael decidiera volver por ella(n)</desc>
     <credits>
@@ -1539,7 +1539,7 @@
       <value>6.7</value>
     </star-rating>
   </programme>
-  <programme start="20190812183000 -0400" stop="20190813000000 -0400" channel="HBO CHILE">
+  <programme start="20190812183000 -0400" stop="20190813000000 -0400" channel="HBO HD">
     <title lang="es">Venom (?)</title>
     <desc lang="es">Eddie Brock lleva tiempo intentando desenmascarar al famoso genio científico Carlton Drake. Al investigar uno de los experimentos, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y adquiere nuevos e increíbles superpoderes(n)</desc>
     <credits>
