@@ -5,61 +5,61 @@
     <icon src="https://mitvstatic.com/channels/cl_tvn_m.png" />
     <url>http://www.mi.tv2</url>
   </channel>
-  <programme start="20191226053000 -0300" stop="20191226070000 -0300" channel="tvn">
+  <programme start="20191226053000 -0400" stop="20191226070000 -0400" channel="tvn">
     <title lang="es">24 AM </title>
     <sub-title lang="es">Interés General</sub-title>
     <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_p_m.jpg" />
   </programme>
-  <programme start="20191226070000 -0300" stop="20191226120000 -0300" channel="tvn">
+  <programme start="20191226070000 -0400" stop="20191226120000 -0400" channel="tvn">
     <title lang="es">Muy buenos días </title>
     <sub-title lang="es">Interés General</sub-title>
     <desc lang="es">Servicios, conversación, humor y la mejor compañía para empezar cada día. Con Cristián Sánchez y María Luisa Godoy(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_muy-buenos-dias_p_m.jpg" />
   </programme>
-  <programme start="20191226120000 -0300" stop="20191226143000 -0300" channel="tvn">
+  <programme start="20191226120000 -0400" stop="20191226143000 -0400" channel="tvn">
     <title lang="es">24 Tarde </title>
     <sub-title lang="es">Noticiero</sub-title>
     <desc lang="es">Patricia Venegas y Mauricio Bustamante presentan y analizan las informaciones más destacadas de Chile y el Mundo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_p_m.jpg" />
   </programme>
-  <programme start="20191226143000 -0300" stop="20191226164000 -0300" channel="tvn">
+  <programme start="20191226143000 -0400" stop="20191226154000 -0400" channel="tvn">
     <title lang="es">Hercai </title>
     <sub-title lang="es">Drama</sub-title>
     <desc lang="es">Miran planea casarse con Reyyan, la hija de la familia que fue responsable de la muerte de sus padres, para vengarse. Inesperadamente se enamora de ella, ¿cambiará esto sus planes?(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_hercai_p_m.jpg" />
   </programme>
-  <programme start="20191226164000 -0300" stop="20191226180000 -0300" channel="tvn">
-    <title lang="es">Carmen Gloria a tu servicio </title>
-    <sub-title lang="es">Talk Show</sub-title>
-    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_p_m.jpg" />
+  <programme start="20191226154000 -0400" stop="20191226180000 -0400" channel="tvn">
+    <title lang="es">Elif </title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Meleek es una doméstica que se enamora de Kenan Emiroglu, el hijo favorito de la familia para la cual trabaja. Cuando la chica queda embarazada, la madre del hombre se las arregla para enviarla lejos sin que ninguno de los dos se entere(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_elif_p_m.jpg" />
   </programme>
-  <programme start="20191226180000 -0300" stop="20191226200000 -0300" channel="tvn">
+  <programme start="20191226180000 -0400" stop="20191226200000 -0400" channel="tvn">
     <title lang="es">El Chavo </title>
     <sub-title lang="es">Comedia</sub-title>
     <desc lang="es">La historia de un niño que vive en una vecindad. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-chavo_p_m.jpg" />
   </programme>
-  <programme start="20191226200000 -0300" stop="20191226213000 -0300" channel="tvn">
+  <programme start="20191226200000 -0400" stop="20191226213000 -0400" channel="tvn">
     <title lang="es">24 horas central </title>
     <sub-title lang="es">Noticiero</sub-title>
     <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_p_m.jpg" />
   </programme>
-  <programme start="20191226213000 -0300" stop="20191226214000 -0300" channel="tvn">
+  <programme start="20191226213000 -0400" stop="20191226214000 -0400" channel="tvn">
     <title lang="es">TV Tiempo </title>
     <sub-title lang="es">Interés General</sub-title>
     <desc lang="es">El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tv-tiempo_p_m.jpg" />
   </programme>
-  <programme start="20191226214000 -0300" stop="20191226230000 -0300" channel="tvn">
+  <programme start="20191226214000 -0400" stop="20191226230000 -0400" channel="tvn">
     <title lang="es">Cazadores de Fakes </title>
     <sub-title lang="es">Entretenimientos</sub-title>
     <desc lang="es">Se abordará uno de los fenómenos actuales que se han convertido en un verdadero peligro para la opinión pública y la información: las noticias falsas, mostrando la metodología investigativa que se utilizó para llegar a la verdad(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
   </programme>
-  <programme start="20191226230000 -0300" stop="20191227001500 -0300" channel="tvn">
+  <programme start="20191226230000 -0400" stop="20191227001500 -0400" channel="tvn">
     <title lang="es">No culpes a la noche </title>
     <sub-title lang="es">Entretenimientos</sub-title>
     <desc lang="es">Un espacio que mezcla humor, contingencia y a grandes invitados que noche a noche se dejarán llevar por la dinámica del programa que mostrará un ambiente distendido y sin censura(n)</desc>
