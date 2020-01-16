@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+ <channel id="HGTV">
+    <display-name lang="es">HGTV</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="Canal Mega ">
     <display-name lang="es">MEGA</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega-mediano.png" />
@@ -50011,5 +50015,2765 @@
   </programme>
   <programme start="20200117211700 -0300" stop="20200117225200 -0300" channel="Canal TBS veryfunny Latinoamérica">
     <title lang="es">Comer, jugar y amar</title>
+  </programme>
+   <programme start="20200113000000 -0300" stop="20200113004800 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113004800 -0300" stop="20200113011300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113011300 -0300" stop="20200113013800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113013800 -0300" stop="20200113020200 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113020200 -0300" stop="20200113022600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113022600 -0300" stop="20200113025100 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Piscina de piratas</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113025100 -0300" stop="20200113031600 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Un oasis en la ciudad</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113031600 -0300" stop="20200113034100 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">El búngalo azul</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113034100 -0300" stop="20200113040600 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">Obra maestra victoriana</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113040600 -0300" stop="20200113043100 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113043100 -0300" stop="20200113045600 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113045600 -0300" stop="20200113052100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Carol Bueno</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113052100 -0300" stop="20200113054600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Marcela Rondon</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113054600 -0300" stop="20200113061100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Andréia y Sérgio</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113061100 -0300" stop="20200113063600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113063600 -0300" stop="20200113070100 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113070100 -0300" stop="20200113072600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113072600 -0300" stop="20200113075000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113075000 -0300" stop="20200113081400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113081400 -0300" stop="20200113083800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113083800 -0300" stop="20200113090100 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113090100 -0300" stop="20200113094700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113094700 -0300" stop="20200113101000 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113101000 -0300" stop="20200113103300 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113103300 -0300" stop="20200113105600 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+    <title lang="xx">I Want That</title>
+    <sub-title lang="es">Cámara iZon</sub-title>
+    <desc lang="es">Este espacio te presenta las innovaciones más recientes para el cuidado del hogar y mucho más. Además, te brinda los precios de cada artículo, lo que hace que sea más fácil su proceso de compra(n)</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10441738.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113105600 -0300" stop="20200113111900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113111900 -0300" stop="20200113114200 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113114200 -0300" stop="20200113120500 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Tina con cabina de vidrio</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113120500 -0300" stop="20200113122800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Lujo, lavandería y una ducha cantarina</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113122800 -0300" stop="20200113125300 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113125300 -0300" stop="20200113131500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113131500 -0300" stop="20200113133800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113133800 -0300" stop="20200113140100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113140100 -0300" stop="20200113142400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113142400 -0300" stop="20200113144700 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta modular</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113144700 -0300" stop="20200113151000 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta en el bosque</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113151000 -0300" stop="20200113153300 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">Una carga especial</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113153300 -0300" stop="20200113155600 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">La tradición del rediseño</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113155600 -0300" stop="20200113164200 -0300" channel="HGTV">
+    <title lang="es">Casas extrañas</title>
+    <title lang="xx">You Live in What?</title>
+    <sub-title lang="es">Planta depuradora de agua, fábrica, convento</sub-title>
+    <desc lang="es">Un programa que muestra una serie de visionarios que han transformado espacios comerciales o lugares insólitos en viviendas únicas. Con un poco de imaginación, tenacidad y unos pocos dólares, los propietarios prueban que nada es imposible(n)</desc>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10530876.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113164200 -0300" stop="20200113172800 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Sororidad vs. fraternidad</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113172800 -0300" stop="20200113181400 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Cambios en el autobús escolar</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113181400 -0300" stop="20200113183700 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113183700 -0300" stop="20200113190000 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113190000 -0300" stop="20200113192300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113192300 -0300" stop="20200113194600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113194600 -0300" stop="20200113200900 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113200900 -0300" stop="20200113203200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Renovadores casados contra una pareja creativa</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113203200 -0300" stop="20200113205500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113205500 -0300" stop="20200113211800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Un chalé junto al lago</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113211800 -0300" stop="20200113214100 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Una ducha impactante</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113214100 -0300" stop="20200113220400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Chimenea de metal, pared de ladrillos y piso de corcho</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113220400 -0300" stop="20200113225000 -0300" channel="HGTV">
+    <title lang="es">Primos a la obra</title>
+    <title lang="xx">Cousins Undercover</title>
+    <sub-title lang="es">Sorpresa para un chef novato</sub-title>
+    <desc lang="es">Anthony Carrino y John Colaneri sorprenden al héroe de un vecindario con la remodelación de vivienda de su vida. Los primos se escabullen en la vivienda cuando el dueño sale y luego acude su equipo de transformadores para trabajar(n)</desc>
+    <date>2013</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1392105.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200113225000 -0300" stop="20200113231300 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">El sueño del pastelero</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200113231300 -0300" stop="20200113233600 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">Amantes del vino</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+    <programme start="20200114000000 -0300" stop="20200114004800 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114004800 -0300" stop="20200114011300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114011300 -0300" stop="20200114013800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114013800 -0300" stop="20200114020200 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114020200 -0300" stop="20200114022600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114022600 -0300" stop="20200114025100 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Piscina de piratas</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114025100 -0300" stop="20200114031600 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Un oasis en la ciudad</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114031600 -0300" stop="20200114034100 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">El búngalo azul</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114034100 -0300" stop="20200114040600 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">Obra maestra victoriana</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114040600 -0300" stop="20200114043100 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114043100 -0300" stop="20200114045600 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114045600 -0300" stop="20200114052100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Carol Bueno</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114052100 -0300" stop="20200114054600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Marcela Rondon</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114054600 -0300" stop="20200114061100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Andréia y Sérgio</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114061100 -0300" stop="20200114063600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114063600 -0300" stop="20200114070100 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114070100 -0300" stop="20200114072600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114072600 -0300" stop="20200114075000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114075000 -0300" stop="20200114081400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114081400 -0300" stop="20200114083800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114083800 -0300" stop="20200114090100 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114090100 -0300" stop="20200114094700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114094700 -0300" stop="20200114101000 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114101000 -0300" stop="20200114103300 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114103300 -0300" stop="20200114105600 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+    <title lang="xx">I Want That</title>
+    <sub-title lang="es">Cámara iZon</sub-title>
+    <desc lang="es">Este espacio te presenta las innovaciones más recientes para el cuidado del hogar y mucho más. Además, te brinda los precios de cada artículo, lo que hace que sea más fácil su proceso de compra(n)</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10441738.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114105600 -0300" stop="20200114111900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114111900 -0300" stop="20200114114200 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114114200 -0300" stop="20200114120500 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Tina con cabina de vidrio</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114120500 -0300" stop="20200114122800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Lujo, lavandería y una ducha cantarina</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114122800 -0300" stop="20200114125300 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114125300 -0300" stop="20200114131500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114131500 -0300" stop="20200114133800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114133800 -0300" stop="20200114140100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114140100 -0300" stop="20200114142400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114142400 -0300" stop="20200114144700 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta modular</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114144700 -0300" stop="20200114151000 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta en el bosque</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114151000 -0300" stop="20200114153300 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">Una carga especial</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114153300 -0300" stop="20200114155600 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">La tradición del rediseño</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114155600 -0300" stop="20200114164200 -0300" channel="HGTV">
+    <title lang="es">Casas extrañas</title>
+    <title lang="xx">You Live in What?</title>
+    <sub-title lang="es">Planta depuradora de agua, fábrica, convento</sub-title>
+    <desc lang="es">Un programa que muestra una serie de visionarios que han transformado espacios comerciales o lugares insólitos en viviendas únicas. Con un poco de imaginación, tenacidad y unos pocos dólares, los propietarios prueban que nada es imposible(n)</desc>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10530876.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114164200 -0300" stop="20200114172800 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Sororidad vs. fraternidad</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114172800 -0300" stop="20200114181400 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Cambios en el autobús escolar</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114181400 -0300" stop="20200114183700 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114183700 -0300" stop="20200114190000 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114190000 -0300" stop="20200114192300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114192300 -0300" stop="20200114194600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114194600 -0300" stop="20200114200900 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114200900 -0300" stop="20200114203200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Renovadores casados contra una pareja creativa</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114203200 -0300" stop="20200114205500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114205500 -0300" stop="20200114211800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Un chalé junto al lago</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114211800 -0300" stop="20200114214100 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Una ducha impactante</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114214100 -0300" stop="20200114220400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Chimenea de metal, pared de ladrillos y piso de corcho</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114220400 -0300" stop="20200114225000 -0300" channel="HGTV">
+    <title lang="es">Primos a la obra</title>
+    <title lang="xx">Cousins Undercover</title>
+    <sub-title lang="es">Sorpresa para un chef novato</sub-title>
+    <desc lang="es">Anthony Carrino y John Colaneri sorprenden al héroe de un vecindario con la remodelación de vivienda de su vida. Los primos se escabullen en la vivienda cuando el dueño sale y luego acude su equipo de transformadores para trabajar(n)</desc>
+    <date>2013</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1392105.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200114225000 -0300" stop="20200114231300 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">El sueño del pastelero</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200114231300 -0300" stop="20200114233600 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">Amantes del vino</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+   <programme start="20200115000000 -0300" stop="20200115004800 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115004800 -0300" stop="20200115011300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115011300 -0300" stop="20200115013800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115013800 -0300" stop="20200115020200 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115020200 -0300" stop="20200115022600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115022600 -0300" stop="20200115025100 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Piscina de piratas</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115025100 -0300" stop="20200115031600 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Un oasis en la ciudad</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115031600 -0300" stop="20200115034100 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">El búngalo azul</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115034100 -0300" stop="20200115040600 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">Obra maestra victoriana</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115040600 -0300" stop="20200115043100 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115043100 -0300" stop="20200115045600 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115045600 -0300" stop="20200115052100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Carol Bueno</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115052100 -0300" stop="20200115054600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Marcela Rondon</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115054600 -0300" stop="20200115061100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Andréia y Sérgio</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115061100 -0300" stop="20200115063600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115063600 -0300" stop="20200115070100 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115070100 -0300" stop="20200115072600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115072600 -0300" stop="20200115075000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115075000 -0300" stop="20200115081400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115081400 -0300" stop="20200115083800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115083800 -0300" stop="20200115090100 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115090100 -0300" stop="20200115094700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115094700 -0300" stop="20200115101000 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115101000 -0300" stop="20200115103300 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115103300 -0300" stop="20200115105600 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+    <title lang="xx">I Want That</title>
+    <sub-title lang="es">Cámara iZon</sub-title>
+    <desc lang="es">Este espacio te presenta las innovaciones más recientes para el cuidado del hogar y mucho más. Además, te brinda los precios de cada artículo, lo que hace que sea más fácil su proceso de compra(n)</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10441738.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115105600 -0300" stop="20200115111900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115111900 -0300" stop="20200115114200 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115114200 -0300" stop="20200115120500 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Tina con cabina de vidrio</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115120500 -0300" stop="20200115122800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Lujo, lavandería y una ducha cantarina</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115122800 -0300" stop="20200115125300 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115125300 -0300" stop="20200115131500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115131500 -0300" stop="20200115133800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115133800 -0300" stop="20200115140100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115140100 -0300" stop="20200115142400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115142400 -0300" stop="20200115144700 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta modular</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115144700 -0300" stop="20200115151000 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta en el bosque</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115151000 -0300" stop="20200115153300 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">Una carga especial</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115153300 -0300" stop="20200115155600 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">La tradición del rediseño</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115155600 -0300" stop="20200115164200 -0300" channel="HGTV">
+    <title lang="es">Casas extrañas</title>
+    <title lang="xx">You Live in What?</title>
+    <sub-title lang="es">Planta depuradora de agua, fábrica, convento</sub-title>
+    <desc lang="es">Un programa que muestra una serie de visionarios que han transformado espacios comerciales o lugares insólitos en viviendas únicas. Con un poco de imaginación, tenacidad y unos pocos dólares, los propietarios prueban que nada es imposible(n)</desc>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10530876.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115164200 -0300" stop="20200115172800 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Sororidad vs. fraternidad</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115172800 -0300" stop="20200115181400 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Cambios en el autobús escolar</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115181400 -0300" stop="20200115183700 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115183700 -0300" stop="20200115190000 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115190000 -0300" stop="20200115192300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115192300 -0300" stop="20200115194600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115194600 -0300" stop="20200115200900 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115200900 -0300" stop="20200115203200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Renovadores casados contra una pareja creativa</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115203200 -0300" stop="20200115205500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115205500 -0300" stop="20200115211800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Un chalé junto al lago</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115211800 -0300" stop="20200115214100 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Una ducha impactante</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115214100 -0300" stop="20200115220400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Chimenea de metal, pared de ladrillos y piso de corcho</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115220400 -0300" stop="20200115225000 -0300" channel="HGTV">
+    <title lang="es">Primos a la obra</title>
+    <title lang="xx">Cousins Undercover</title>
+    <sub-title lang="es">Sorpresa para un chef novato</sub-title>
+    <desc lang="es">Anthony Carrino y John Colaneri sorprenden al héroe de un vecindario con la remodelación de vivienda de su vida. Los primos se escabullen en la vivienda cuando el dueño sale y luego acude su equipo de transformadores para trabajar(n)</desc>
+    <date>2013</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1392105.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200115225000 -0300" stop="20200115231300 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">El sueño del pastelero</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200115231300 -0300" stop="20200115233600 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">Amantes del vino</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+   <programme start="20200116000000 -0300" stop="20200116004800 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116004800 -0300" stop="20200116011300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116011300 -0300" stop="20200116013800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116013800 -0300" stop="20200116020200 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116020200 -0300" stop="20200116022600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116022600 -0300" stop="20200116025100 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Piscina de piratas</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116025100 -0300" stop="20200116031600 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="xx">Pool Kings</title>
+    <sub-title lang="es">Un oasis en la ciudad</sub-title>
+    <desc lang="es">Un grupo de profesionales de la renovación del patio trasero crean piscinas soñadas galardonadas para sus clientes. Desde su propio lago personalizado hasta un parque acuático en el patio trasero(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10406636.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116031600 -0300" stop="20200116034100 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">El búngalo azul</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116034100 -0300" stop="20200116040600 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+    <title lang="xx">Curb Appeal</title>
+    <sub-title lang="es">Obra maestra victoriana</sub-title>
+    <desc lang="es">Aprenda grandes ideas y consejos para mejorar la apariencia del hogar(n)</desc>
+    <date>1999</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10411066.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116040600 -0300" stop="20200116043100 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116043100 -0300" stop="20200116045600 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116045600 -0300" stop="20200116052100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Carol Bueno</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116052100 -0300" stop="20200116054600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Marcela Rondon</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116054600 -0300" stop="20200116061100 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Andréia y Sérgio</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116061100 -0300" stop="20200116063600 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116063600 -0300" stop="20200116070100 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116070100 -0300" stop="20200116072600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116072600 -0300" stop="20200116075000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116075000 -0300" stop="20200116081400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116081400 -0300" stop="20200116083800 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116083800 -0300" stop="20200116090100 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116090100 -0300" stop="20200116094700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+    <title lang="xx">Extreme Homes</title>
+    <sub-title lang="es">Invernadero, nido, agente secreto</sub-title>
+    <desc lang="es">Extreme Homes es una serie de recorridos por algunas de las propiedades más extrañas, más grandes y más bonitas del mundo y sus hogares(n)</desc>
+    <credits>
+      <actor>Brian Hanford</actor>
+      <actor>Brian Cooney</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.arimg/icono_facebook.svg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116094700 -0300" stop="20200116101000 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116101000 -0300" stop="20200116103300 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116103300 -0300" stop="20200116105600 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+    <title lang="xx">I Want That</title>
+    <sub-title lang="es">Cámara iZon</sub-title>
+    <desc lang="es">Este espacio te presenta las innovaciones más recientes para el cuidado del hogar y mucho más. Además, te brinda los precios de cada artículo, lo que hace que sea más fácil su proceso de compra(n)</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10441738.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116105600 -0300" stop="20200116111900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Transformación toscana en el Valle de Napa</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116111900 -0300" stop="20200116114200 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+    <title lang="xx">Yard Crashers</title>
+    <sub-title lang="es">jardines. Cabo sofá cama</sub-title>
+    <desc lang="es">Ahmed Hassan un paisajista profesional y su equipo transforman abandonados o monótonos patios traseros en maravillosos entornos relajantes(n)</desc>
+    <date>2008</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9435892.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116114200 -0300" stop="20200116120500 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Tina con cabina de vidrio</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116120500 -0300" stop="20200116122800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Lujo, lavandería y una ducha cantarina</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116122800 -0300" stop="20200116125300 -0300" channel="HGTV">
+    <title lang="es">Menos es más</title>
+    <title lang="xx">Menos é demais</title>
+    <sub-title lang="es">Leticia</sub-title>
+    <desc lang="es">Extravagantes, divertidas, numerosas y consumistas familias brasileñas serán desafiadas a cambiar sus estilos de vidas y enfrentar el mundo desde una perspectiva diferente(n)</desc>
+    <date>2017</date>
+    <category lang="es">Decoración</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3779649.jpg" />
+    <country>Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116125300 -0300" stop="20200116131500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116131500 -0300" stop="20200116133800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos enfrentados</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116133800 -0300" stop="20200116140100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Navegar en el lago Gaston, Carolina del Norte</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116140100 -0300" stop="20200116142400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116142400 -0300" stop="20200116144700 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta modular</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116144700 -0300" stop="20200116151000 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+    <title lang="xx">Love Yurts</title>
+    <sub-title lang="es">Una yurta en el bosque</sub-title>
+    <desc lang="es">Una pareja y su equipo construyen yurtas ecológicas personalizadas en la hermosa costa norte de Oahu. Enseñan a sus clientes cómo vivir de la tierra y hacer del mundo un lugar mejor sin sacrificar ni siquiera la menor comodidad(n)</desc>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10068542.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116151000 -0300" stop="20200116153300 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">Una carga especial</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116153300 -0300" stop="20200116155600 -0300" channel="HGTV">
+    <title lang="es">Casas sobre ruedas</title>
+    <title lang="xx">RV Nation</title>
+    <sub-title lang="es">La tradición del rediseño</sub-title>
+    <desc lang="es">Sumérgete en el mundo de los RV engañados. Vea el diseño y la construcción de las casas rodantes y autocaravanas más grandes y elaboradas del mercado(n)</desc>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10397868.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116155600 -0300" stop="20200116164200 -0300" channel="HGTV">
+    <title lang="es">Casas extrañas</title>
+    <title lang="xx">You Live in What?</title>
+    <sub-title lang="es">Planta depuradora de agua, fábrica, convento</sub-title>
+    <desc lang="es">Un programa que muestra una serie de visionarios que han transformado espacios comerciales o lugares insólitos en viviendas únicas. Con un poco de imaginación, tenacidad y unos pocos dólares, los propietarios prueban que nada es imposible(n)</desc>
+    <date>2012</date>
+    <category lang="es">Documental</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10530876.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116164200 -0300" stop="20200116172800 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Sororidad vs. fraternidad</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116172800 -0300" stop="20200116181400 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+    <title lang="xx">HGTV Design Star</title>
+    <sub-title lang="es">Cambios en el autobús escolar</sub-title>
+    <desc lang="es">Diez aspirantes a diseñadores buscan impresionar a los espectadores hogareños y un panel de jueces expertos con su experiencia en diseño, ingenio, creatividad y factor "it" durante la competencia de realidad, HGTV Design Star(n)</desc>
+    <date>2006</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10416554.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116181400 -0300" stop="20200116183700 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Algo único en Deep Creek, en Maryland</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116183700 -0300" stop="20200116190000 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">Un cuarto principal sin precedentes</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116190000 -0300" stop="20200116192300 -0300" channel="HGTV">
+    <title lang="es">Hogares de lujo</title>
+    <title lang="xx">Million Dollar Rooms</title>
+    <sub-title lang="es">La piscina residencial más grande del mundo</sub-title>
+    <desc lang="es">Obtiene una visión de acceso completo dentro de las lujosas casas de todo el mundo donde los propietarios no han escatimado en gastos para crear los espacios más caros y asombrosos(n)</desc>
+    <date>2012</date>
+    <category lang="es">Turismo</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10523023.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116192300 -0300" stop="20200116194600 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Thom Filicia</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116194600 -0300" stop="20200116200900 -0300" channel="HGTV">
+    <title lang="es">Manhattan VIP</title>
+    <sub-title lang="es">Reto de cien años</sub-title>
+    <desc lang="es">Stephen Fanuka, el contratista de las estrellas, les ofrece a los televidentes la posibilidad de conocer los hogares más exclusivos de la ciudad de Manhattan(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1307973.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116200900 -0300" stop="20200116203200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Renovadores casados contra una pareja creativa</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116203200 -0300" stop="20200116205500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+    <title lang="xx">Flea Market Flip</title>
+    <sub-title lang="es">Amigos eclécticos vs. Renovadores frecuentes</sub-title>
+    <desc lang="es">Este segmento muestra las renovaciones que se pueden hacer con un poco de efectivo y creatividad. Con $500, los participantes buscarán en los puestos y tiendas artículos que puedan comprar, arreglar y luego vender por una suma más alta(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8391715.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116205500 -0300" stop="20200116211800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+    <title lang="xx">Lakefront Bargain Hunt</title>
+    <sub-title lang="es">Un chalé junto al lago</sub-title>
+    <desc lang="es">Los sueños de vivir en el muelle de una bahía se pueden hacer realidad, incluso con el presupuesto más ajustado. En este espacio, mostramos cómo encontrar una propiedad frente al lago de sus sueños sin demasiado dinero(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10544182.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116211800 -0300" stop="20200116214100 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Una ducha impactante</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116214100 -0300" stop="20200116220400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+    <title lang="xx">Bath Crashers</title>
+    <sub-title lang="es">Chimenea de metal, pared de ladrillos y piso de corcho</sub-title>
+    <desc lang="es">Los baños sirven para un propósito, pero no siempre lucen bien. El contratista Matt Muenster renueva los baños de las viviendas cambiando todo el concepto(n)</desc>
+    <date>2010</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10388135.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116220400 -0300" stop="20200116225000 -0300" channel="HGTV">
+    <title lang="es">Primos a la obra</title>
+    <title lang="xx">Cousins Undercover</title>
+    <sub-title lang="es">Sorpresa para un chef novato</sub-title>
+    <desc lang="es">Anthony Carrino y John Colaneri sorprenden al héroe de un vecindario con la remodelación de vivienda de su vida. Los primos se escabullen en la vivienda cuando el dueño sale y luego acude su equipo de transformadores para trabajar(n)</desc>
+    <date>2013</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1392105.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20200116225000 -0300" stop="20200116231300 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">El sueño del pastelero</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20200116231300 -0300" stop="20200116233600 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+    <title lang="xx">Elbow Room</title>
+    <sub-title lang="es">Amantes del vino</sub-title>
+    <desc lang="es">Chip ayuda a familias que adoran sus hogares y vecindarios pero que con el paso de los años las casas ya no se adaptan a sus necesidades, tomando nota de los deseos de la familia de turno, él y su equipo cambia la imagen del dulce hogar(n)</desc>
+    <date>2012</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10550701.jpg" />
+    <country>EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
 </tv>
