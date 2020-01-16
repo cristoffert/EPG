@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
  <channel id="HGTV">
     <display-name lang="es">HGTV</display-name>
+	<icon src="https://www.telered.com.ar/img/logos_ch/LOGO-hgtv.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Canal Mega ">
