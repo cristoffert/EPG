@@ -55293,69 +55293,50 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="galavision-pacific-feed">
-    <title lang="en">Más Curiosidades</title>
-    <category lang="en">Instructional</category>
-  </programme>
-  <programme start="20200124063000 -0300" stop="20200124073000 -0300" channel="galavision-pacific-feed">
-    <title lang="en">Como dice el dicho</title>
-    <category lang="en">Drama</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200124073000 -0300" stop="20200124083000 -0300" channel="galavision-pacific-feed">
-    <title lang="en">Salomé</title>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200124083000 -0300" stop="20200124090000 -0300" channel="galavision-pacific-feed">
-    <title lang="en">Más Curiosidades</title>
-    <category lang="en">Instructional</category>
-  </programme>
-  <programme start="20200124090000 -0300" stop="20200124093000 -0300" channel="galavision-pacific-feed">
+ <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Programa pagado</title>
     <category lang="en">Paid Program</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124093000 -0300" stop="20200124100000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124063000 -0300" stop="20200124070000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Programa pagado</title>
     <category lang="en">Paid Program</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124070000 -0300" stop="20200124073000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Programa pagado</title>
     <category lang="en">Paid Program</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124073000 -0300" stop="20200124080000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Programa pagado</title>
     <category lang="en">Paid Program</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124110000 -0300" stop="20200124130000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124080000 -0300" stop="20200124100000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Una familia con suerte</title>
     <category lang="en">Soaps</category>
   </programme>
-  <programme start="20200124130000 -0300" stop="20200124160000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124100000 -0300" stop="20200124130000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Despierta America</title>
     <category lang="en">News Magazine</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200124160000 -0300" stop="20200124173000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124130000 -0300" stop="20200124143000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Despierta</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200124173000 -0300" stop="20200124180000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124143000 -0300" stop="20200124150000 -0300" channel="galavision-pacific-feed">
     <title lang="en">El Chavo</title>
     <desc lang="en">Las aventuras del chavo(n)</desc>
     <category lang="en">Sitcom</category>
@@ -55363,31 +55344,52 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200124180000 -0300" stop="20200124190000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124150000 -0300" stop="20200124160000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Mujer de Madera</title>
     <category lang="en">Soaps</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200124190000 -0300" stop="20200124200000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124160000 -0300" stop="20200124170000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Mujer de Madera</title>
     <category lang="en">Soaps</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124170000 -0300" stop="20200124180000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Salomé</title>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20200124210000 -0300" stop="20200124220000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124180000 -0300" stop="20200124190000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Por ella soy eva</title>
     <category lang="en">Soaps</category>
   </programme>
-  <programme start="20200124220000 -0300" stop="20200124230000 -0300" channel="galavision-pacific-feed">
+  <programme start="20200124190000 -0300" stop="20200124200000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Por ella soy eva</title>
     <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124220000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200124230000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20200124230000 -0300" stop="20200125000000 -0300" channel="galavision-pacific-feed">
     <title lang="en">Como dice el dicho</title>
