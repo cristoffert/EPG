@@ -20,6 +20,26 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/tennischannel.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+    <channel id="nbc-wnbc-new-york-ny">
+    <display-name lang="en">NBC NUEVA YORK</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="univision-pacific-feed">
+    <display-name lang="en">UNIVISION</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/univision.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="galavision-pacific-feed">
+    <display-name lang="en">GALAVISION</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/galavision.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="nbc-universo-west-feed">
+    <display-name lang="en">UNIVERSO</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbcuniverso_logo.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="Canal 13 de Chile">
     <display-name lang="es">CANAL 13 CHILE</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
@@ -54996,5 +55016,492 @@
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today in New York</title>
+    <desc lang="en">Breaking news, weather and traffic on the fours. Stay up to the minute, the minute you're up with News 4 New York(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124063000 -0300" stop="20200124070000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today in New York</title>
+    <desc lang="en">Breaking news, weather and traffic on the fours. Stay up to the minute, the minute you're up with News 4 New York(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124070000 -0300" stop="20200124090000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today in New York</title>
+    <desc lang="en">Breaking news, weather and traffic on the fours. Stay up to the minute, the minute you're up with News 4 New York(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124110000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today</title>
+    <desc lang="en">Valerie Bertinelli visits Today.Guests: Valerie Bertinelli.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124120000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today III</title>
+    <desc lang="en">A segment on 'Through Mom’s Eyes: Lady Gaga’s Mom.'(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124120000 -0300" stop="20200124130000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Today With Hoda and Jenna</title>
+    <desc lang="en">Retta and Reno Wilson discuss NBC’s 'Good Girls.'Guests: Retta, Reno Wilson.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124130000 -0300" stop="20200124133000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 11:00 a.m.</title>
+    <desc lang="en">News(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124133000 -0300" stop="20200124140000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">New York Live</title>
+    <desc lang="en">Daily lifestyle show featuring the best in food, fashion, beauty and pop culture(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124140000 -0300" stop="20200124150000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Days of Our Lives</title>
+    <desc lang="en">The characters from Salem face challenges, day-to-day conflicts and supernatural forces(n)</desc>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124150000 -0300" stop="20200124160000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Access Daily</title>
+    <desc lang="en">The latest celebrity news and opinions, as well as in-studio guests, fashion and more(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124170000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">The Kelly Clarkson Show</title>
+    <desc lang="en">Garth Brooks takes the stage for an interview and a performance. Kelly also takes a look at fans of Garth Brooks and an Oregon Dad who survived being a Pumpkin Patch chaperone for his daughter's kindergarten class.Guests: Garth Brooks.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124170000 -0300" stop="20200124180000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">The Ellen DeGeneres Show</title>
+    <desc lang="en">Actor Jennifer Aniston guest hosts and Will Ferrell and Selena Gomez visit.Guests: Will Ferrell, Selena Gomez.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124183000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 4:00 p.m.</title>
+    <desc lang="en">News(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124183000 -0300" stop="20200124190000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 4:30 p.m.</title>
+    <desc lang="en">News(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124193000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 5:00 p.m.</title>
+    <desc lang="en">Breaking news, developing stories and your weather forecast(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124193000 -0300" stop="20200124200000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 5:30 p.m.</title>
+    <desc lang="en">News(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124203000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">News4 NY at 6:00 p.m.</title>
+    <desc lang="en">News(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124203000 -0300" stop="20200124210000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <desc lang="en">This daily evening news program features the top national and international stories of the day(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124213000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Access Hollywood</title>
+    <desc lang="en">A daily look at the latest news and information from Hollywood and its celebrities(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124213000 -0300" stop="20200124220000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">All Access</title>
+    <desc lang="en">Digging deeper into the headlines to uncover the real-life dramas occurring every day(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200125010000 -0300" channel="nbc-wnbc-new-york-ny">
+    <title lang="en">Figure Skating</title>
+    <desc lang="en">Figure skating(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Figure Skating</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124070000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124070000 -0300" stop="20200124080000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Rubi</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124080000 -0300" stop="20200124083000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124083000 -0300" stop="20200124090000 -0300" channel="univision-pacific-feed">
+    <title lang="en">La Familia P. Luche</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124100000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Destilando amor</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124120000 -0300" channel="univision-pacific-feed">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga(n)</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124120000 -0300" stop="20200124160000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124170000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Que te perdone Dios... Yo no</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124170000 -0300" stop="20200124173000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200124173000 -0300" stop="20200124180000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124190000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Hoy</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124200000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Hijas de la Luna y la Familia... Cambió</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124220000 -0300" channel="univision-pacific-feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200124230000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200124233000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200124233000 -0300" stop="20200125000000 -0300" channel="univision-pacific-feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Más Curiosidades</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124063000 -0300" stop="20200124073000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124073000 -0300" stop="20200124083000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Salomé</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124083000 -0300" stop="20200124090000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Más Curiosidades</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124093000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124093000 -0300" stop="20200124100000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124130000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Una familia con suerte</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124130000 -0300" stop="20200124160000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124173000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Despierta</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200124173000 -0300" stop="20200124180000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">El Chavo</title>
+    <desc lang="en">Las aventuras del chavo(n)</desc>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124190000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Mujer de Madera</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124200000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Mujer de Madera</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Salomé</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124220000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Por ella soy eva</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200124230000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Por ella soy eva</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200125000000 -0300" channel="galavision-pacific-feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124070000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">12 corazones</title>
+    <sub-title lang="en">Uniformados</sub-title>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124070000 -0300" stop="20200124080000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">12 corazones</title>
+    <sub-title lang="en">Especial de Dragonas y Caballeros</sub-title>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124080000 -0300" stop="20200124090000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Larrymania</title>
+    <sub-title lang="en">Boys Will Be Boys</sub-title>
+    <desc lang="en">Larry welcomes his mom to Los Angeles. While he enjoys some free time with the guys, tension builds at home between Manuela and Kenia while they prepare dinner for special guests(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124100000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Larrymania</title>
+    <sub-title lang="en">Mom Is and Always Will Be #1</sub-title>
+    <desc lang="en">After enjoying his mom's visit and her home cooking, Larry needs to get in shape, so he calls Agostina for another killer work out.  He decides to put everything on hold to make a flash trip to Sinaloa to celebrate Mother's Day(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">¿Quién Da Más?</title>
+    <sub-title lang="en">Retrato del jugador</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">¿Quién Da Más?</title>
+    <sub-title lang="en">Olfato para los negocios</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124120000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">12 corazones</title>
+    <sub-title lang="en">Especial Fantasia</sub-title>
+    <category lang="en">Game Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124120000 -0300" stop="20200124130000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Los herederos del monte</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124130000 -0300" stop="20200124140000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Pasion de Gavilanes</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20200124140000 -0300" stop="20200124160000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Exatlón: Estados Unidos</title>
+    <sub-title lang="en">Primer Tablero del Dinero</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124163000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Seguridad de frontera: Australia</title>
+    <sub-title lang="en">Kiwi contaminado</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124163000 -0300" stop="20200124170000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Seguridad de frontera: Australia</title>
+    <sub-title lang="en">Movimientos extraños</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200124170000 -0300" stop="20200124180000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">La Frontera</title>
+    <sub-title lang="en">Contrabando de Cocaína</sub-title>
+    <desc lang="en">Courageous heroes of the modern frontier strive along the Texas and Mexico borders(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124190000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">La Frontera</title>
+    <sub-title lang="en">Río Sitiado</sub-title>
+    <desc lang="en">Courageous heroes of the modern frontier strive along the Texas and Mexico borders(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124200000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Sin Senos Si Hay Paraiso</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Niñas en Trafico/ Mal Educada</sub-title>
+    <desc lang="en">Vive las emociones mas intensas con la abogada más querida de la televisión hispana(n)</desc>
+    <category lang="en">Legal</category>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124220000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Hombre Pequeño Abusado/ Doble Traicion</sub-title>
+    <desc lang="en">Vive las emociones mas intensas con la abogada más querida de la televisión hispana(n)</desc>
+    <category lang="en">Legal</category>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200124230000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Deportado Por Pizza/ El Proyecto</sub-title>
+    <desc lang="en">Vive las emociones mas intensas con la abogada más querida de la televisión hispana(n)</desc>
+    <category lang="en">Legal</category>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200125000000 -0300" channel="nbc-universo-west-feed">
+    <title lang="en">Megadesastres</title>
+    <sub-title lang="en">New York Earthquake</sub-title>
+    <category lang="en">Regular</category>
   </programme>
 </tv>
