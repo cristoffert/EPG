@@ -5,6 +5,21 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="cgtn-wnyxld-new-york-ny">
+    <display-name lang="en">CGTN</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/cgtn.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="cgtn-spanish-wnyxld3-new-york-ny">
+    <display-name lang="en">CGTN ESPANOL</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/cgtn.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="the-tennis-channel">
+    <display-name lang="en">TENNIS CHANNEL</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tennischannel.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="Canal 13 de Chile">
     <display-name lang="es">CANAL 13 CHILE</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
@@ -53560,5 +53575,1426 @@
   </programme>
   <programme start="20200126002300 -0300" stop="20200127020000 -0300" channel="Canal MTV (España)">
     <title lang="es">MTV Insomnia</title>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124063000 -0300" stop="20200124070000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Culture Express</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124070000 -0300" stop="20200124073000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124073000 -0300" stop="20200124080000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live</title>
+    <category lang="en">Music</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124080000 -0300" stop="20200124083000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">The daily current affairs program aimed at viewers across Asia with in-depth reports from BBC correspondents and interviews with leading players(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124083000 -0300" stop="20200124090000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124093000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124093000 -0300" stop="20200124100000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The Point With Liu Xin</title>
+    <desc lang="en">Beijing news commentary(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124113000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124113000 -0300" stop="20200124120000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">World Insight</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124120000 -0300" stop="20200124123000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The Link</title>
+    <desc lang="en">Live connecting Beijing, Nairobi and Washington(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124123000 -0300" stop="20200124130000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Culture Express</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124130000 -0300" stop="20200124133000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124133000 -0300" stop="20200124140000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124140000 -0300" stop="20200124143000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124143000 -0300" stop="20200124150000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live</title>
+    <category lang="en">Music</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124150000 -0300" stop="20200124153000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business Africa Edition</title>
+    <category lang="en">Business</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124153000 -0300" stop="20200124160000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business Africa Edition</title>
+    <category lang="en">Business</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124163000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124163000 -0300" stop="20200124170000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124170000 -0300" stop="20200124173000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124173000 -0300" stop="20200124180000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">World Insight</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124183000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business</title>
+    <category lang="en">Business</category>
+    <category lang="en">Political</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124183000 -0300" stop="20200124190000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The Point</title>
+    <desc lang="en">Connects Beijing, Nairobi and Washington(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124193000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200124193000 -0300" stop="20200124200000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124203000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The Heat</title>
+    <desc lang="en">News and debates from Washington(n)</desc>
+    <category lang="en">Discussion</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124203000 -0300" stop="20200124210000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124213000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business America Edition</title>
+    <desc lang="en">A daily global business news program aims to combine reporting of economic and financial issues in North and South America with those from China and the Asian region(n)</desc>
+    <category lang="en">Business</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124213000 -0300" stop="20200124220000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business Magazine</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200124220000 -0300" stop="20200124223000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124223000 -0300" stop="20200124230000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200124233000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124233000 -0300" stop="20200125000000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The Point</title>
+    <desc lang="en">Connects Beijing, Nairobi and Washington(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124060000 -0300" stop="20200124063000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Ronda Artística</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200124063000 -0300" stop="20200124070000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200124070000 -0300" stop="20200124073000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200124073000 -0300" stop="20200124080000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Díalogo</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200124080000 -0300" stop="20200124081500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124081500 -0300" stop="20200124083000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124083000 -0300" stop="20200124091500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124091500 -0300" stop="20200124100000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124100000 -0300" stop="20200124103000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Ronda Artística</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200124103000 -0300" stop="20200124110000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200124110000 -0300" stop="20200124113000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">CGTN Noticias</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124113000 -0300" stop="20200124120000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Díalogo</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200124120000 -0300" stop="20200124121500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124121500 -0300" stop="20200124130000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124130000 -0300" stop="20200124140000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Mundo Al Minuto</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200124140000 -0300" stop="20200124144500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124144500 -0300" stop="20200124150000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124150000 -0300" stop="20200124153000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200124153000 -0300" stop="20200124160000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Díalogo</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124161500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124161500 -0300" stop="20200124163000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124163000 -0300" stop="20200124171500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124171500 -0300" stop="20200124180000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124181500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124181500 -0300" stop="20200124183000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124183000 -0300" stop="20200124190000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200124190000 -0300" stop="20200124193000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Díalogo</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200124193000 -0300" stop="20200124194500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124194500 -0300" stop="20200124200000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124201500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Economía Al Día</title>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20200124201500 -0300" stop="20200124203000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200124203000 -0300" stop="20200124211500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124211500 -0300" stop="20200124213000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200124213000 -0300" stop="20200124230000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Spring Festival Gala</title>
+    <category lang="en">Specials</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200124233000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200124233000 -0300" stop="20200125000000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Díalogo</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200124040000 -0300" stop="20200124073000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Singles Final Nadal vs. Thiem(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124073000 -0300" stop="20200124080000 -0300" channel="the-tennis-channel">
+    <title lang="en">ATP World Tour Uncovered</title>
+    <desc lang="en">A weekly lifestyle television show that provides fans with unrivalled behind-the-scenes access to the most exciting tennis players and tournaments(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124080000 -0300" stop="20200124090000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Heartbreaks</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124090000 -0300" stop="20200124150000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Third Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124150000 -0300" stop="20200124160000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Rivalries</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124160000 -0300" stop="20200124170000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Jaw Droppers</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124170000 -0300" stop="20200124180000 -0300" channel="the-tennis-channel">
+    <title lang="en">TC's Signature Series</title>
+    <sub-title lang="en">Rod Laver</sub-title>
+    <desc lang="en">A look at the lives and careers of greats in and around the tennis industry(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124180000 -0300" stop="20200124200000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Third Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124200000 -0300" stop="20200124210000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Channel Live</title>
+    <sub-title lang="en">Live at the Australian Open</sub-title>
+    <desc lang="en">Discussing the tennis stories of the day with detailed analysis and more(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200124210000 -0300" stop="20200124230000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Third Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200124230000 -0300" stop="20200125020000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Women's Singles Third Round Gauff vs. Hercog(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125060000 -0300" stop="20200125063000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125063000 -0300" stop="20200125070000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Icon</title>
+    <desc lang="en">Interviews with Chinese celebrities(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125070000 -0300" stop="20200125073000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125073000 -0300" stop="20200125080000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live</title>
+    <category lang="en">Music</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125080000 -0300" stop="20200125083000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">The daily current affairs program aimed at viewers across Asia with in-depth reports from BBC correspondents and interviews with leading players(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125083000 -0300" stop="20200125090000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125090000 -0300" stop="20200125093000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125093000 -0300" stop="20200125100000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125100000 -0300" stop="20200125103000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125103000 -0300" stop="20200125110000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Assignment Asia</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125110000 -0300" stop="20200125113000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125113000 -0300" stop="20200125120000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Crossover</title>
+    <desc lang="en">Lifestyle and culture in China(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125120000 -0300" stop="20200125123000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125123000 -0300" stop="20200125130000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Icon</title>
+    <desc lang="en">Interviews with Chinese celebrities(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125130000 -0300" stop="20200125133000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125133000 -0300" stop="20200125140000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125140000 -0300" stop="20200125143000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125143000 -0300" stop="20200125150000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live</title>
+    <category lang="en">Music</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125150000 -0300" stop="20200125153000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business Africa Edition</title>
+    <category lang="en">Business</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125153000 -0300" stop="20200125160000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Global Business Africa Edition</title>
+    <category lang="en">Business</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125160000 -0300" stop="20200125163000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125163000 -0300" stop="20200125170000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125170000 -0300" stop="20200125173000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125173000 -0300" stop="20200125180000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Crossover</title>
+    <desc lang="en">Lifestyle and culture in China(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125180000 -0300" stop="20200125183000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125183000 -0300" stop="20200125190000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Assignment Asia</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125190000 -0300" stop="20200125193000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Full Frame: CCTV America Culture and Talk</title>
+    <desc lang="en">Talk program focused on cultural and living issues for a global audience(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125193000 -0300" stop="20200125200000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Full Frame: CCTV America Culture and Talk</title>
+    <desc lang="en">Talk program focused on cultural and living issues for a global audience(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125200000 -0300" stop="20200125203000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125203000 -0300" stop="20200125210000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Travelogue</title>
+    <desc lang="en">Explore thousands of unrivalled destinations across the globe. For where to go and what to see, watch Travelogue and let us bring the unforgettable to you(n)</desc>
+    <category lang="en">Travel</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125210000 -0300" stop="20200125213000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125213000 -0300" stop="20200125220000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Closer to China With Robert Kuhn</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200125220000 -0300" stop="20200125223000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200125223000 -0300" stop="20200125230000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200125230000 -0300" stop="20200125233000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125233000 -0300" stop="20200126000000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Rediscover China</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125060000 -0300" stop="20200125063000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Hora Infantil</title>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20200125063000 -0300" stop="20200125070000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200125070000 -0300" stop="20200125073000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200125073000 -0300" stop="20200125080000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Enfoque</title>
+    <desc lang="en">Enfoque se concentrará en historias de alta relevancia, problemas y preocupaciones de la comunidad Latina narradas en un estilo contemporáneo y dinámico(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125080000 -0300" stop="20200125081500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125081500 -0300" stop="20200125083000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125083000 -0300" stop="20200125091500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125091500 -0300" stop="20200125100000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125100000 -0300" stop="20200125103000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Ronda Artística</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200125103000 -0300" stop="20200125110000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200125110000 -0300" stop="20200125113000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">CGTN Noticias</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125113000 -0300" stop="20200125120000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Enfoque</title>
+    <desc lang="en">Enfoque se concentrará en historias de alta relevancia, problemas y preocupaciones de la comunidad Latina narradas en un estilo contemporáneo y dinámico(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125120000 -0300" stop="20200125121500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125121500 -0300" stop="20200125130000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125130000 -0300" stop="20200125140000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Mundo Al Minuto</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200125140000 -0300" stop="20200125144500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125144500 -0300" stop="20200125150000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125150000 -0300" stop="20200125153000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200125153000 -0300" stop="20200125160000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Enfoque</title>
+    <desc lang="en">Enfoque se concentrará en historias de alta relevancia, problemas y preocupaciones de la comunidad Latina narradas en un estilo contemporáneo y dinámico(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125160000 -0300" stop="20200125161500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125161500 -0300" stop="20200125163000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125163000 -0300" stop="20200125171500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125171500 -0300" stop="20200125180000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125180000 -0300" stop="20200125181500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125181500 -0300" stop="20200125183000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125183000 -0300" stop="20200125190000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200125190000 -0300" stop="20200125193000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Enfoque</title>
+    <desc lang="en">Enfoque se concentrará en historias de alta relevancia, problemas y preocupaciones de la comunidad Latina narradas en un estilo contemporáneo y dinámico(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125193000 -0300" stop="20200125200000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Hora Infantil</title>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20200125200000 -0300" stop="20200125201500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Economía Al Día</title>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20200125201500 -0300" stop="20200125203000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200125203000 -0300" stop="20200125211500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125211500 -0300" stop="20200125220000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200125220000 -0300" stop="20200125223000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">CGTN Noticias</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125223000 -0300" stop="20200125230000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200125230000 -0300" stop="20200125233000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200125233000 -0300" stop="20200126000000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Enfoque</title>
+    <desc lang="en">Enfoque se concentrará en historias de alta relevancia, problemas y preocupaciones de la comunidad Latina narradas en un estilo contemporáneo y dinámico(n)</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200125053000 -0300" stop="20200125080000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Women's Singles Quarter-final Riske vs. S. Williams(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125080000 -0300" stop="20200125090000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Jaw Droppers</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200125090000 -0300" stop="20200125110000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Third Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125110000 -0300" stop="20200125120000 -0300" channel="the-tennis-channel">
+    <title lang="en">TC's Signature Series</title>
+    <sub-title lang="en">Rod Laver</sub-title>
+    <desc lang="en">A look at the lives and careers of greats in and around the tennis industry(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200125120000 -0300" stop="20200125130000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Heartbreaks</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200125130000 -0300" stop="20200125140000 -0300" channel="the-tennis-channel">
+    <title lang="en">Decade in Review</title>
+    <desc lang="en">Expert analysts discuss the superstars, rivalries and upsets of the last decade(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200125140000 -0300" stop="20200125200000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Third Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125200000 -0300" stop="20200125210000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Channel Live</title>
+    <sub-title lang="en">Live at the Australian Open</sub-title>
+    <desc lang="en">Discussing the tennis stories of the day with detailed analysis and more(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200125210000 -0300" stop="20200125230000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Fourth Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200125230000 -0300" stop="20200126023000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Singles Semifinal Federer vs. Nadal(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126060000 -0300" stop="20200126063000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126063000 -0300" stop="20200126070000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Faces of Africa</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200126070000 -0300" stop="20200126073000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126073000 -0300" stop="20200126080000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live</title>
+    <category lang="en">Music</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126080000 -0300" stop="20200126083000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">The daily current affairs program aimed at viewers across Asia with in-depth reports from BBC correspondents and interviews with leading players(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126083000 -0300" stop="20200126090000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126090000 -0300" stop="20200126093000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126093000 -0300" stop="20200126100000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126100000 -0300" stop="20200126103000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126103000 -0300" stop="20200126110000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Closer to China With Robert Kuhn</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126110000 -0300" stop="20200126113000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200126113000 -0300" stop="20200126120000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Big Story: Independent Documentary Films From Around the Globe</title>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200126120000 -0300" stop="20200126123000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126123000 -0300" stop="20200126130000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Rediscover China</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200126130000 -0300" stop="20200126133000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126133000 -0300" stop="20200126140000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">China 24</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126140000 -0300" stop="20200126143000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Africa Live From Nairobi</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126143000 -0300" stop="20200126150000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Talk Africa</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200126150000 -0300" stop="20200126153000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Match Point</title>
+    <desc lang="en">African sports from Nairobi(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126153000 -0300" stop="20200126160000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Icon</title>
+    <desc lang="en">Interviews with Chinese celebrities(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126160000 -0300" stop="20200126163000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126163000 -0300" stop="20200126170000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Dialogue: Talk From Beijing</title>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126170000 -0300" stop="20200126173000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126173000 -0300" stop="20200126180000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Crossover</title>
+    <desc lang="en">Lifestyle and culture in China(n)</desc>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126180000 -0300" stop="20200126183000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126183000 -0300" stop="20200126190000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">New Monday</title>
+    <desc lang="en">Perspectives on the week from China(n)</desc>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20200126190000 -0300" stop="20200126193000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Americas Now</title>
+    <desc lang="en">Broadcast news magazine featuring investigative reports, hard news, personality profiles, and feature pieces(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126193000 -0300" stop="20200126200000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Americas Now</title>
+    <desc lang="en">Broadcast news magazine featuring investigative reports, hard news, personality profiles, and feature pieces(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126200000 -0300" stop="20200126203000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126203000 -0300" stop="20200126210000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Face of Africa</title>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126210000 -0300" stop="20200126213000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126213000 -0300" stop="20200126220000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Rediscover China</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20200126220000 -0300" stop="20200126223000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126223000 -0300" stop="20200126230000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Assignment Asia</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126230000 -0300" stop="20200126233000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">The World Today</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126233000 -0300" stop="20200127000000 -0300" channel="cgtn-wnyxld-new-york-ny">
+    <title lang="en">Closer to China With Robert Kuhn</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200126060000 -0300" stop="20200126063000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Hora Infantil</title>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20200126063000 -0300" stop="20200126070000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200126070000 -0300" stop="20200126073000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200126073000 -0300" stop="20200126080000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Puntos de vista</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20200126080000 -0300" stop="20200126081500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126081500 -0300" stop="20200126083000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126083000 -0300" stop="20200126091500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126091500 -0300" stop="20200126100000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126100000 -0300" stop="20200126103000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Ronda Artística</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200126103000 -0300" stop="20200126110000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200126110000 -0300" stop="20200126113000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">CGTN Noticias</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126113000 -0300" stop="20200126120000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Puntos de vista</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20200126120000 -0300" stop="20200126121500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126121500 -0300" stop="20200126130000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126130000 -0300" stop="20200126140000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Mundo Al Minuto</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200126140000 -0300" stop="20200126144500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126144500 -0300" stop="20200126150000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126150000 -0300" stop="20200126153000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200126153000 -0300" stop="20200126160000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Puntos de vista</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20200126160000 -0300" stop="20200126161500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126161500 -0300" stop="20200126163000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126163000 -0300" stop="20200126171500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126171500 -0300" stop="20200126180000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126180000 -0300" stop="20200126181500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">De China A Tu Cocina</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126181500 -0300" stop="20200126183000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Nihao China</title>
+    <category lang="en">Instructional</category>
+  </programme>
+  <programme start="20200126183000 -0300" stop="20200126190000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200126190000 -0300" stop="20200126193000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Puntos de vista</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20200126193000 -0300" stop="20200126200000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Hora Infantil</title>
+    <category lang="en">Children</category>
+  </programme>
+  <programme start="20200126200000 -0300" stop="20200126203000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Economía Al Día</title>
+    <category lang="en">Business</category>
+  </programme>
+  <programme start="20200126203000 -0300" stop="20200126211500 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126211500 -0300" stop="20200126220000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">El Proyector</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200126220000 -0300" stop="20200126223000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">CGTN Noticias</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126223000 -0300" stop="20200126230000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Así Es China</title>
+    <category lang="en">Cultural Magazine</category>
+  </programme>
+  <programme start="20200126230000 -0300" stop="20200126233000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Documental</title>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200126233000 -0300" stop="20200127000000 -0300" channel="cgtn-spanish-wnyxld3-new-york-ny">
+    <title lang="en">Puntos de vista</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20200126043000 -0300" stop="20200126070000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Women's Singles First Round Gauff vs. Potapova(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126070000 -0300" stop="20200126080000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Heartbreaks</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200126080000 -0300" stop="20200126090000 -0300" channel="the-tennis-channel">
+    <title lang="en">The Ten</title>
+    <sub-title lang="en">Upsets</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200126090000 -0300" stop="20200126110000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Fourth Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126110000 -0300" stop="20200126130000 -0300" channel="the-tennis-channel">
+    <title lang="en">Strokes of Genius</title>
+    <desc lang="en">A look at the rivalry between Roger Federer and Rafael Nadal 10 years after the famed 2008 Wimbledon match(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126130000 -0300" stop="20200126200000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Fourth Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126200000 -0300" stop="20200126210000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Channel Live</title>
+    <desc lang="en">Discussing the tennis stories of the day with detailed analysis and more(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200126210000 -0300" stop="20200126230000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis</title>
+    <desc lang="en">Men's and Women's Fourth Round(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200126230000 -0300" stop="20200127050000 -0300" channel="the-tennis-channel">
+    <title lang="en">Tennis Classics</title>
+    <desc lang="en">Singles Final Djokovic vs. Federer(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
 </tv>
