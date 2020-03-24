@@ -5,6 +5,41 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+   <channel id="la_tele_paraguay">
+    <display-name lang="es">LA TELE PARAGUAY</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefuturo">
+    <display-name lang="es">TELEFUTURO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicanal">
+    <display-name lang="es">UNICANAL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">CANAL 5</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">AZTECA 7</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">AZTECA UNO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <display-name lang="es">LAS ESTRELLAS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal 13 de Chile">
     <display-name lang="es">CANAL 13 CHILE</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" />
@@ -56932,5 +56967,986 @@
   </programme>
   <programme start="20200325224500 -0300" stop="20200325230000 -0300" channel="Canal Disney Junior">
     <title lang="es">Nivis: Amigos de otro mundo T</title>
+  </programme>
+  <programme start="20200324010000 -0300" stop="20200324060000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20200324060000 -0300" stop="20200324070000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Voces del paraguay</title>
+  </programme>
+  <programme start="20200324070000 -0300" stop="20200324080000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Karu Porã</title>
+  </programme>
+  <programme start="20200324080000 -0300" stop="20200324090000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Karu Porã</title>
+  </programme>
+  <programme start="20200324090000 -0300" stop="20200324100000 -0300" channel="la_tele_paraguay">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324103000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Franja animada</title>
+  </programme>
+  <programme start="20200324103000 -0300" stop="20200324110000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Franja animada</title>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324120000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Dame Chocolate</title>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324123000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Rosa Diamante</title>
+  </programme>
+  <programme start="20200324123000 -0300" stop="20200324130000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Rosa Diamante</title>
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324140000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Marina</title>
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324143000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele día noticias</title>
+  </programme>
+  <programme start="20200324143000 -0300" stop="20200324150000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele día noticias</title>
+  </programme>
+  <programme start="20200324150000 -0300" stop="20200324153000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Teleshow</title>
+  </programme>
+  <programme start="20200324153000 -0300" stop="20200324160000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Teleshow</title>
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324163000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20200324163000 -0300" stop="20200324170000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20200324170000 -0300" stop="20200324173000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200324173000 -0300" stop="20200324180000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200324180000 -0300" stop="20200324190000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324210000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Mas sabe el diablo</title>
+  </programme>
+  <programme start="20200324210000 -0300" stop="20200324220000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Doña Barbara</title>
+  </programme>
+  <programme start="20200324220000 -0300" stop="20200324230000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele noche noticias</title>
+  </programme>
+  <programme start="20200324010000 -0300" stop="20200324013000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Meridiano Informativo</title>
+  </programme>
+  <programme start="20200324013000 -0300" stop="20200324020000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200324020000 -0300" stop="20200324024500 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200324024500 -0300" stop="20200324063000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200324063000 -0300" stop="20200324100000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324143000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Vive la Vida</title>
+  </programme>
+  <programme start="20200324143000 -0300" stop="20200324160000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Huérfanas</title>
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324170000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Falsa identidad</title>
+  </programme>
+  <programme start="20200324170000 -0300" stop="20200324190000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Vive la tarde</title>
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324200000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20200324200000 -0300" stop="20200324210000 -0300" channel="Canal Telefuturo">
+    <title lang="es">La Venganza de Iffet</title>
+  </programme>
+  <programme start="20200324210000 -0300" stop="20200324220000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20200324220000 -0300" stop="20200324230000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20200324010000 -0300" stop="20200324062000 -0300" channel="Canal Unicanal">
+    <title lang="es">Cierre de programación</title>
+  </programme>
+  <programme start="20200324062000 -0300" stop="20200324085500 -0300" channel="Canal Unicanal">
+    <title lang="es">Paraguay En Vivo</title>
+  </programme>
+  <programme start="20200324085500 -0300" stop="20200324110000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Mañana de Unicanal</title>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324111000 -0300" channel="Canal Unicanal">
+    <title lang="es">Compacto económico</title>
+  </programme>
+  <programme start="20200324111000 -0300" stop="20200324114500 -0300" channel="Canal Unicanal">
+    <title lang="es">Al Instante</title>
+  </programme>
+  <programme start="20200324114500 -0300" stop="20200324124500 -0300" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200324124500 -0300" stop="20200324130000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Cocina de Sarita</title>
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324140000 -0300" channel="Canal Unicanal">
+    <title lang="es">Deportes Unicanal</title>
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324153000 -0300" channel="Canal Unicanal">
+    <title lang="es">Noticiero Unicanal</title>
+  </programme>
+  <programme start="20200324153000 -0300" stop="20200324153500 -0300" channel="Canal Unicanal">
+    <title lang="es">Lo que somos</title>
+  </programme>
+  <programme start="20200324153500 -0300" stop="20200324173000 -0300" channel="Canal Unicanal">
+    <title lang="es">Buenas Tardes</title>
+  </programme>
+  <programme start="20200324173000 -0300" stop="20200324180000 -0300" channel="Canal Unicanal">
+    <title lang="es">Al Instante</title>
+  </programme>
+  <programme start="20200324180000 -0300" stop="20200324190000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324200000 -0300" channel="Canal Unicanal">
+    <title lang="es">Deportes uno</title>
+  </programme>
+  <programme start="20200324200000 -0300" stop="20200324210000 -0300" channel="Canal Unicanal">
+    <title lang="es">Sin Vueltas</title>
+  </programme>
+  <programme start="20200324210000 -0300" stop="20200324223000 -0300" channel="Canal Unicanal">
+    <title lang="es">Noticiero Central</title>
+  </programme>
+  <programme start="20200324013000 -0300" stop="20200324023000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20200324023000 -0300" stop="20200324030000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mamá</title>
+  </programme>
+  <programme start="20200324030000 -0300" stop="20200324050000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324050000 -0300" stop="20200324070000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324070000 -0300" stop="20200324073000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324073000 -0300" stop="20200324080000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200324080000 -0300" stop="20200324093000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200324093000 -0300" stop="20200324100000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Top Wing</title>
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324101500 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peppa pig</title>
+  </programme>
+  <programme start="20200324101500 -0300" stop="20200324103000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200324103000 -0300" stop="20200324110000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paw Patrol</title>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324113000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en pijamas</title>
+  </programme>
+  <programme start="20200324113000 -0300" stop="20200324120000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las Aventuras de Tip y Oh</title>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324130000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rugrats: Aventuras en Pañales</title>
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324140000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Danny Phantom</title>
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324150000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20200324150000 -0300" stop="20200324160000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">kung fu panda</title>
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324173000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200324173000 -0300" stop="20200324190000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324203000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20200324203000 -0300" stop="20200324220000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20200324220000 -0300" stop="20200324233000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200324010000 -0300" stop="20200324024500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mentes Criminales</title>
+    <title lang="xx">Criminal Minds</title>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.(n)</desc>
+    <credits>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A. J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200324024500 -0300" stop="20200324040000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200324040000 -0300" stop="20200324053000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324053000 -0300" stop="20200324073000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324073000 -0300" stop="20200324081500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324081500 -0300" stop="20200324083000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200324083000 -0300" stop="20200324093000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324093000 -0300" stop="20200324100000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20200324100000 -0300" stop="20200324103000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bubu y las lechucitas</title>
+  </programme>
+  <programme start="20200324103000 -0300" stop="20200324110000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324113000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20200324113000 -0300" stop="20200324120000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324123000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mickey:Aventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200324123000 -0300" stop="20200324130000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Nivis: Amigos de otro mundo</title>
+  </programme>
+  <programme start="20200324130000 -0300" stop="20200324133000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20200324133000 -0300" stop="20200324140000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324143000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20200324143000 -0300" stop="20200324150000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Super 4</title>
+  </programme>
+  <programme start="20200324150000 -0300" stop="20200324160000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Larva</title>
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324170000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">El increíble mundo de gumball</title>
+  </programme>
+  <programme start="20200324170000 -0300" stop="20200324180000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200324180000 -0300" stop="20200324193000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200324193000 -0300" stop="20200324203000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200324203000 -0300" stop="20200324210000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Fail Army</title>
+  </programme>
+  <programme start="20200324210000 -0300" stop="20200324220000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20200324220000 -0300" stop="20200324230000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Grey's Anatomy</title>
+    <title lang="xx">Grey's Anatomy</title>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital.(n)</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Sandra Oh</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Justin Chambers</actor>
+      <actor>T. R. Knight</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr.</actor>
+      <actor>Isaiah Washington</actor>
+      <producer>Gabrielle Stanton</producer>
+      <producer>Harry Werksman</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/grey_s_anatomy.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200324013000 -0300" stop="20200324021500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200324021500 -0300" stop="20200324023000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200324023000 -0300" stop="20200324030000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200324030000 -0300" stop="20200324031500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20200324031500 -0300" stop="20200324040000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20200324040000 -0300" stop="20200324070000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324070000 -0300" stop="20200324071500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200324071500 -0300" stop="20200324080000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324080000 -0300" stop="20200324083000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200324083000 -0300" stop="20200324085500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200324085500 -0300" stop="20200324120000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324140000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200324140000 -0300" stop="20200324160000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200324160000 -0300" stop="20200324170000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200324170000 -0300" stop="20200324180000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200324180000 -0300" stop="20200324190000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20200324190000 -0300" stop="20200324203000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200324203000 -0300" stop="20200324223000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Enamorándonos</title>
+  </programme>
+  <programme start="20200324003000 -0300" stop="20200324013000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Sin miedo a la verdad</title>
+    <episode-num system="onscreen">S3</episode-num>
+  </programme>
+  <programme start="20200324013000 -0300" stop="20200324020000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200324020000 -0300" stop="20200324023000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Los Pecados de Bárbara</title>
+  </programme>
+  <programme start="20200324023000 -0300" stop="20200324030000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200324030000 -0300" stop="20200324040000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200324040000 -0300" stop="20200324073000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200324073000 -0300" stop="20200324080000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200324080000 -0300" stop="20200324083000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200324083000 -0300" stop="20200324090000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200324090000 -0300" stop="20200324093000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200324093000 -0300" stop="20200324110000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200324110000 -0300" stop="20200324120000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200324120000 -0300" stop="20200324150000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200324150000 -0300" stop="20200324163000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200324163000 -0300" stop="20200324173000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200324173000 -0300" stop="20200324183000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Que pobres tan ricos</title>
+  </programme>
+  <programme start="20200324183000 -0300" stop="20200324203000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20200324203000 -0300" stop="20200324213000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200324213000 -0300" stop="20200324223000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20200324223000 -0300" stop="20200324233000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325060000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Fuera del Aire</title>
+  </programme>
+  <programme start="20200325060000 -0300" stop="20200325070000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Voces del paraguay</title>
+  </programme>
+  <programme start="20200325070000 -0300" stop="20200325080000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Karu Porã</title>
+  </programme>
+  <programme start="20200325080000 -0300" stop="20200325090000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Karu Porã</title>
+  </programme>
+  <programme start="20200325090000 -0300" stop="20200325100000 -0300" channel="la_tele_paraguay">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200325100000 -0300" stop="20200325103000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Franja animada</title>
+  </programme>
+  <programme start="20200325103000 -0300" stop="20200325110000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Franja animada</title>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325120000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Dame Chocolate</title>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325123000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Rosa Diamante</title>
+  </programme>
+  <programme start="20200325123000 -0300" stop="20200325130000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Rosa Diamante</title>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325140000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Marina</title>
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325143000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele día noticias</title>
+  </programme>
+  <programme start="20200325143000 -0300" stop="20200325150000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele día noticias</title>
+  </programme>
+  <programme start="20200325150000 -0300" stop="20200325153000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Teleshow</title>
+  </programme>
+  <programme start="20200325153000 -0300" stop="20200325160000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Teleshow</title>
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325163000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20200325163000 -0300" stop="20200325170000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Corazón valiente</title>
+  </programme>
+  <programme start="20200325170000 -0300" stop="20200325173000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200325173000 -0300" stop="20200325180000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200325180000 -0300" stop="20200325190000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325210000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Mas sabe el diablo</title>
+  </programme>
+  <programme start="20200325210000 -0300" stop="20200325220000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Doña Barbara</title>
+  </programme>
+  <programme start="20200325220000 -0300" stop="20200325230000 -0300" channel="la_tele_paraguay">
+    <title lang="es">Tele noche noticias</title>
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325013000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200325013000 -0300" stop="20200325020000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200325020000 -0300" stop="20200325024500 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200325024500 -0300" stop="20200325063000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200325063000 -0300" stop="20200325130000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325143000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Meridiano Informativo</title>
+  </programme>
+  <programme start="20200325143000 -0300" stop="20200325160000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Huérfanas</title>
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325170000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Falsa identidad</title>
+  </programme>
+  <programme start="20200325170000 -0300" stop="20200325190000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Vive la tarde</title>
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325200000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20200325200000 -0300" stop="20200325210000 -0300" channel="Canal Telefuturo">
+    <title lang="es">La Venganza de Iffet</title>
+  </programme>
+  <programme start="20200325210000 -0300" stop="20200325220000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20200325220000 -0300" stop="20200325230000 -0300" channel="Canal Telefuturo">
+    <title lang="es">Mujer</title>
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325062000 -0300" channel="Canal Unicanal">
+    <title lang="es">Cierre de programación</title>
+  </programme>
+  <programme start="20200325062000 -0300" stop="20200325085500 -0300" channel="Canal Unicanal">
+    <title lang="es">Paraguay En Vivo</title>
+  </programme>
+  <programme start="20200325085500 -0300" stop="20200325110000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Mañana de Unicanal</title>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325111000 -0300" channel="Canal Unicanal">
+    <title lang="es">Compacto económico</title>
+  </programme>
+  <programme start="20200325111000 -0300" stop="20200325114500 -0300" channel="Canal Unicanal">
+    <title lang="es">Al Instante</title>
+  </programme>
+  <programme start="20200325114500 -0300" stop="20200325124500 -0300" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200325124500 -0300" stop="20200325130000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Cocina de Sarita</title>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325140000 -0300" channel="Canal Unicanal">
+    <title lang="es">Deportes Unicanal</title>
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325153000 -0300" channel="Canal Unicanal">
+    <title lang="es">Noticiero Unicanal</title>
+  </programme>
+  <programme start="20200325153000 -0300" stop="20200325153500 -0300" channel="Canal Unicanal">
+    <title lang="es">Lo que somos</title>
+  </programme>
+  <programme start="20200325153500 -0300" stop="20200325173000 -0300" channel="Canal Unicanal">
+    <title lang="es">Buenas Tardes</title>
+  </programme>
+  <programme start="20200325173000 -0300" stop="20200325180000 -0300" channel="Canal Unicanal">
+    <title lang="es">Al Instante</title>
+  </programme>
+  <programme start="20200325180000 -0300" stop="20200325190000 -0300" channel="Canal Unicanal">
+    <title lang="es">La Hora de las Compras</title>
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325200000 -0300" channel="Canal Unicanal">
+    <title lang="es">Deportes uno</title>
+  </programme>
+  <programme start="20200325200000 -0300" stop="20200325210000 -0300" channel="Canal Unicanal">
+    <title lang="es">Sin Vueltas</title>
+  </programme>
+  <programme start="20200325210000 -0300" stop="20200325223000 -0300" channel="Canal Unicanal">
+    <title lang="es">Noticiero Central</title>
+  </programme>
+  <programme start="20200325013000 -0300" stop="20200325023000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20200325023000 -0300" stop="20200325030000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mamá</title>
+  </programme>
+  <programme start="20200325030000 -0300" stop="20200325040000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200325040000 -0300" stop="20200325043000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20200325043000 -0300" stop="20200325073000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325073000 -0300" stop="20200325080000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200325080000 -0300" stop="20200325093000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200325093000 -0300" stop="20200325100000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Top Wing</title>
+  </programme>
+  <programme start="20200325100000 -0300" stop="20200325101500 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peppa pig</title>
+  </programme>
+  <programme start="20200325101500 -0300" stop="20200325103000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200325103000 -0300" stop="20200325110000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325113000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en pijamas</title>
+  </programme>
+  <programme start="20200325113000 -0300" stop="20200325120000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las Aventuras de Tip y Oh</title>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325130000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rugrats: Aventuras en Pañales</title>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325140000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Danny Phantom</title>
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325150000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20200325150000 -0300" stop="20200325160000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325173000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200325173000 -0300" stop="20200325190000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Faberbakke</actor>
+      <actor>Rodger Bumpass</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325203000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Victorious</title>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.(n)</desc>
+    <credits>
+      <actor>Victoria Justice</actor>
+      <producer>Robin Weiner</producer>
+      <producer>Joe Catania</producer>
+      <composer>Michael Corcoran</composer>
+      <composer>Dr. Luke</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Juvenil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/victorious.png" />
+  </programme>
+  <programme start="20200325203000 -0300" stop="20200325220000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">iCarly</title>
+  </programme>
+  <programme start="20200325220000 -0300" stop="20200325233000 -0300" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200325010000 -0300" stop="20200325024500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mentes Criminales</title>
+    <title lang="xx">Criminal Minds</title>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.(n)</desc>
+    <credits>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A. J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200325024500 -0300" stop="20200325031500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200325031500 -0300" stop="20200325053000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325053000 -0300" stop="20200325073000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325073000 -0300" stop="20200325081500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325081500 -0300" stop="20200325083000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200325083000 -0300" stop="20200325093000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325093000 -0300" stop="20200325100000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Gallinita Pintadita</title>
+  </programme>
+  <programme start="20200325100000 -0300" stop="20200325103000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rainbow Ruby</title>
+  </programme>
+  <programme start="20200325103000 -0300" stop="20200325110000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325113000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20200325113000 -0300" stop="20200325120000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325123000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mickey:Aventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200325123000 -0300" stop="20200325124500 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20200325124500 -0300" stop="20200325130000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Nivis: Amigos de otro mundo</title>
+  </programme>
+  <programme start="20200325130000 -0300" stop="20200325133000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20200325133000 -0300" stop="20200325140000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325143000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20200325143000 -0300" stop="20200325150000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">¡Kazoops</title>
+  </programme>
+  <programme start="20200325150000 -0300" stop="20200325160000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Pandilla de la Selva</title>
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325170000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">El increíble mundo de gumball</title>
+  </programme>
+  <programme start="20200325170000 -0300" stop="20200325180000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200325180000 -0300" stop="20200325193000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200325193000 -0300" stop="20200325203000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200325203000 -0300" stop="20200325210000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Fail Army</title>
+  </programme>
+  <programme start="20200325210000 -0300" stop="20200325220000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20200325220000 -0300" stop="20200325230000 -0300" channel="Canal Azteca 7  (México)">
+    <title lang="es">Grey's Anatomy</title>
+    <title lang="xx">Grey's Anatomy</title>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital.(n)</desc>
+    <credits>
+      <actor>Ellen Pompeo</actor>
+      <actor>Sandra Oh</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Justin Chambers</actor>
+      <actor>T. R. Knight</actor>
+      <actor>Chandra Wilson</actor>
+      <actor>James Pickens Jr.</actor>
+      <actor>Isaiah Washington</actor>
+      <producer>Gabrielle Stanton</producer>
+      <producer>Harry Werksman</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/grey_s_anatomy.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20200325013000 -0300" stop="20200325021500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200325021500 -0300" stop="20200325023000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200325023000 -0300" stop="20200325030000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200325030000 -0300" stop="20200325031500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20200325031500 -0300" stop="20200325040000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20200325040000 -0300" stop="20200325070000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325070000 -0300" stop="20200325071500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200325071500 -0300" stop="20200325080000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325080000 -0300" stop="20200325083000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200325083000 -0300" stop="20200325085500 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200325085500 -0300" stop="20200325120000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325140000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200325140000 -0300" stop="20200325160000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200325160000 -0300" stop="20200325170000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20200325170000 -0300" stop="20200325180000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200325180000 -0300" stop="20200325190000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20200325190000 -0300" stop="20200325203000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20200325203000 -0300" stop="20200325223000 -0300" channel="Canal Azteca Uno">
+    <title lang="es">Enamorándonos</title>
+  </programme>
+  <programme start="20200325003000 -0300" stop="20200325013000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Sin miedo a la verdad</title>
+    <episode-num system="onscreen">S3</episode-num>
+  </programme>
+  <programme start="20200325013000 -0300" stop="20200325020000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200325020000 -0300" stop="20200325023000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Los Pecados de Bárbara</title>
+  </programme>
+  <programme start="20200325023000 -0300" stop="20200325030000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200325030000 -0300" stop="20200325040000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200325040000 -0300" stop="20200325073000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200325073000 -0300" stop="20200325080000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200325080000 -0300" stop="20200325083000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200325083000 -0300" stop="20200325090000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200325090000 -0300" stop="20200325093000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200325093000 -0300" stop="20200325110000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200325110000 -0300" stop="20200325120000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200325120000 -0300" stop="20200325150000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200325150000 -0300" stop="20200325163000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200325163000 -0300" stop="20200325173000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200325173000 -0300" stop="20200325183000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Que pobres tan ricos</title>
+  </programme>
+  <programme start="20200325183000 -0300" stop="20200325203000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20200325203000 -0300" stop="20200325213000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200325213000 -0300" stop="20200325223000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20200325223000 -0300" stop="20200325233000 -0300" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
 </tv>
