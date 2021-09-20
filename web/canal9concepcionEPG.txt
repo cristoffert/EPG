@@ -1,0 +1,471 @@
+ <channel id="canal 9 bio bio tv">
+    <display-name lang="es">CANAL 9 CONCEPCION</display-name>
+  </channel>
+<programme start="20200106002000 -0400" stop="20200106003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200106003000 -0400" stop="20200106010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200106010000 -0400" stop="20200106063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200106063000 -0400" stop="20200106073000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200106073000 -0400" stop="20200106081500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Matinal</title>
+</programme>
+<programme start="20200106081500 -0400" stop="20200106110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa</title>
+</programme>
+<programme start="20200106110000 -0400" stop="20200106110500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200106110500 -0400" stop="20200106123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa (En Vivo)</title>
+</programme>
+<programme start="20200106123000 -0400" stop="20200106134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200106134500 -0400" stop="20200106143000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200106143000 -0400" stop="20200106151500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">El Tablón (Repetición)</title>
+</programme>
+<programme start="20200106151500 -0400" stop="20200106153000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200106153000 -0400" stop="20200106160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200106160000 -0400" stop="20200106163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Video Hits</title>
+</programme>
+<programme start="20200106163000 -0400" stop="20200106170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200106170000 -0400" stop="20200106190000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar</title>
+</programme>
+<programme start="20200106190000 -0400" stop="20200106191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200106191500 -0400" stop="20200106204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor</title>
+</programme>
+<programme start="20200106204500 -0400" stop="20200106213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200106213000 -0400" stop="20200106214500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista</title>
+</programme>
+<programme start="20200106214500 -0400" stop="20200106221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200106221500 -0400" stop="20200106230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Frente Regional</title>
+</programme>
+<programme start="20200106230000 -0400" stop="20200107002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200107002000 -0400" stop="20200107003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200107003000 -0400" stop="20200107010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200107010000 -0400" stop="20200107063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200107063000 -0400" stop="20200107073000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200107073000 -0400" stop="20200107081500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Matinal</title>
+</programme>
+<programme start="20200107081500 -0400" stop="20200107110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa</title>
+</programme>
+<programme start="20200107110000 -0400" stop="20200107110500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200107110500 -0400" stop="20200107123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa (En Vivo)</title>
+</programme>
+<programme start="20200107123000 -0400" stop="20200107134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200107134500 -0400" stop="20200107143000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200107143000 -0400" stop="20200107151500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista (Repetición)</title>
+</programme>
+<programme start="20200107151500 -0400" stop="20200107153000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Frente Regional (Repetición)</title>
+</programme>
+<programme start="20200107153000 -0400" stop="20200107160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200107160000 -0400" stop="20200107163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Video Hits</title>
+</programme>
+<programme start="20200107163000 -0400" stop="20200107170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Doctora De Animales</title>
+</programme>
+<programme start="20200107170000 -0400" stop="20200107190000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar</title>
+</programme>
+<programme start="20200107190000 -0400" stop="20200107191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200107191500 -0400" stop="20200107204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor</title>
+</programme>
+<programme start="20200107204500 -0400" stop="20200107213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200107213000 -0400" stop="20200107214500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia</title>
+</programme>
+<programme start="20200107214500 -0400" stop="20200107221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200107221500 -0400" stop="20200107230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">En El Set, Fdo. Gonzalez</title>
+</programme>
+<programme start="20200107230000 -0400" stop="20200108002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200108002000 -0400" stop="20200108003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200108003000 -0400" stop="20200108010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200108010000 -0400" stop="20200108063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200108063000 -0400" stop="20200108073000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200108073000 -0400" stop="20200108081500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Matinal</title>
+</programme>
+<programme start="20200108081500 -0400" stop="20200108110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa</title>
+</programme>
+<programme start="20200108110000 -0400" stop="20200108110500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200108110500 -0400" stop="20200108123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa (En Vivo)</title>
+</programme>
+<programme start="20200108123000 -0400" stop="20200108134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200108134500 -0400" stop="20200108143000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200108143000 -0400" stop="20200108151500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200108151500 -0400" stop="20200108153000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">En El Set, Fdo. González</title>
+</programme>
+<programme start="20200108153000 -0400" stop="20200108160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200108160000 -0400" stop="20200108163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Video Hits</title>
+</programme>
+<programme start="20200108163000 -0400" stop="20200108170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Talcahuano Ciudad Noticias</title>
+</programme>
+<programme start="20200108170000 -0400" stop="20200108190000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar</title>
+</programme>
+<programme start="20200108190000 -0400" stop="20200108191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200108191500 -0400" stop="20200108204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor</title>
+</programme>
+<programme start="20200108204500 -0400" stop="20200108213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200108213000 -0400" stop="20200108214500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista</title>
+</programme>
+<programme start="20200108214500 -0400" stop="20200108221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista</title>
+</programme>
+<programme start="20200108221500 -0400" stop="20200108230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia</title>
+</programme>
+<programme start="20200108230000 -0400" stop="20200109002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200109002000 -0400" stop="20200109003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200109003000 -0400" stop="20200109010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200109010000 -0400" stop="20200109063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200109063000 -0400" stop="20200109073000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200109073000 -0400" stop="20200109081500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Matinal</title>
+</programme>
+<programme start="20200109081500 -0400" stop="20200109110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa</title>
+</programme>
+<programme start="20200109110000 -0400" stop="20200109110500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200109110500 -0400" stop="20200109123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa (En Vivo)</title>
+</programme>
+<programme start="20200109123000 -0400" stop="20200109134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200109134500 -0400" stop="20200109143000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200109143000 -0400" stop="20200109151500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista (Repetición)</title>
+</programme>
+<programme start="20200109151500 -0400" stop="20200109153000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200109153000 -0400" stop="20200109160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200109160000 -0400" stop="20200109163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Video Hits</title>
+</programme>
+<programme start="20200109163000 -0400" stop="20200109170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Doctora De Animales</title>
+</programme>
+<programme start="20200109170000 -0400" stop="20200109190000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar</title>
+</programme>
+<programme start="20200109190000 -0400" stop="20200109191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200109191500 -0400" stop="20200109204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor</title>
+</programme>
+<programme start="20200109204500 -0400" stop="20200109213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200109213000 -0400" stop="20200109214500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Del Fin Del Mundo</title>
+</programme>
+<programme start="20200109214500 -0400" stop="20200109221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200109221500 -0400" stop="20200109230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Diálogo</title>
+</programme>
+<programme start="20200109230000 -0400" stop="20200110002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200110002000 -0400" stop="20200110003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200110003000 -0400" stop="20200110010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200110010000 -0400" stop="20200110063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200110063000 -0400" stop="20200110073000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200110073000 -0400" stop="20200110081500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Matinal</title>
+</programme>
+<programme start="20200110081500 -0400" stop="20200110110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa</title>
+</programme>
+<programme start="20200110110000 -0400" stop="20200110110500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200110110500 -0400" stop="20200110123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa (En Vivo)</title>
+</programme>
+<programme start="20200110123000 -0400" stop="20200110134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200110134500 -0400" stop="20200110143000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200110143000 -0400" stop="20200110151500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Del Fin Del Mundo (Repetición)</title>
+</programme>
+<programme start="20200110151500 -0400" stop="20200110153000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Diálogo (Repetición)</title>
+</programme>
+<programme start="20200110153000 -0400" stop="20200110160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200110160000 -0400" stop="20200110163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Video Hits</title>
+</programme>
+<programme start="20200110163000 -0400" stop="20200110170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200110170000 -0400" stop="20200110190000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar</title>
+</programme>
+<programme start="20200110190000 -0400" stop="20200110191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Avance de noticias</title>
+</programme>
+<programme start="20200110191500 -0400" stop="20200110204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor</title>
+</programme>
+<programme start="20200110204500 -0400" stop="20200110213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200110213000 -0400" stop="20200110214500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">El Tablón</title>
+</programme>
+<programme start="20200110214500 -0400" stop="20200110221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200110221500 -0400" stop="20200110230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia</title>
+</programme>
+<programme start="20200110230000 -0400" stop="20200111002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200111003000 -0400" stop="20200111010000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200111010000 -0400" stop="20200111093000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200111093000 -0400" stop="20200111100000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Iglesia Universal</title>
+</programme>
+<programme start="20200111100000 -0400" stop="20200111103000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Bloque Infantil</title>
+</programme>
+<programme start="20200111103000 -0400" stop="20200111110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar (Repetición)</title>
+</programme>
+<programme start="20200111110000 -0400" stop="20200111113000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Dulce Patria</title>
+</programme>
+<programme start="20200111113000 -0400" stop="20200111123000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Frente Regional (Repetición)</title>
+</programme>
+<programme start="20200111123000 -0400" stop="20200111130000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200111130000 -0400" stop="20200111134500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Doctora De Animales (Repetición)</title>
+</programme>
+<programme start="20200111134500 -0400" stop="20200111160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias Mediodía</title>
+</programme>
+<programme start="20200111160000 -0400" stop="20200111183000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor de la semana</title>
+</programme>
+<programme start="20200111183000 -0400" stop="20200111201500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">En El Set, Fdo. Gonzalez</title>
+</programme>
+<programme start="20200111201500 -0400" stop="20200111204500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sin Programación</title>
+</programme>
+<programme start="20200111204500 -0400" stop="20200111213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias central</title>
+</programme>
+<programme start="20200111213000 -0400" stop="20200111221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Del Fin Del Mundo</title>
+</programme>
+<programme start="20200111221500 -0400" stop="20200111223000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Sesiones BioBio TV</title>
+</programme>
+<programme start="20200111223000 -0400" stop="20200111233000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Noticias noche</title>
+</programme>
+<programme start="20200111233000 -0400" stop="20200111234000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seul</title>
+</programme>
+<programme start="20200111234000 -0400" stop="20200112000000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200112000000 -0400" stop="20200112003000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Iglesia Universal</title>
+</programme>
+<programme start="20200112003000 -0400" stop="20200112063000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Cartones Publicitarios</title>
+</programme>
+<programme start="20200112063000 -0400" stop="20200112090000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infórmate Primero</title>
+</programme>
+<programme start="20200112090000 -0400" stop="20200112093000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Iglesia Universal</title>
+</programme>
+<programme start="20200112093000 -0400" stop="20200112094500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Bloque Infantil</title>
+</programme>
+<programme start="20200112094500 -0400" stop="20200112101500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Unidad Evangélica</title>
+</programme>
+<programme start="20200112101500 -0400" stop="20200112103000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Infomercial Seúl</title>
+</programme>
+<programme start="20200112103000 -0400" stop="20200112110000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Doctora De Animales (Repetición)</title>
+</programme>
+<programme start="20200112110000 -0400" stop="20200112113000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista (Repetición día Lunes)</title>
+</programme>
+<programme start="20200112113000 -0400" stop="20200112120000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Tomás Mosciatti, La entrevista (Repetición día Miércoles)</title>
+</programme>
+<programme start="20200112120000 -0400" stop="20200112160000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Nuestra casa, lo mejor de la semana</title>
+</programme>
+<programme start="20200112160000 -0400" stop="20200112163000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Extraescolar (Repetición)</title>
+</programme>
+<programme start="20200112163000 -0400" stop="20200112170000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Diálogo (Repetición)</title>
+</programme>
+<programme start="20200112170000 -0400" stop="20200112173000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">En El Set, Fdo. González</title>
+</programme>
+<programme start="20200112173000 -0400" stop="20200112183000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Dulce Patria (Repetición)</title>
+</programme>
+<programme start="20200112183000 -0400" stop="20200112191500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Del Fin Del Mundo</title>
+</programme>
+<programme start="20200112191500 -0400" stop="20200112213000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Costumbres De Mi Tierra (Repetición)</title>
+</programme>
+<programme start="20200112213000 -0400" stop="20200112221500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">El Tablón (Repetición)</title>
+</programme>
+<programme start="20200112221500 -0400" stop="20200112223000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Linea Abierta - UBB</title>
+</programme>
+<programme start="20200112223000 -0400" stop="20200112230000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Talcahuano Ciudad Noticias</title>
+</programme>
+<programme start="20200112230000 -0400" stop="20200112234500 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Agenda Propia (Repetición)</title>
+</programme>
+<programme start="20200112234500 -0400" stop="20200113002000 -0400" channel="canal 9 bio bio tv">
+    <title lang="es">Creadores / En El Set, Fdo. Gonzalez</title>
+</programme>
