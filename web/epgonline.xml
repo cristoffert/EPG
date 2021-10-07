@@ -4,40 +4,156 @@
     <display-name lang="es">CL | MEGA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Mega ">
+    <display-name lang="es">CL | MEGA *HD | Op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Mega ">
+    <display-name lang="es">CL | MEGA *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Mega ">
+    <display-name lang="es">CL | MEGA *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal 13 de Chile">
     <display-name lang="es">CL | CANAL 13 *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Chile">
+    <display-name lang="es">CL | CANAL 13 *FHD | Directo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Chile">
+    <display-name lang="es">CL | CANAL 13 *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Chile">
+    <display-name lang="es">CL | CANAL 13 *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <channel id="Canal 13 de Chile">
+    <display-name lang="es">CL | CANAL 13 *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Chilevisión (CHV)">
     <display-name lang="es">CL | CHV *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">CL | CHV *FHD | Directo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">CL | CHV *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">CL | CHV *HD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">CL | CHV *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Chilevisión (CHV)">
+    <display-name lang="es">CL | CHV *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal La Red (Chile)">
     <display-name lang="es">CL | LA RED *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal La Red (Chile)">
+    <display-name lang="es">CL | LA RED *FHD | Directo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal La Red (Chile)">
+    <display-name lang="es">CL | LA RED *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal La Red (Chile)">
+    <display-name lang="es">CL | LA RED *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal 24 Horas TVN">
     <display-name lang="es">CL | 24 HORAS *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+   <channel id="Canal 24 Horas TVN">
+    <display-name lang="es">CL | 24 HORAS *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <channel id="Canal 24 Horas TVN">
+    <display-name lang="es">CL | 24 HORAS *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal TV Chile">
     <display-name lang="es">CL | TV CHILE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">CL | TV CHILE *HD | Directo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">CL | TV CHILE *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Chile">
+    <display-name lang="es">CL | TV CHILE *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="tvn chile">
     <display-name lang="es">CL | TVN *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="tvn chile">
+    <display-name lang="es">CL | TVN *FHD | Directo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="tvn chile">
+    <display-name lang="es">CL | TVN *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="tvn chile">
+    <display-name lang="es">CL | TVN *HD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="tvn chile">
+    <display-name lang="es">CL | TVN *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="tvn chile">
+    <display-name lang="es">CL | TVN *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="cnn_chile">
-    <display-name lang="es">CNN CHILE</display-name>
+    <display-name lang="es">CL | CNN Chile *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <channel id="cnn_chile">
+    <display-name lang="es">CL | CNN Chile *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <channel id="cnn_chile">
+    <display-name lang="es">CL | CNN Chile *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Vía X">
     <display-name lang="es">CL | VIAX *HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+   <channel id="Canal Vía X">
+    <display-name lang="es">CL | VIAX *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="ZONA LATINA">
     <display-name lang="es">CL | ZONA LATINA *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+   <channel id="ZONA LATINA">
+    <display-name lang="es">CL | ZONA LATINA *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20211007003000 -0300" stop="20211007013000 -0300" channel="Canal Mega ">
