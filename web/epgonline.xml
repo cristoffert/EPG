@@ -4,55 +4,58 @@
     <display-name lang="es">MEGA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210920001500 -0300" stop="20210920010000 -0300" channel="Canal Mega ">
-    <title lang="es">Demente</title>
+  <programme start="20211007003000 -0300" stop="20211007013000 -0300" channel="Canal Mega ">
+    <title lang="es">Cukur</title>
   </programme>
-  <programme start="20210920010000 -0300" stop="20210920054500 -0300" channel="Canal Mega ">
+  <programme start="20211007013000 -0300" stop="20211007014500 -0300" channel="Canal Mega ">
+    <title lang="es">Rock Story</title>
+  </programme>
+  <programme start="20211007014500 -0300" stop="20211007054500 -0300" channel="Canal Mega ">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20210920054500 -0300" stop="20210920063000 -0300" channel="Canal Mega ">
+  <programme start="20211007054500 -0300" stop="20211007063000 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias amanece</title>
   </programme>
-  <programme start="20210920063000 -0300" stop="20210920080000 -0300" channel="Canal Mega ">
+  <programme start="20211007063000 -0300" stop="20211007080000 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias conecta</title>
   </programme>
-  <programme start="20210920080000 -0300" stop="20210920130000 -0300" channel="Canal Mega ">
+  <programme start="20211007080000 -0300" stop="20211007130000 -0300" channel="Canal Mega ">
     <title lang="es">Mucho gusto</title>
   </programme>
-  <programme start="20210920130000 -0300" stop="20210920152500 -0300" channel="Canal Mega ">
+  <programme start="20211007130000 -0300" stop="20211007152500 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias actualiza</title>
   </programme>
-  <programme start="20210920152500 -0300" stop="20210920153000 -0300" channel="Canal Mega ">
+  <programme start="20211007152500 -0300" stop="20211007153000 -0300" channel="Canal Mega ">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210920153000 -0300" stop="20210920154500 -0300" channel="Canal Mega ">
+  <programme start="20211007153000 -0300" stop="20211007154500 -0300" channel="Canal Mega ">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20210920154500 -0300" stop="20210920162000 -0300" channel="Canal Mega ">
+  <programme start="20211007154500 -0300" stop="20211007162000 -0300" channel="Canal Mega ">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20210920162000 -0300" stop="20210920171000 -0300" channel="Canal Mega ">
+  <programme start="20211007162000 -0300" stop="20211007171000 -0300" channel="Canal Mega ">
     <title lang="es">Dulce ambición</title>
   </programme>
-  <programme start="20210920171000 -0300" stop="20210920180000 -0300" channel="Canal Mega ">
+  <programme start="20211007171000 -0300" stop="20211007180000 -0300" channel="Canal Mega ">
     <title lang="es">Zuleyha</title>
   </programme>
-  <programme start="20210920180000 -0300" stop="20210920185000 -0300" channel="Canal Mega ">
+  <programme start="20211007180000 -0300" stop="20211007185000 -0300" channel="Canal Mega ">
     <title lang="es">La hora de jugar</title>
   </programme>
-  <programme start="20210920185000 -0300" stop="20210920195000 -0300" channel="Canal Mega ">
+  <programme start="20211007185000 -0300" stop="20211007195000 -0300" channel="Canal Mega ">
     <title lang="es">Isla paraíso</title>
   </programme>
-  <programme start="20210920195000 -0300" stop="20210920210000 -0300" channel="Canal Mega ">
+  <programme start="20211007195000 -0300" stop="20211007210000 -0300" channel="Canal Mega ">
     <title lang="es">Pobre Novio</title>
   </programme>
-  <programme start="20210920210000 -0300" stop="20210920222500 -0300" channel="Canal Mega ">
+  <programme start="20211007210000 -0300" stop="20211007222500 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias Prime</title>
   </programme>
-  <programme start="20210920222500 -0300" stop="20210920223000 -0300" channel="Canal Mega ">
+  <programme start="20211007222500 -0300" stop="20211007223000 -0300" channel="Canal Mega ">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20210920223000 -0300" stop="20210920231500 -0300" channel="Canal Mega ">
+  <programme start="20211007223000 -0300" stop="20211007233000 -0300" channel="Canal Mega ">
     <title lang="es">Demente</title>
   </programme>
 </tv>
