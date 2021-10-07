@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal Mega ">
-    <display-name lang="es">MEGA *FHD</display-name>
+    <display-name lang="es">CL | MEGA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20211007003000 -0300" stop="20211007013000 -0300" channel="Canal Mega ">
