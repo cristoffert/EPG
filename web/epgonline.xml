@@ -4,216 +4,105 @@
     <display-name lang="es">CL | MEGA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Mega ">
-    <display-name lang="es">CL | MEGA *HD | Op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Mega ">
-    <display-name lang="es">CL | MEGA *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Mega ">
-    <display-name lang="es">CL | MEGA *HQ</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal 13 de Chile">
     <display-name lang="es">CL | CANAL 13 *FHD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal 13 de Chile">
-    <display-name lang="es">CL | CANAL 13 *FHD | Directo</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal 13 de Chile">
-    <display-name lang="es">CL | CANAL 13 *FHD | op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal 13 de Chile">
-    <display-name lang="es">CL | CANAL 13 *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-   <channel id="Canal 13 de Chile">
-    <display-name lang="es">CL | CANAL 13 *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Chilevisión (CHV)">
     <display-name lang="es">CL | CHV *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Chilevisión (CHV)">
-    <display-name lang="es">CL | CHV *FHD | Directo</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Chilevisión (CHV)">
-    <display-name lang="es">CL | CHV *FHD | op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Chilevisión (CHV)">
-    <display-name lang="es">CL | CHV *HD | op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Chilevisión (CHV)">
-    <display-name lang="es">CL | CHV *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Chilevisión (CHV)">
-    <display-name lang="es">CL | CHV *HQ</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal La Red (Chile)">
     <display-name lang="es">CL | LA RED *FHD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal La Red (Chile)">
-    <display-name lang="es">CL | LA RED *FHD | Directo</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal La Red (Chile)">
-    <display-name lang="es">CL | LA RED *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal La Red (Chile)">
-    <display-name lang="es">CL | LA RED *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal 24 Horas TVN">
     <display-name lang="es">CL | 24 HORAS *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-   <channel id="Canal 24 Horas TVN">
-    <display-name lang="es">CL | 24 HORAS *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-   <channel id="Canal 24 Horas TVN">
-    <display-name lang="es">CL | 24 HORAS *HQ</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal TV Chile">
     <display-name lang="es">CL | TV CHILE *FHD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal TV Chile">
-    <display-name lang="es">CL | TV CHILE *HD | Directo</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal TV Chile">
-    <display-name lang="es">CL | TV CHILE *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal TV Chile">
-    <display-name lang="es">CL | TV CHILE *HQ</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="tvn chile">
     <display-name lang="es">CL | TVN *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="tvn chile">
-    <display-name lang="es">CL | TVN *FHD | Directo</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="tvn chile">
-    <display-name lang="es">CL | TVN *FHD | op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="tvn chile">
-    <display-name lang="es">CL | TVN *HD | op2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="tvn chile">
-    <display-name lang="es">CL | TVN *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="tvn chile">
-    <display-name lang="es">CL | TVN *HQ</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="cnn_chile">
-    <display-name lang="es">CL | CNN Chile *HD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-   <channel id="cnn_chile">
-    <display-name lang="es">CL | CNN Chile *FHD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-   <channel id="cnn_chile">
-    <display-name lang="es">CL | CNN Chile *HQ</display-name>
+    <display-name lang="es">CNN CHILE</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Vía X">
     <display-name lang="es">CL | VIAX *HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-   <channel id="Canal Vía X">
-    <display-name lang="es">CL | VIAX *HQ</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="ZONA LATINA">
     <display-name lang="es">CL | ZONA LATINA *HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-   <channel id="ZONA LATINA">
-    <display-name lang="es">CL | ZONA LATINA *HQ</display-name>
-    <url>http://www.gatotv.com</url>
+  <channel id="tv +">
+    <display-name lang="es">CL | TV+ *FHD</display-name>
+    <icon src="https://mitvstatic.com/channels/cl_ucv-tv_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-<programme start="20211014003000 -0300" stop="20211014013000 -0300" channel="Canal Mega ">
-    <title lang="es">Cukur</title>
-  </programme>
-  <programme start="20211014013000 -0300" stop="20211014014500 -0300" channel="Canal Mega ">
-    <title lang="es">Rock Story</title>
-  </programme>
-  <programme start="20211014014500 -0300" stop="20211014054500 -0300" channel="Canal Mega ">
+  <programme start="20211025010000 -0300" stop="20211025054500 -0300" channel="Canal Mega ">
     <title lang="es">Cierre de transmisiones</title>
   </programme>
-  <programme start="20211014054500 -0300" stop="20211014063000 -0300" channel="Canal Mega ">
+  <programme start="20211025054500 -0300" stop="20211025063000 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias amanece</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="Canal Mega ">
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias conecta</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014130000 -0300" channel="Canal Mega ">
+  <programme start="20211025080000 -0300" stop="20211025124000 -0300" channel="Canal Mega ">
     <title lang="es">Mucho gusto</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014152500 -0300" channel="Canal Mega ">
+  <programme start="20211025124000 -0300" stop="20211025130000 -0300" channel="Canal Mega ">
+    <title lang="es">Franja Política</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025152500 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias actualiza</title>
   </programme>
-  <programme start="20211014152500 -0300" stop="20211014153000 -0300" channel="Canal Mega ">
+  <programme start="20211025152500 -0300" stop="20211025153000 -0300" channel="Canal Mega ">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20211014153000 -0300" stop="20211014154500 -0300" channel="Canal Mega ">
+  <programme start="20211025153000 -0300" stop="20211025154500 -0300" channel="Canal Mega ">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20211014154500 -0300" stop="20211014162000 -0300" channel="Canal Mega ">
+  <programme start="20211025154500 -0300" stop="20211025162000 -0300" channel="Canal Mega ">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20211014162000 -0300" stop="20211014171000 -0300" channel="Canal Mega ">
+  <programme start="20211025162000 -0300" stop="20211025171000 -0300" channel="Canal Mega ">
     <title lang="es">Dulce ambición</title>
   </programme>
-  <programme start="20211014171000 -0300" stop="20211014180000 -0300" channel="Canal Mega ">
+  <programme start="20211025171000 -0300" stop="20211025180000 -0300" channel="Canal Mega ">
     <title lang="es">Zuleyha</title>
   </programme>
-  <programme start="20211014180000 -0300" stop="20211014185000 -0300" channel="Canal Mega ">
+  <programme start="20211025180000 -0300" stop="20211025190000 -0300" channel="Canal Mega ">
     <title lang="es">La hora de jugar</title>
   </programme>
-  <programme start="20211014185000 -0300" stop="20211014195000 -0300" channel="Canal Mega ">
+  <programme start="20211025190000 -0300" stop="20211025194500 -0300" channel="Canal Mega ">
     <title lang="es">Isla paraíso</title>
   </programme>
-  <programme start="20211014195000 -0300" stop="20211014210000 -0300" channel="Canal Mega ">
+  <programme start="20211025194500 -0300" stop="20211025204000 -0300" channel="Canal Mega ">
     <title lang="es">Pobre Novio</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014222500 -0300" channel="Canal Mega ">
+  <programme start="20211025204000 -0300" stop="20211025210000 -0300" channel="Canal Mega ">
+    <title lang="es">Franja Política</title>
+  </programme>
+  <programme start="20211025210000 -0300" stop="20211025222500 -0300" channel="Canal Mega ">
     <title lang="es">Meganoticias Prime</title>
   </programme>
-  <programme start="20211014222500 -0300" stop="20211014223000 -0300" channel="Canal Mega ">
+  <programme start="20211025222500 -0300" stop="20211025223000 -0300" channel="Canal Mega ">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20211014223000 -0300" stop="20211014233000 -0300" channel="Canal Mega ">
+  <programme start="20211025223000 -0300" stop="20211025233000 -0300" channel="Canal Mega ">
     <title lang="es">Demente</title>
   </programme>
-  <programme start="20211014010000 -0300" stop="20211014014500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Teletrece</title>
+  <programme start="20211025005000 -0300" stop="20211025020000 -0300" channel="Canal 13 de Chile">
+    <title lang="es">Lo mejor - Los 5 Mandamientos</title>
   </programme>
-  <programme start="20211014014500 -0300" stop="20211014024500 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025020000 -0300" stop="20211025030000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
     <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.(n)</desc>
@@ -234,487 +123,593 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20211014024500 -0300" stop="20211014060000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025030000 -0300" stop="20211025060000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Cierra</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="Canal 13 de Chile">
     <title lang="es">3x3</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014130000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025080000 -0300" stop="20211025124000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014142500 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025124000 -0300" stop="20211025130000 -0300" channel="Canal 13 de Chile">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025142500 -0300" channel="Canal 13 de Chile">
     <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20211014142500 -0300" stop="20211014143000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025142500 -0300" stop="20211025143000 -0300" channel="Canal 13 de Chile">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20211014143000 -0300" stop="20211014151500 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025143000 -0300" stop="20211025151500 -0300" channel="Canal 13 de Chile">
     <title lang="es">Adrenalina</title>
   </programme>
-  <programme start="20211014151500 -0300" stop="20211014160000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025151500 -0300" stop="20211025160000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Si nos dejan</title>
   </programme>
-  <programme start="20211014160000 -0300" stop="20211014173000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025160000 -0300" stop="20211025173000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Aquí somos todos</title>
   </programme>
-  <programme start="20211014173000 -0300" stop="20211014193500 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025173000 -0300" stop="20211025193500 -0300" channel="Canal 13 de Chile">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20211014193500 -0300" stop="20211014210000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025193500 -0300" stop="20211025204000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Que dice Chile</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014223000 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025204000 -0300" stop="20211025210000 -0300" channel="Canal 13 de Chile">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025210000 -0300" stop="20211025223000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20211014223000 -0300" stop="20211014223500 -0300" channel="Canal 13 de Chile">
+  <programme start="20211025223000 -0300" stop="20211025223500 -0300" channel="Canal 13 de Chile">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20211014223500 -0300" stop="20211014235000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Los 2000</title>
+  <programme start="20211025014500 -0300" stop="20211025021000 -0300" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Pero con respeto grandes momentos</title>
   </programme>
-  <programme start="20211014003000 -0300" stop="20211014013000 -0300" channel="Canal Chilevisión (CHV)">
-    <title lang="es">Pero con respeto</title>
-  </programme>
-  <programme start="20211014013000 -0300" stop="20211014023000 -0300" channel="Canal Chilevisión (CHV)">
-    <title lang="es">Goles - Clasificatorias</title>
-  </programme>
-  <programme start="20211014023000 -0300" stop="20211014060000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025021000 -0300" stop="20211025060000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">Primera Página</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014130000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025080000 -0300" stop="20211025124000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">Contigo en la mañana</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014153000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025124000 -0300" stop="20211025130000 -0300" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Franja electoral</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025153000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20211014153000 -0300" stop="20211014163000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025153000 -0300" stop="20211025181500 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">Contigo en Directo</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014190000 -0300" channel="Canal Chilevisión (CHV)">
-    <title lang="es">Fútbol Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+  <programme start="20211025181500 -0300" stop="20211025202500 -0300" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20211014190000 -0300" stop="20211014195500 -0300" channel="Canal Chilevisión (CHV)">
-    <title lang="es">Previa - Clasificatorias Qatar 2022</title>
-  </programme>
-  <programme start="20211014195500 -0300" stop="20211014203000 -0300" channel="Canal Chilevisión (CHV)">
+  <programme start="20211025202500 -0300" stop="20211025204000 -0300" channel="Canal Chilevisión (CHV)">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20211014203000 -0300" stop="20211014230000 -0300" channel="Canal Chilevisión (CHV)">
-    <title lang="es">Fútbol Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+  <programme start="20211025204000 -0300" stop="20211025210000 -0300" channel="Canal Chilevisión (CHV)">
+    <title lang="es">Franja electoral</title>
   </programme>
-  <programme start="20211014003000 -0300" stop="20211014020000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Así somos</title>
+  <programme start="20211025210000 -0300" stop="20211025224500 -0300" channel="Canal Chilevisión (CHV)">
+    <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20211014020000 -0300" stop="20211014030000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  <programme start="20211025020000 -0300" stop="20211025030000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20211014030000 -0300" stop="20211014040000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Comisario Rex</title>
+  <programme start="20211025030000 -0300" stop="20211025034500 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Sex and the City</title>
   </programme>
-  <programme start="20211014040000 -0300" stop="20211014053000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Cierre de transmisión</title>
+  <programme start="20211025034500 -0300" stop="20211025043000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Sex and the City</title>
   </programme>
-  <programme start="20211014053000 -0300" stop="20211014110000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20211025043000 -0300" stop="20211025050000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20211025050000 -0300" stop="20211025110000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Swiss Nature Labs</title>
   </programme>
-  <programme start="20211014110000 -0300" stop="20211014150000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20211025110000 -0300" stop="20211025124000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Antena 3D</title>
   </programme>
-  <programme start="20211014150000 -0300" stop="20211014153000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20211025124000 -0300" stop="20211025130000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025150000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20211025150000 -0300" stop="20211025153000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Swiss Nature Labs</title>
   </programme>
-  <programme start="20211014153000 -0300" stop="20211014193000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20211025153000 -0300" stop="20211025190000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">La tarde con Hola, Chile</title>
   </programme>
-  <programme start="20211014193000 -0300" stop="20211014201000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20211014201000 -0300" stop="20211014210500 -0300" channel="Canal La Red (Chile)">
+  <programme start="20211025190000 -0300" stop="20211025200000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20211014010000 -0300" stop="20211014013000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025200000 -0300" stop="20211025204000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">La Red deportes</title>
+  </programme>
+  <programme start="20211025204000 -0300" stop="20211025210000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025210000 -0300" stop="20211025220000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Poder y Verdad</title>
+  </programme>
+  <programme start="20211025003000 -0300" stop="20211025010000 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20211025010000 -0300" stop="20211025013000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20211014013000 -0300" stop="20211014020000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025013000 -0300" stop="20211025020000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014020000 -0300" stop="20211014023000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025020000 -0300" stop="20211025023000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014023000 -0300" stop="20211014030000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025023000 -0300" stop="20211025030000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014030000 -0300" stop="20211014033000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025030000 -0300" stop="20211025033000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014033000 -0300" stop="20211014040000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025033000 -0300" stop="20211025040000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014040000 -0300" stop="20211014043000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025040000 -0300" stop="20211025043000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014043000 -0300" stop="20211014050000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025043000 -0300" stop="20211025050000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014050000 -0300" stop="20211014053000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025050000 -0300" stop="20211025053000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014053000 -0300" stop="20211014060000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025053000 -0300" stop="20211025060000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">La previa</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014083000 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Mirada Económica</title>
+  <programme start="20211025080000 -0300" stop="20211025083000 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">¿Cuál es tu huella</title>
   </programme>
-  <programme start="20211014083000 -0300" stop="20211014110000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025083000 -0300" stop="20211025110000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">La Mañana Informativa</title>
   </programme>
-  <programme start="20211014110000 -0300" stop="20211014111500 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Informe DW</title>
+  <programme start="20211025110000 -0300" stop="20211025111500 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20211014111500 -0300" stop="20211014123000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025111500 -0300" stop="20211025123000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">La Mañana Informativa</title>
   </programme>
-  <programme start="20211014123000 -0300" stop="20211014130000 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Vía Pública</title>
+  <programme start="20211025123000 -0300" stop="20211025130000 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">+Motor</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014150000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025130000 -0300" stop="20211025150000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20211014150000 -0300" stop="20211014151500 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Informe DW</title>
+  <programme start="20211025150000 -0300" stop="20211025151500 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">24 Cuadros</title>
   </programme>
-  <programme start="20211014151500 -0300" stop="20211014163000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025151500 -0300" stop="20211025163000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014170000 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Reporte minero</title>
+  <programme start="20211025163000 -0300" stop="20211025170000 -0300" channel="Canal 24 Horas TVN">
+    <title lang="es">Especialista Responde</title>
   </programme>
-  <programme start="20211014170000 -0300" stop="20211014180000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025170000 -0300" stop="20211025194500 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">Noticias 24 horas</title>
   </programme>
-  <programme start="20211014180000 -0300" stop="20211014183000 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Mirada Económica</title>
-  </programme>
-  <programme start="20211014183000 -0300" stop="20211014194500 -0300" channel="Canal 24 Horas TVN">
-    <title lang="es">Noticias 24 horas</title>
-  </programme>
-  <programme start="20211014194500 -0300" stop="20211014210000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025194500 -0300" stop="20211025210000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">Sin miedo - 24horas deportes</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014224500 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025210000 -0300" stop="20211025224500 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014224500 -0300" stop="20211014230000 -0300" channel="Canal 24 Horas TVN">
+  <programme start="20211025224500 -0300" stop="20211025230000 -0300" channel="Canal 24 Horas TVN">
     <title lang="es">Frontera global</title>
   </programme>
-  <programme start="20211014004500 -0300" stop="20211014013000 -0300" channel="Canal TV Chile">
-    <title lang="es">Rompecorazón</title>
+  <programme start="20211025001500 -0300" stop="20211025011500 -0300" channel="Canal TV Chile">
+    <title lang="es">Selva viva</title>
   </programme>
-  <programme start="20211014013000 -0300" stop="20211014023000 -0300" channel="Canal TV Chile">
+  <programme start="20211025011500 -0300" stop="20211025031500 -0300" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20211014023000 -0300" stop="20211014033000 -0300" channel="Canal TV Chile">
-    <title lang="es">Carmen Gloria a tu servicio</title>
-  </programme>
-  <programme start="20211014033000 -0300" stop="20211014043000 -0300" channel="Canal TV Chile">
-    <title lang="es">Medianoche</title>
-  </programme>
-  <programme start="20211014043000 -0300" stop="20211014053000 -0300" channel="Canal TV Chile">
+  <programme start="20211025031500 -0300" stop="20211025043000 -0300" channel="Canal TV Chile">
     <title lang="es">Chile Conectado</title>
   </programme>
-  <programme start="20211014053000 -0300" stop="20211014062500 -0300" channel="Canal TV Chile">
-    <title lang="es">Conectados</title>
+  <programme start="20211025043000 -0300" stop="20211025053000 -0300" channel="Canal TV Chile">
+    <title lang="es">Lleve de lo bueno</title>
   </programme>
-  <programme start="20211014062500 -0300" stop="20211014080000 -0300" channel="Canal TV Chile">
+  <programme start="20211025053000 -0300" stop="20211025062500 -0300" channel="Canal TV Chile">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20211025062500 -0300" stop="20211025080000 -0300" channel="Canal TV Chile">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014130000 -0300" channel="Canal TV Chile">
+  <programme start="20211025080000 -0300" stop="20211025130000 -0300" channel="Canal TV Chile">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014150000 -0300" channel="Canal TV Chile">
+  <programme start="20211025130000 -0300" stop="20211025150000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20211014150000 -0300" stop="20211014163000 -0300" channel="Canal TV Chile">
+  <programme start="20211025150000 -0300" stop="20211025163000 -0300" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014180000 -0300" channel="Canal TV Chile">
+  <programme start="20211025163000 -0300" stop="20211025180000 -0300" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20211014180000 -0300" stop="20211014183000 -0300" channel="Canal TV Chile">
-    <title lang="es">Infomerciales</title>
+  <programme start="20211025180000 -0300" stop="20211025183000 -0300" channel="Canal TV Chile">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211014183000 -0300" stop="20211014190000 -0300" channel="Canal TV Chile">
-    <title lang="es">Infomerciales</title>
+  <programme start="20211025183000 -0300" stop="20211025190000 -0300" channel="Canal TV Chile">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211014190000 -0300" stop="20211014200000 -0300" channel="Canal TV Chile">
+  <programme start="20211025190000 -0300" stop="20211025200000 -0300" channel="Canal TV Chile">
     <title lang="es">Romané</title>
   </programme>
-  <programme start="20211014200000 -0300" stop="20211014210000 -0300" channel="Canal TV Chile">
+  <programme start="20211025200000 -0300" stop="20211025210000 -0300" channel="Canal TV Chile">
     <title lang="es">Rompecorazón</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014224000 -0300" channel="Canal TV Chile">
+  <programme start="20211025210000 -0300" stop="20211025224000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20211014004500 -0300" stop="20211014014500 -0300" channel="tvn chile">
-    <title lang="es">Medianoche</title>
+  <programme start="20211025224000 -0300" stop="20211025235000 -0300" channel="Canal TV Chile">
+    <title lang="es">Selva viva</title>
   </programme>
-  <programme start="20211014014500 -0300" stop="20211014020000 -0300" channel="tvn chile">
-    <title lang="es">Tiempo TV</title>
+  <programme start="20211025010000 -0300" stop="20211025020000 -0300" channel="tvn chile">
+    <title lang="es">Mea Culpa</title>
   </programme>
-  <programme start="20211014020000 -0300" stop="20211014060000 -0300" channel="tvn chile">
+  <programme start="20211025020000 -0300" stop="20211025021500 -0300" channel="tvn chile">
+    <title lang="es">TV Tiempo Final</title>
+  </programme>
+  <programme start="20211025021500 -0300" stop="20211025060000 -0300" channel="tvn chile">
     <title lang="es">Cierre de transmisiones</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="tvn chile">
-    <title lang="es">La previa</title>
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="tvn chile">
+    <title lang="es">La previa 24</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="tvn chile">
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="tvn chile">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014130000 -0300" channel="tvn chile">
+  <programme start="20211025080000 -0300" stop="20211025124000 -0300" channel="tvn chile">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014150000 -0300" channel="tvn chile">
+  <programme start="20211025124000 -0300" stop="20211025130000 -0300" channel="tvn chile">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025150000 -0300" channel="tvn chile">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20211014150000 -0300" stop="20211014163000 -0300" channel="tvn chile">
+  <programme start="20211025150000 -0300" stop="20211025163000 -0300" channel="tvn chile">
     <title lang="es">Amores de mercado</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014172500 -0300" channel="tvn chile">
+  <programme start="20211025163000 -0300" stop="20211025172500 -0300" channel="tvn chile">
     <title lang="es">Romané</title>
   </programme>
-  <programme start="20211014172500 -0300" stop="20211014185500 -0300" channel="tvn chile">
-    <title lang="es">Lo mejor - Carmen Gloria a tu servicio</title>
+  <programme start="20211025172500 -0300" stop="20211025185500 -0300" channel="tvn chile">
+    <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20211014185500 -0300" stop="20211014193000 -0300" channel="tvn chile">
+  <programme start="20211025185500 -0300" stop="20211025193000 -0300" channel="tvn chile">
     <title lang="es">Noticias 24 horas</title>
   </programme>
-  <programme start="20211014193000 -0300" stop="20211014201500 -0300" channel="tvn chile">
+  <programme start="20211025193000 -0300" stop="20211025201500 -0300" channel="tvn chile">
     <title lang="es">Almas Heridas</title>
   </programme>
-  <programme start="20211014201500 -0300" stop="20211014210000 -0300" channel="tvn chile">
+  <programme start="20211025201500 -0300" stop="20211025204000 -0300" channel="tvn chile">
     <title lang="es">Génesis</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014223500 -0300" channel="tvn chile">
+  <programme start="20211025204000 -0300" stop="20211025210000 -0300" channel="tvn chile">
+    <title lang="es">Franja Electoral de Elecciones Presidenciales y Parlamentarias</title>
+  </programme>
+  <programme start="20211025210000 -0300" stop="20211025223500 -0300" channel="tvn chile">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211014223500 -0300" stop="20211014224000 -0300" channel="tvn chile">
+  <programme start="20211025223500 -0300" stop="20211025224000 -0300" channel="tvn chile">
     <title lang="es">Tiempo TV</title>
   </programme>
-  <programme start="20211014224000 -0300" stop="20211014234500 -0300" channel="tvn chile">
-    <title lang="es">Informe Especial</title>
+  <programme start="20211025224000 -0300" stop="20211025234500 -0300" channel="tvn chile">
+    <title lang="es">Hercai</title>
   </programme>
-  <programme start="20211014003000 -0300" stop="20211014010000 -0300" channel="cnn_chile">
-    <title lang="es">Agenda económica PM</title>
+  <programme start="20211025010000 -0300" stop="20211025023000 -0300" channel="cnn_chile">
+    <title lang="es">Tolerancia 0</title>
   </programme>
-  <programme start="20211014010000 -0300" stop="20211014013000 -0300" channel="cnn_chile">
-    <title lang="es">Ficvaldivia</title>
-  </programme>
-  <programme start="20211014013000 -0300" stop="20211014023000 -0300" channel="cnn_chile">
-    <title lang="es">Conexión Global Prime</title>
-  </programme>
-  <programme start="20211014023000 -0300" stop="20211014033000 -0300" channel="cnn_chile">
-    <title lang="es">Última mirada</title>
-  </programme>
-  <programme start="20211014033000 -0300" stop="20211014040000 -0300" channel="cnn_chile">
-    <title lang="es">Agenda económica PM</title>
-  </programme>
-  <programme start="20211014040000 -0300" stop="20211014043000 -0300" channel="cnn_chile">
-    <title lang="es">Conexión global PM</title>
-  </programme>
-  <programme start="20211014043000 -0300" stop="20211014050000 -0300" channel="cnn_chile">
-    <title lang="es">Entrevista CNN</title>
-  </programme>
-  <programme start="20211014050000 -0300" stop="20211014053000 -0300" channel="cnn_chile">
-    <title lang="es">Agenda económica PM</title>
-  </programme>
-  <programme start="20211014053000 -0300" stop="20211014060000 -0300" channel="cnn_chile">
-    <title lang="es">Entrevista CNN</title>
-  </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="cnn_chile">
-    <title lang="es">Primera Página</title>
-  </programme>
-  <programme start="20211014063000 -0300" stop="20211014080000 -0300" channel="cnn_chile">
-    <title lang="es">Contigo CHV Noticias A.M</title>
-  </programme>
-  <programme start="20211014080000 -0300" stop="20211014083000 -0300" channel="cnn_chile">
-    <title lang="es">Agenda económica AM</title>
-  </programme>
-  <programme start="20211014083000 -0300" stop="20211014090000 -0300" channel="cnn_chile">
-    <title lang="es">Conexión global AM</title>
-  </programme>
-  <programme start="20211014090000 -0300" stop="20211014130000 -0300" channel="cnn_chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20211014130000 -0300" stop="20211014153000 -0300" channel="cnn_chile">
-    <title lang="es">Noticias tarde CNN - CHV</title>
-  </programme>
-  <programme start="20211014153000 -0300" stop="20211014163000 -0300" channel="cnn_chile">
+  <programme start="20211025023000 -0300" stop="20211025033000 -0300" channel="cnn_chile">
     <title lang="es">Empresas 2050</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014183000 -0300" channel="cnn_chile">
-    <title lang="es">Hoy es Noticia</title>
+  <programme start="20211025033000 -0300" stop="20211025043000 -0300" channel="cnn_chile">
+    <title lang="es">CNN Magazine</title>
   </programme>
-  <programme start="20211014183000 -0300" stop="20211014190000 -0300" channel="cnn_chile">
-    <title lang="es">Conexión global PM</title>
-  </programme>
-  <programme start="20211014190000 -0300" stop="20211014200000 -0300" channel="cnn_chile">
-    <title lang="es">Hoy es Noticia</title>
-  </programme>
-  <programme start="20211014200000 -0300" stop="20211014203000 -0300" channel="cnn_chile">
-    <title lang="es">Agenda económica PM</title>
-  </programme>
-  <programme start="20211014203000 -0300" stop="20211014213000 -0300" channel="cnn_chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20211014213000 -0300" stop="20211014220000 -0300" channel="cnn_chile">
-    <title lang="es">Conexión global PM</title>
-  </programme>
-  <programme start="20211014220000 -0300" stop="20211014223000 -0300" channel="cnn_chile">
+  <programme start="20211025043000 -0300" stop="20211025050000 -0300" channel="cnn_chile">
     <title lang="es">Entrevista CNN</title>
   </programme>
-  <programme start="20211014223000 -0300" stop="20211014233000 -0300" channel="cnn_chile">
-    <title lang="es">Aquí se debate - Parlamentarias</title>
+  <programme start="20211025050000 -0300" stop="20211025053000 -0300" channel="cnn_chile">
+    <title lang="es">Desafio Tierra</title>
   </programme>
-  <programme start="20211014010000 -0300" stop="20211014013000 -0300" channel="Canal Vía X">
+  <programme start="20211025053000 -0300" stop="20211025060000 -0300" channel="cnn_chile">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="cnn_chile">
+    <title lang="es">Primera Página</title>
+  </programme>
+  <programme start="20211025063000 -0300" stop="20211025080000 -0300" channel="cnn_chile">
+    <title lang="es">Contigo CHV Noticias A.M</title>
+  </programme>
+  <programme start="20211025080000 -0300" stop="20211025083000 -0300" channel="cnn_chile">
+    <title lang="es">Agenda económica AM</title>
+  </programme>
+  <programme start="20211025083000 -0300" stop="20211025090000 -0300" channel="cnn_chile">
+    <title lang="es">Conexión Global</title>
+  </programme>
+  <programme start="20211025090000 -0300" stop="20211025130000 -0300" channel="cnn_chile">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20211025130000 -0300" stop="20211025153000 -0300" channel="cnn_chile">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20211025153000 -0300" stop="20211025163000 -0300" channel="cnn_chile">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20211025163000 -0300" stop="20211025183000 -0300" channel="cnn_chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20211025183000 -0300" stop="20211025190000 -0300" channel="cnn_chile">
+    <title lang="es">Conexión Global</title>
+  </programme>
+  <programme start="20211025190000 -0300" stop="20211025200000 -0300" channel="cnn_chile">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20211025200000 -0300" stop="20211025203000 -0300" channel="cnn_chile">
+    <title lang="es">Agenda económica PM</title>
+  </programme>
+  <programme start="20211025203000 -0300" stop="20211025223000 -0300" channel="cnn_chile">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20211025223000 -0300" stop="20211025233000 -0300" channel="cnn_chile">
+    <title lang="es">Aquí se debate convención</title>
+  </programme>
+  <programme start="20211025010000 -0300" stop="20211025013000 -0300" channel="Canal Vía X">
     <title lang="es">Bayly</title>
   </programme>
-  <programme start="20211014013000 -0300" stop="20211014020000 -0300" channel="Canal Vía X">
+  <programme start="20211025013000 -0300" stop="20211025020000 -0300" channel="Canal Vía X">
     <title lang="es">Hagamos un piloto</title>
   </programme>
-  <programme start="20211014020000 -0300" stop="20211014030000 -0300" channel="Canal Vía X">
+  <programme start="20211025020000 -0300" stop="20211025030000 -0300" channel="Canal Vía X">
     <title lang="es">7mo Vicio</title>
   </programme>
-  <programme start="20211014030000 -0300" stop="20211014043000 -0300" channel="Canal Vía X">
+  <programme start="20211025030000 -0300" stop="20211025043000 -0300" channel="Canal Vía X">
     <title lang="es">Stock Disponible</title>
   </programme>
-  <programme start="20211014043000 -0300" stop="20211014060000 -0300" channel="Canal Vía X">
+  <programme start="20211025043000 -0300" stop="20211025060000 -0300" channel="Canal Vía X">
     <title lang="es">Cadena nacional</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="Canal Vía X">
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="Canal Vía X">
     <title lang="es">Bayly</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014073000 -0300" channel="Canal Vía X">
+  <programme start="20211025063000 -0300" stop="20211025073000 -0300" channel="Canal Vía X">
     <title lang="es">7mo Vicio</title>
   </programme>
-  <programme start="20211014073000 -0300" stop="20211014090000 -0300" channel="Canal Vía X">
+  <programme start="20211025073000 -0300" stop="20211025090000 -0300" channel="Canal Vía X">
     <title lang="es">Stock Disponible</title>
   </programme>
-  <programme start="20211014090000 -0300" stop="20211014093000 -0300" channel="Canal Vía X">
+  <programme start="20211025090000 -0300" stop="20211025093000 -0300" channel="Canal Vía X">
     <title lang="es">Hagamos un piloto</title>
   </programme>
-  <programme start="20211014093000 -0300" stop="20211014110000 -0300" channel="Canal Vía X">
+  <programme start="20211025093000 -0300" stop="20211025110000 -0300" channel="Canal Vía X">
     <title lang="es">Cadena nacional</title>
   </programme>
-  <programme start="20211014110000 -0300" stop="20211014113000 -0300" channel="Canal Vía X">
+  <programme start="20211025110000 -0300" stop="20211025113000 -0300" channel="Canal Vía X">
     <title lang="es">Bayly</title>
   </programme>
-  <programme start="20211014113000 -0300" stop="20211014130000 -0300" channel="Canal Vía X">
+  <programme start="20211025113000 -0300" stop="20211025130000 -0300" channel="Canal Vía X">
     <title lang="es">Stock Disponible</title>
   </programme>
-  <programme start="20211014130000 -0300" stop="20211014140000 -0300" channel="Canal Vía X">
+  <programme start="20211025130000 -0300" stop="20211025140000 -0300" channel="Canal Vía X">
     <title lang="es">7mo Vicio</title>
   </programme>
-  <programme start="20211014140000 -0300" stop="20211014153000 -0300" channel="Canal Vía X">
+  <programme start="20211025140000 -0300" stop="20211025153000 -0300" channel="Canal Vía X">
     <title lang="es">Cadena nacional</title>
   </programme>
-  <programme start="20211014153000 -0300" stop="20211014160000 -0300" channel="Canal Vía X">
+  <programme start="20211025153000 -0300" stop="20211025160000 -0300" channel="Canal Vía X">
     <title lang="es">Hagamos un piloto</title>
   </programme>
-  <programme start="20211014160000 -0300" stop="20211014163000 -0300" channel="Canal Vía X">
+  <programme start="20211025160000 -0300" stop="20211025163000 -0300" channel="Canal Vía X">
     <title lang="es">Bayly</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014180000 -0300" channel="Canal Vía X">
+  <programme start="20211025163000 -0300" stop="20211025180000 -0300" channel="Canal Vía X">
     <title lang="es">Stock Disponible</title>
   </programme>
-  <programme start="20211014180000 -0300" stop="20211014190000 -0300" channel="Canal Vía X">
-    <title lang="es">7mo Vicio</title>
-  </programme>
-  <programme start="20211014190000 -0300" stop="20211014203000 -0300" channel="Canal Vía X">
+  <programme start="20211025180000 -0300" stop="20211025193000 -0300" channel="Canal Vía X">
     <title lang="es">Cadena nacional</title>
   </programme>
-  <programme start="20211014203000 -0300" stop="20211014210000 -0300" channel="Canal Vía X">
+  <programme start="20211025193000 -0300" stop="20211025203000 -0300" channel="Canal Vía X">
+    <title lang="es">Desde los 12 pasos</title>
+  </programme>
+  <programme start="20211025203000 -0300" stop="20211025210000 -0300" channel="Canal Vía X">
     <title lang="es">Hagamos un piloto</title>
   </programme>
-  <programme start="20211014210000 -0300" stop="20211014220000 -0300" channel="Canal Vía X">
+  <programme start="20211025210000 -0300" stop="20211025220000 -0300" channel="Canal Vía X">
     <title lang="es">7mo Vicio</title>
   </programme>
-  <programme start="20211014220000 -0300" stop="20211014233000 -0300" channel="Canal Vía X">
+  <programme start="20211025220000 -0300" stop="20211025233000 -0300" channel="Canal Vía X">
     <title lang="es">Stock Disponible</title>
   </programme>
-  <programme start="20211014010000 -0300" stop="20211014030000 -0300" channel="ZONA LATINA">
+  <programme start="20211025010000 -0300" stop="20211025030000 -0300" channel="ZONA LATINA">
     <title lang="es">Zona de Estrellas</title>
   </programme>
-  <programme start="20211014030000 -0300" stop="20211014040000 -0300" channel="ZONA LATINA">
+  <programme start="20211025030000 -0300" stop="20211025040000 -0300" channel="ZONA LATINA">
     <title lang="es">Bloque de a Dos</title>
   </programme>
-  <programme start="20211014040000 -0300" stop="20211014050000 -0300" channel="ZONA LATINA">
+  <programme start="20211025040000 -0300" stop="20211025050000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014050000 -0300" stop="20211014060000 -0300" channel="ZONA LATINA">
+  <programme start="20211025050000 -0300" stop="20211025060000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014060000 -0300" stop="20211014063000 -0300" channel="ZONA LATINA">
+  <programme start="20211025060000 -0300" stop="20211025063000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014063000 -0300" stop="20211014073000 -0300" channel="ZONA LATINA">
+  <programme start="20211025063000 -0300" stop="20211025073000 -0300" channel="ZONA LATINA">
     <title lang="es">Bloque de a Dos</title>
   </programme>
-  <programme start="20211014073000 -0300" stop="20211014080000 -0300" channel="ZONA LATINA">
+  <programme start="20211025073000 -0300" stop="20211025080000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014080000 -0300" stop="20211014090000 -0300" channel="ZONA LATINA">
+  <programme start="20211025080000 -0300" stop="20211025090000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014090000 -0300" stop="20211014093000 -0300" channel="ZONA LATINA">
+  <programme start="20211025090000 -0300" stop="20211025093000 -0300" channel="ZONA LATINA">
     <title lang="es">Actívate</title>
   </programme>
-  <programme start="20211014093000 -0300" stop="20211014100000 -0300" channel="ZONA LATINA">
+  <programme start="20211025093000 -0300" stop="20211025100000 -0300" channel="ZONA LATINA">
     <title lang="es">Actívate</title>
   </programme>
-  <programme start="20211014100000 -0300" stop="20211014113000 -0300" channel="ZONA LATINA">
+  <programme start="20211025100000 -0300" stop="20211025113000 -0300" channel="ZONA LATINA">
     <title lang="es">Sabores</title>
   </programme>
-  <programme start="20211014113000 -0300" stop="20211014133000 -0300" channel="ZONA LATINA">
+  <programme start="20211025113000 -0300" stop="20211025133000 -0300" channel="ZONA LATINA">
     <title lang="es">Zona de Estrellas</title>
   </programme>
-  <programme start="20211014133000 -0300" stop="20211014143000 -0300" channel="ZONA LATINA">
+  <programme start="20211025133000 -0300" stop="20211025143000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014143000 -0300" stop="20211014150000 -0300" channel="ZONA LATINA">
+  <programme start="20211025143000 -0300" stop="20211025150000 -0300" channel="ZONA LATINA">
     <title lang="es">Actívate</title>
   </programme>
-  <programme start="20211014150000 -0300" stop="20211014163000 -0300" channel="ZONA LATINA">
+  <programme start="20211025150000 -0300" stop="20211025163000 -0300" channel="ZONA LATINA">
     <title lang="es">Sabores</title>
   </programme>
-  <programme start="20211014163000 -0300" stop="20211014183000 -0300" channel="ZONA LATINA">
+  <programme start="20211025163000 -0300" stop="20211025183000 -0300" channel="ZONA LATINA">
     <title lang="es">Zona de Estrellas</title>
   </programme>
-  <programme start="20211014183000 -0300" stop="20211014190000 -0300" channel="ZONA LATINA">
+  <programme start="20211025183000 -0300" stop="20211025190000 -0300" channel="ZONA LATINA">
     <title lang="es">Actívate</title>
   </programme>
-  <programme start="20211014190000 -0300" stop="20211014203000 -0300" channel="ZONA LATINA">
+  <programme start="20211025190000 -0300" stop="20211025203000 -0300" channel="ZONA LATINA">
     <title lang="es">Sabores</title>
   </programme>
-  <programme start="20211014203000 -0300" stop="20211014213000 -0300" channel="ZONA LATINA">
+  <programme start="20211025203000 -0300" stop="20211025213000 -0300" channel="ZONA LATINA">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20211014213000 -0300" stop="20211014233000 -0300" channel="ZONA LATINA">
+  <programme start="20211025213000 -0300" stop="20211025233000 -0300" channel="ZONA LATINA">
     <title lang="es">Zona de Estrellas</title>
+  </programme>
+  <programme start="20211025053000 -0300" stop="20211025063000 -0300" channel="tv +">
+    <title lang="es">Circulo central </title>
+    <sub-title lang="es">Circulo central</sub-title>
+    <desc lang="es">Espacio de conversación donde el foco es la polémica, las crisis en el fútbol nacional y el panorama internacional de los jugadores y técnicos chilenos.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-circulo-central_p_m.jpg" />
+  </programme>
+  <programme start="20211025063000 -0300" stop="20211025070000 -0300" channel="tv +">
+    <title lang="es">Despierta activo </title>
+    <sub-title lang="es">Health</sub-title>
+    <desc lang="es">Camila Stuardo, invita a los televidentes a hacer deportes y llevar una vida sana. Acompañada de distintos panelistas aconsejan que hacer para tener un mejor estilo de vida y hacer de las mañanas más motivadas y llenas de energía.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20211025070000 -0300" stop="20211025110000 -0300" channel="tv +">
+    <title lang="es">Antena 3D </title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_p_m.jpg" />
+  </programme>
+  <programme start="20211025110000 -0300" stop="20211025114000 -0300" channel="tv +">
+    <title lang="es">Siempre es mejor </title>
+    <sub-title lang="es">Medicina</sub-title>
+    <desc lang="es">Siempre es mejor es un programa de medicina alternativa generado por la promoción de productos naturales bajo el consejo de un terapeuta especializado.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20211025114000 -0300" stop="20211025120000 -0300" channel="tv +">
+    <title lang="es">Franja electoral de elecciones presidenciales y parlamentarias </title>
+    <sub-title lang="es">Político</sub-title>
+    <desc lang="es">Franja electoral de elecciones presidenciales y parlamentarias en la que los candidatos a los sufragios 2021 pueden exponer sus propuestas y proyectos si son electos.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_franja-electoral-de-elecciones-presidenciales-y-parlamentarias_p_m.jpg" />
+  </programme>
+  <programme start="20211025120000 -0300" stop="20211025123000 -0300" channel="tv +">
+    <title lang="es">El precio de la historia </title>
+    <sub-title lang="es">Reality Show</sub-title>
+    <desc lang="es">Conoce una familia que maneja una tienda de empeños en Las Vegas, en esta serie en la que compartirán sus vidas y su pasión por los objetos extraños e históricos.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia_p_m.jpg" />
+  </programme>
+  <programme start="20211025123000 -0300" stop="20211025140000 -0300" channel="tv +">
+    <title lang="es">Somos un plato </title>
+    <sub-title lang="es">Cocina</sub-title>
+    <desc lang="es">El periodista José Miguel Furnaro y el cocinero Álvaro Lois combinan recetas para toda la familia con entrevistas a reconocidos personajes públicos en un espacio distendido, lleno de risas, anécdotas y buenas conversaciones.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_somos-un-plato_p_m.jpg" />
+  </programme>
+  <programme start="20211025140000 -0300" stop="20211025180000 -0300" channel="tv +">
+    <title lang="es">Más Vivi que nunca </title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Un programa de juegos, risas y entretención.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20211025180000 -0300" stop="20211025193000 -0300" channel="tv +">
+    <title lang="es">MILF </title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">El programa aborda distintas temáticas dirigidas a las "mujeres, independientes, libres y felices" (MILF). Claudia Conserva, junto a Yazmín Vásquez y Renata Bravo, combinan la actualidad y el humor con una entretenida conversación.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milf_p_m.jpg" />
+  </programme>
+  <programme start="20211025193000 -0300" stop="20211025194000 -0300" channel="tv +">
+    <title lang="es">Toc Show </title>
+    <sub-title lang="es">Talk Show</sub-title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_p_m.jpg" />
+  </programme>
+  <programme start="20211025194000 -0300" stop="20211025200000 -0300" channel="tv +">
+    <title lang="es">Franja electoral de elecciones presidenciales y parlamentarias </title>
+    <sub-title lang="es">Político</sub-title>
+    <desc lang="es">Franja electoral de elecciones presidenciales y parlamentarias en la que los candidatos a los sufragios 2021 pueden exponer sus propuestas y proyectos si son electos.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_franja-electoral-de-elecciones-presidenciales-y-parlamentarias_p_m.jpg" />
+  </programme>
+  <programme start="20211025200000 -0300" stop="20211025210000 -0300" channel="tv +">
+    <title lang="es">Toc Show </title>
+    <sub-title lang="es">Talk Show</sub-title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_p_m.jpg" />
+  </programme>
+  <programme start="20211025210000 -0300" stop="20211025230000 -0300" channel="tv +">
+    <title lang="es">Me late </title>
+    <sub-title lang="es">Entrevista</sub-title>
+    <desc lang="es">Una conversación con un personaje público y conocido, abordando el lado más íntimo del entrevistado. Cuenta con un panel estable de jóvenes que en conjunto analizarán los principales videos que están marcando tendencia en la red.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-late_p_m.jpg" />
+  </programme>
+  <programme start="20211025230000 -0300" stop="20211026001500 -0300" channel="tv +">
+    <title lang="es">Toc Show </title>
+    <sub-title lang="es">Talk Show</sub-title>
+    <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_p_m.jpg" />
   </programme>
 </tv>
