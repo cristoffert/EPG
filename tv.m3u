@@ -336,3 +336,6 @@ http://45.160.15.130:2909/play/a17f
 http://45.160.15.130:2909/play/a17i
 #EXTINF:-1,Exa TV-88
 http://190.92.7.19:8000/play/a03v/index.m3u8
+#EXTINF:-1,ByM Sport
+http://190.90.154.73:8080/play/a04x/index.m3u8
+
