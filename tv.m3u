@@ -590,3 +590,7 @@ http://187.251.240.25:1099/play/a03d/index.m3u8
 http://187.251.240.25:1099/play/a04t/index.m3u8
 #EXTINF:-1,WARNER 210
 http://187.251.240.25:1099/play/a017/index.m3u8
+#EXTINF:-1,Sin Limites
+http://181.204.79.182:8202/play/a043
+#EXTINF:-1,WUAN+
+http://181.129.198.235:8000/play/a06e/index.m3u8
