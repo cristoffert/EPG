@@ -602,3 +602,15 @@ http://177.234.242.105:50032/play/a0ea/index.m3u8
 http://168.228.194.32:48091/play/a04x/index.m3u8
 #EXTINF:-1,CANAL CLARO
 http://168.228.194.32:48091/play/a032/index.m3u8
+#EXTINF:-1,IVC
+http://152.230.126.5:5045/play/a0t7
+#EXTINF:-1,FANBTV
+http://152.230.126.5:5045/play/a0t6
+#EXTINF:-1,EPOCA TV
+http://152.230.126.5:5045/play/a0tm
+#EXTINF:-1,LATIN AMERICA SPORTS
+http://138.186.20.13:23200/play/a0dl
+#EXTINF:-1,AMERICA SPORTS
+http://45.186.252.17:8000/play/a0a4
+#EXTINF:-1,ONCE NIÑOS
+http://45.167.253.253:4000/play/a00v/index.m3u8
