@@ -596,3 +596,9 @@ http://181.204.79.182:8202/play/a043
 http://181.129.198.235:8000/play/a06e/index.m3u8
 #EXTINF:-1,BOLIVIA TV
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1,ESNE
+http://177.234.242.105:50032/play/a0ea/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://168.228.194.32:48091/play/a04x/index.m3u8
+#EXTINF:-1,CANAL CLARO
+http://168.228.194.32:48091/play/a032/index.m3u8
