@@ -17,3 +17,39 @@ http://168.228.194.32:48091/play/a032/index.m3u8
 http://45.167.253.253:4000/play/a00v/index.m3u8
 #EXTINF:-1,ALIENTO VISIÓN
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:-1,OSORNO TV+
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+#EXTINF:-1,OSORNO - PLAZA DE ARMAS
+http://portalimo.eastus.cloudapp.azure.com:19021/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PLAZA DE ARMAS TORO
+http://portalimo.eastus.cloudapp.azure.com:19029/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PARQUE CHUYACA
+http://portalimo.eastus.cloudapp.azure.com:19022/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - FERIA RAHUE
+http://portalimo.eastus.cloudapp.azure.com:19025/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - ESTADIO ALBERTO ALLAIRE
+http://portalimo.eastus.cloudapp.azure.com:19026/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - VILLA OLIMPICA
+http://portalimo.eastus.cloudapp.azure.com:19023/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PARQUE CUARTO CENTENARIO
+http://portalimo.eastus.cloudapp.azure.com:19024/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - ESTADIO RUBEN MARCOS
+http://portalimo.eastus.cloudapp.azure.com:19035/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PUENTE SAN PABLO
+http://portalimo.eastus.cloudapp.azure.com:19033/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - COMPLEJO DEPORTIVO ALDAY
+http://portalimo.eastus.cloudapp.azure.com:19027/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - MERCADO MUNICIPAL
+http://portalimo.eastus.cloudapp.azure.com:19031/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - COMPLEJO DEPORTIVO RAHUE ALTO
+http://portalimo.eastus.cloudapp.azure.com:19028/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PUENTE CHAURAKAWIN
+http://portalimo.eastus.cloudapp.azure.com:19034/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PUENTE SAN PEDRO
+http://portalimo.eastus.cloudapp.azure.com:19032/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - PARQUE OLEGARIO MOHR
+http://portalimo.eastus.cloudapp.azure.com:19030/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - UNIVERSIDAD DE LOS LAGOS
+http://portalimo.eastus.cloudapp.azure.com:19036/hls/live.stream.m3u8
+#EXTINF:-1,OSORNO - MIRASUR
+http://portalimo.eastus.cloudapp.azure.com:19037/hls/live.stream.m3u8
