@@ -1,18 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,Cinema Dinamita
-https://sdmx.vip:443/belpley/sYqKZQrTZa/75724
-#EXTINF:-1,Cinema Dinamita HD
-https://sdmx.vip:443/belpley/sYqKZQrTZa/197237
-#EXTINF:-1,History en Español
-https://sdmx.vip:443/belpley/sYqKZQrTZa/197235
-#EXTINF:-1,Las Estrellas -2 Horas
-https://sdmx.vip:443/belpley/sYqKZQrTZa/212817
-#EXTINF:-1,VIDEO ROLA
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2098836
-#EXTINF:-1,Discovery en Español HD
-https://sdmx.vip:443/belpley/sYqKZQrTZa/197236
-#EXTINF:-1,Sin Limites
-http://181.204.79.182:8202/play/a043
-#EXTINF:-1,BOLIVIA TV
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/14c236fbb85564d719d5c9e6d1a8862d.png", Canal 13
+https://m3u.cl/channel/c13.php
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/02ac3acbbcf1c623c42e0d86798f91a7.png", TVN
+https://panel.miplay.cl:8081/tvn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/2ba64b67051e159ff48060da1a687fd0.png", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/10d3f797a67a40402a0aad39550016a6.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0213708bd751b9521f665bfe8b04c217.png", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png", CHV
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/43fceb5c5e2d1826778b5d8f6d764c51.png", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/916b0e60242442d28aadd89d80c5e857.png", Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e715bed03773298674201a372c4c9d32.png", Osorno TV+
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/138972442c9f6e8c471b5eecec021f08.png", TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d028a172056fd948709f4c909a35ae69.png", TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0f2225aacc3b5c914c6ccd293f435ec7.png", CHV Deportes
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
