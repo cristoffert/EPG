@@ -17,3 +17,37 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,TotalMusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="osorno.plaza-armas-1" tvg-name="Plaza de Armas" tvg-logo="http://216.155.78.8:19021/images/live.jpg" group-title="Cámaras Municipales Osorno",Plaza de Armas
+http://216.155.78.8:19021/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.plaza-armas-2" tvg-name="Plaza de Armas (Alt)" tvg-logo="http://190.121.3.148/memfs/a242862d-dfd0-4f5a-8782-13709e362040.jpg" group-title="Cámaras Municipales Osorno",Plaza de Armas (Alternativa)
+http://190.121.3.148/a242862d-dfd0-4f5a-8782-13709e362040.html
+#EXTINF:-1 tvg-id="osorno.plaza-armas-toro" tvg-name="Plaza de Armas - Toro" tvg-logo="http://216.155.78.8:19029/images/live.jpg" group-title="Cámaras Municipales Osorno",Plaza de Armas - Toro
+http://216.155.78.8:19029/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.parque-chuyaca" tvg-name="Parque Chuyaca" tvg-logo="http://216.155.78.8:19022/images/live.jpg" group-title="Cámaras Municipales Osorno",Parque Chuyaca
+http://216.155.78.8:19022/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.feria-rahue" tvg-name="Feria Rahue" tvg-logo="http://216.155.78.8:19025/images/live.jpg" group-title="Cámaras Municipales Osorno",Feria Rahue
+http://216.155.78.8:19025/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.estadio-allaire" tvg-name="Estadio Alberto Allaire" tvg-logo="http://216.155.78.8:19026/images/live.jpg" group-title="Cámaras Municipales Osorno",Estadio Alberto Allaire
+http://216.155.78.8:19026/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.villa-olimpica" tvg-name="Villa Olímpica" tvg-logo="http://216.155.78.8:19023/images/live.jpg" group-title="Cámaras Municipales Osorno",Villa Olímpica
+http://216.155.78.8:19023/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.parque-cuarto-centenario" tvg-name="Parque Cuarto Centenario" tvg-logo="http://216.155.78.8:19024/images/live.jpg" group-title="Cámaras Municipales Osorno",Parque Cuarto Centenario
+http://216.155.78.8:19024/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.puente-san-pablo" tvg-name="Puente San Pablo" tvg-logo="http://216.155.78.8:19033/images/live.jpg" group-title="Cámaras Municipales Osorno",Puente San Pablo
+http://216.155.78.8:19033/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.complejo-alday" tvg-name="Complejo Deportivo Alday" tvg-logo="http://216.155.78.8:19027/images/live.jpg" group-title="Cámaras Municipales Osorno",Complejo Deportivo Alday
+http://216.155.78.8:19027/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.mercado-municipal" tvg-name="Mercado Municipal" tvg-logo="http://216.155.78.8:19031/images/live.jpg" group-title="Cámaras Municipales Osorno",Mercado Municipal
+http://216.155.78.8:19031/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.complejo-rahue" tvg-name="Complejo Rahue Alto" tvg-logo="http://216.155.78.8:19028/images/live.jpg" group-title="Cámaras Municipales Osorno",Complejo Rahue Alto
+http://216.155.78.8:19028/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.puente-chaurakawin" tvg-name="Puente Chaurakawin" tvg-logo="http://216.155.78.8:19034/images/live.jpg" group-title="Cámaras Municipales Osorno",Puente Chaurakawin
+http://216.155.78.8:19034/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.puente-san-pedro" tvg-name="Puente San Pedro" tvg-logo="http://216.155.78.8:19032/images/live.jpg" group-title="Cámaras Municipales Osorno",Puente San Pedro
+http://216.155.78.8:19032/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.parque-olegario" tvg-name="Parque Olegario Mohr" tvg-logo="http://216.155.78.8:19030/images/live.jpg" group-title="Cámaras Municipales Osorno",Parque Olegario Mohr
+http://216.155.78.8:19030/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.universidad-lagos" tvg-name="Universidad de los Lagos" tvg-logo="http://216.155.78.8:19036/images/live.jpg" group-title="Cámaras Municipales Osorno",Universidad de los Lagos
+http://216.155.78.8:19036/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.mirasur-morro" tvg-name="Mirasur - El Morro" tvg-logo="http://216.155.78.8:19037/images/live.jpg" group-title="Cámaras Municipales Osorno",Mirasur - El Morro
+http://216.155.78.8:19037/hls/live.stream.m3u8
