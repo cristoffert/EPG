@@ -3,68 +3,6 @@
 
 #EXTINF:-1,ALIENTO VISIÓN
 http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1,OSORNO TV+
-https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
-#EXTINF:-1,OSORNO - PLAZA DE ARMAS
-http://portalimo.eastus.cloudapp.azure.com:19021/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PLAZA DE ARMAS TORO
-http://portalimo.eastus.cloudapp.azure.com:19029/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PARQUE CHUYACA
-http://portalimo.eastus.cloudapp.azure.com:19022/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - FERIA RAHUE
-http://portalimo.eastus.cloudapp.azure.com:19025/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - ESTADIO ALBERTO ALLAIRE
-http://portalimo.eastus.cloudapp.azure.com:19026/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - VILLA OLIMPICA
-http://portalimo.eastus.cloudapp.azure.com:19023/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PARQUE CUARTO CENTENARIO
-http://portalimo.eastus.cloudapp.azure.com:19024/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - ESTADIO RUBEN MARCOS
-http://portalimo.eastus.cloudapp.azure.com:19035/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PUENTE SAN PABLO
-http://portalimo.eastus.cloudapp.azure.com:19033/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - COMPLEJO DEPORTIVO ALDAY
-http://portalimo.eastus.cloudapp.azure.com:19027/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - MERCADO MUNICIPAL
-http://portalimo.eastus.cloudapp.azure.com:19031/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - COMPLEJO DEPORTIVO RAHUE ALTO
-http://portalimo.eastus.cloudapp.azure.com:19028/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PUENTE CHAURAKAWIN
-http://portalimo.eastus.cloudapp.azure.com:19034/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PUENTE SAN PEDRO
-http://portalimo.eastus.cloudapp.azure.com:19032/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - PARQUE OLEGARIO MOHR
-http://portalimo.eastus.cloudapp.azure.com:19030/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - UNIVERSIDAD DE LOS LAGOS
-http://portalimo.eastus.cloudapp.azure.com:19036/hls/live.stream.m3u8
-#EXTINF:-1,OSORNO - MIRASUR
-http://portalimo.eastus.cloudapp.azure.com:19037/hls/live.stream.m3u8
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="CHINA",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="Undefined",Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.net
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FASHION 4K
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 4K
-http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="Undefined",Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Undefined",Loupe 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Undefined",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Undefined",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Undefined",Loupe 4K (2160p)
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Наша Сибирь 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.ne
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",youtube
-https://www.youtube.com/live/P3FhO1UUGE8?si=t6LGVOeDdqzzTMW7
 #EXTINF:-1,ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,ENT Family
