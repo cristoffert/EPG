@@ -55,3 +55,5 @@ http://216.155.78.8:19037/hls/live.stream.m3u8
 https://g3.ipcamlive.com/player/player.php?alias=boleteriasvo&autoplay=1
 #EXTINF:-1 tvg-id="osorno.volcan-cono" tvg-name="Volcán Osorno - Cono Volcánico" tvg-logo="https://centrovolcanosorno.cl/img/logo.png" group-title="Centro Volcán Osorno",Volcán Osorno - Cono Volcánico
 https://g3.ipcamlive.com/player/player.php?alias=volcanosornocono&autoplay=1
+#EXTINF:-1,Volcan Osorno
+http://s143.ipcamlive.com/streams/8fzz3rsn1yudc02qj/stream.m3u8
