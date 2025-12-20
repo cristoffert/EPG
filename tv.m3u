@@ -51,3 +51,7 @@ http://216.155.78.8:19030/hls/live.stream.m3u8
 http://216.155.78.8:19036/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="osorno.mirasur-morro" tvg-name="Mirasur - El Morro" tvg-logo="http://216.155.78.8:19037/images/live.jpg" group-title="Cámaras Municipales Osorno",Mirasur - El Morro
 http://216.155.78.8:19037/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="osorno.volcan-boleteria" tvg-name="Volcán Osorno - Mirador Boletería" tvg-logo="https://centrovolcanosorno.cl/img/logo.png" group-title="Centro Volcán Osorno",Volcán Osorno - Mirador Boletería
+https://g3.ipcamlive.com/player/player.php?alias=boleteriasvo&autoplay=1
+#EXTINF:-1 tvg-id="osorno.volcan-cono" tvg-name="Volcán Osorno - Cono Volcánico" tvg-logo="https://centrovolcanosorno.cl/img/logo.png" group-title="Centro Volcán Osorno",Volcán Osorno - Cono Volcánico
+https://g3.ipcamlive.com/player/player.php?alias=volcanosornocono&autoplay=1
