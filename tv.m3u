@@ -67,3 +67,19 @@ https://24503.live.streamtheworld.com/CORAZONAAC.aac?csegid=12000
 https://29326.live.streamtheworld.com/ACTIVAAAC.aac?csegid=12000
 #EXTINF:-1 tvg-logo="https://www.carolina.cl/_templatesB/desktop/includes/img/carolina.svg" group-title="Radio",Carolina
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/icecast.audio
+#EXTINF:-1 tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="Radio",FM Dos
+https://27403.live.streamtheworld.com/FMDOSAAC.aac
+#EXTINF:-1 tvg-logo="https://www.carabineros.cl/secciones/radio/images/radio_ventana_logo.png?crc=4237286959" group-title="Radio",Carabineros de Chile
+https://streaming.prositel.cl/8374/stream
+#EXTINF:-1 tvg-logo="https://www.rockandpop.cl/wp-content/themes/britney/img/rockandpop.svg" group-title="Radio",Rock & Pop Chile
+https://24413.live.streamtheworld.com/ROCK_AND_POP_SC
+#EXTINF:-1 tvg-logo="https://www.nostalgica.cl/wp-content/uploads/2018/09/logo-nostalgica.png.webp" group-title="Radio",Nostalgica Copiapo
+https://video.mediawebchile.com:2000/stream/8032
+#EXTINF:-1 tvg-logo="https://elconquistadorfm.net/wp-content/uploads/2025/03/cq-fm-blanco-entero-1400x402-1.png" group-title="Radio",EL Conquistador Osorno
+https://centova.neonetwork.cl:9065/stream
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/punto-7-osorno.png" group-title="Radio",Punto 7 Osorno
+https://unlimited3-cl.dps.live/p7osorno/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.fmtiempo.cl/wp-content/themes/FM_Tiempo/img/logo.png" group-title="Radio",FM Tiempo
+https://mdstrm.com/audio/639b7943e0a27908a55dbf9e/icecast.audio
+#EXTINF:-1 tvg-logo="https://cl.radiodisney.com/img/modules/logos/lat/Logo.svg" group-title="Radio",Disney Chile
+https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/icecast.audio
