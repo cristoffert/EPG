@@ -61,3 +61,9 @@ https://g3.ipcamlive.com/player/player.php?alias=volcanosornocono&autoplay=1
 http://s143.ipcamlive.com/streams/8fzz3rsn1yudc02qj/stream.m3u8
 #EXTINF:-1 tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="Radio",40 Principales Chile
 https://27373.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000
+#EXTINF:-1 tvg-logo="https://envivo.corazon.cl/build/assets/corazonchile/img/logo.png" group-title="Radio",Corazón
+https://24503.live.streamtheworld.com/CORAZONAAC.aac?csegid=12000
+#EXTINF:-1 tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="Radio",Activa
+https://29326.live.streamtheworld.com/ACTIVAAAC.aac?csegid=12000
+#EXTINF:-1 tvg-logo="https://www.carolina.cl/_templatesB/desktop/includes/img/carolina.svg" group-title="Radio",Carolina
+https://mdstrm.com/audio/637f68ddce4b1208597d8a86/icecast.audio
