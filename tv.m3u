@@ -19,8 +19,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,CN City
 https://envivo.cncity.live/hls/envivo.m3u8
-#EXTINF:-1,40 Principales Chile
-https://27373.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000
 #EXTINF:-1 tvg-id="osorno.plaza-armas-1" tvg-name="Plaza de Armas" tvg-logo="http://216.155.78.8:19021/images/live.jpg" group-title="Cámaras Municipales Osorno",Plaza de Armas
 http://216.155.78.8:19021/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="osorno.plaza-armas-2" tvg-name="Plaza de Armas (Alt)" tvg-logo="http://190.121.3.148/memfs/a242862d-dfd0-4f5a-8782-13709e362040.jpg" group-title="Cámaras Municipales Osorno",Plaza de Armas (Alternativa)
@@ -61,3 +59,5 @@ https://g3.ipcamlive.com/player/player.php?alias=boleteriasvo&autoplay=1
 https://g3.ipcamlive.com/player/player.php?alias=volcanosornocono&autoplay=1
 #EXTINF:-1,Volcan Osorno
 http://s143.ipcamlive.com/streams/8fzz3rsn1yudc02qj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="Radio",40 Principales Chile
+https://27373.live.streamtheworld.com/LOS40_CHILEAAC.aac?csegid=12000
